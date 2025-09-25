@@ -1,0 +1,2247 @@
+numero_expediente,empresa,estado,municipio_o_delegacion,clinica_veterinaria,farmacia_veterinaria,hospital_veterinario
+0001-27-14,Jesus Fernando Hernandez Hernandez,Tabasco,Tabasco,si,si,si
+0004-09-14,Diana Iris Santiago Lopez,Ciudad de Mexico,Benito Juarez,si,si,no
+0005-09-14,Karina Barrios Zarate,Ciudad de Mexico,Alvaro Obregon,si,si,no
+0006-09-14,Norma Silvia Perez Gallardo,Ciudad de Mexico,Xochimilco,si,no,no
+0007-14-14,Jose Jaime Andrade Garcia,Jalisco,Zapopan,si,no,no
+0008-14-14,Samantha Estefania Andrade Sanchez,Jalisco,Guadalajara,si,no,no
+0009-14-14,Paola Montserrat Andrade Sanchez,Jalisco,Zapopan,si,no,no
+0010-09-14,Luis Antonio Razo Toro,Ciudad de Mexico,Coyoacan,no,no,no
+0011-09-14,Areli Josefina Carmona Altamirano,Ciudad de Mexico,Benito Juarez,no,no,no
+0012-02-14,Carpio Obeso Ruben,Baja California,Mexicali,si,si,no
+0013-30-14,Luis Juan Gutierrez Diaz,Veracruz,Fortin,si,si,no
+0014-19-14,Rosa Catalina Alvarado Rocha,Nuevo Leon,Linares,si,si,no
+0015-09-14,Jonathan Gomez Jimenez,Ciudad de Mexico,Iztapalapa,si,no,no
+0016-09-14,Martinez Barton Billy Jack,Ciudad de Mexico,Iztacalco,si,no,no
+0017-09-14,Petsmania Mexico SA de CV,Ciudad de Mexico,Tlalpan,no,no,no
+0018-09-14,Monica Elena Hernandez Urbina,Ciudad de Mexico,Iztacalco,si,no,no
+0019-09-14,Villanueva Arenales Gerardo,Ciudad de Mexico,Iztacalco,si,no,si
+0020-09-14,Veronica Catalina Rivas Martinez,Ciudad de Mexico,Venustiano Carranza,si,no,no
+0021-09-14,Anna Kathy Mitchell Arana,Ciudad de Mexico,Coyoacan,si,no,no
+0022-09-14,Celestino del Rio Gil,Ciudad de Mexico,Coyoacan,si,no,no
+0023-09-14,Maria Andrea Suarez Vazquez,Ciudad de Mexico,Iztacalco,no,no,no
+0024-09-14,Deborah Sades Bronsoler,Ciudad de Mexico,Miguel Hidalgo,si,no,si
+0025-09-14,Julio Escalante de Icaza,Ciudad de Mexico,Coyoacan,si,si,no
+0026-09-14,Facultad de Medicina Veterinaria y Zootecnia de la Universidad Nacional Autonoma de Mexico,Ciudad de Mexico,Coyoacan,si,si,si
+0027-30-14,Edith Camacho Pitalua,Veracruz,Veracruz,si,si,si
+0028-09-14,Jorge Ramon Gutierrez Alfaro,Ciudad de Mexico,Iztacalco,si,no,no
+0029-21-14,Dolores Limon Palestina,Puebla,Guadalupe Victoria,no,si,no
+0030-12-14,Bulmaro Ayala Apreza,Guerrero,Zirandaro,no,si,no
+0032-09-14,Maria Elena Barrera Gonzalez,Ciudad de Mexico,Miguel Hidalgo,no,si,no
+0033-17-14,Ocampo Paz Luz,Morelos,Cuautla,si,si,no
+0035-02-14,Oscar Agramont Serralta,Baja California,Mexicali,si,si,no
+0036-02-14,Agramont Delgado Oscar Cesar,Baja California,Mexicali,si,si,no
+0037-02-14,Ricardo Agramont Serralta,Baja California,Mexicali,si,si,no
+0038-09-14,Francisco Javier Servin Juarez,Ciudad de Mexico,Xochimilco,si,no,no
+0039-15-14,Forsadi S de Rl de CV,Mexico,Nezahualcoyotl,si,si,si
+0040-09-14,Sandro Yoshio Romero Mosco,Ciudad de Mexico,Iztacalco,si,no,no
+0041-23-14,Olga Ruth Gamboa Vela,Quintana Roo,Benito Juarez,si,no,no
+0042-23-14,Alfredo Polanco Ricalde,Quintana Roo,Benito Juarez,si,no,no
+0043-23-14,Sandra Luz Valdez Morales,Quintana Roo,Solidaridad,si,si,no
+0044-25-14,Rodeo Rs SA de CV,Sinaloa,Culiacan,si,no,no
+0045-09-14,Banfield International de Mexico S de Rl de CV,Ciudad de Mexico,Coyoacan,no,no,si
+0047-20-14,Ines Lopez Luis,Oaxaca,Santo Domingo Teojomulco,no,si,no
+0048-23-14,Wilbert Francisco Perez Parra,Quintana Roo,Benito Juarez,si,no,no
+0050-09-14,Jorge Netzahualcoyotl Aguilar Rodriguez,Ciudad de Mexico,Ciudad de Mexico,si,no,no
+0051-02-14,Roberto Cuen Macias,Baja California,Tijuana,no,no,no
+0052-02-14,Jose Luis Perez Galan,Baja California,Tijuana,no,si,no
+0053-23-14,Leonor del Carmen Garcia Torre,Quintana Roo,Benito Juarez,no,si,no
+0054-23-14,Santa Cruz Campos Torre,Quintana Roo,Benito Juarez,no,si,no
+0055-19-14,Esmeralda Marisol Hernandez Cardenas,Nuevo Leon,Linares,no,si,no
+0056-21-14,De la Cruz Candia Maria Antonia,Puebla,Tecamachalco,no,si,no
+0057-21-14,Juan Carlos Gomez Ramirez,Puebla,Tehuacan,si,no,si
+0058-23-14,Rodolfo Jimenez Canet Ramirez,Quintana Roo,Solidaridad,no,no,no
+0059-21-14,Elias Neftali Herrera Zafra,Puebla,Tehuacan,no,no,no
+0060-09-14,Juan Manuel Cuetara Llaca,Ciudad de Mexico,Benito Juarez,si,no,si
+0061-02-14,Nordistribuciones Veterinarias SA de CV,Baja California,Mexicali,si,si,si
+0063-02-14,Gama Gomez Carlos,Baja California,Tijuana,no,no,no
+0064-09-14,Ana Luisa Hurtado Mateos,Ciudad de Mexico,Iztacalco,si,no,no
+0065-09-14,Erick Mendez Zetina,Ciudad de Mexico,Iztacalco,no,no,no
+0066-12-14,Mario Salas Tellez,Guerrero,Arcelia Guerrero,no,si,no
+0067-09-14,David Mendez Rascon,Ciudad de Mexico,Gustavo a Madero,si,no,si
+0068-16-14,Jose Hugo Guerrero Pacheco,Michoacan,Uruapan,si,si,si
+0069-16-14,Maria Teresa Chavez Urueta,Michoacan,Uruapan,si,si,si
+0070-14-14,Juan Alberto del Rio Martin del Campo,Jalisco,Tepatitlan de Morelos,si,no,no
+0071-14-14,Giovanna Venice Penilla Fernandez,Jalisco,Zapopan,si,no,no
+0072-27-14,Abel Bedoy Rodriguez,Tabasco,Centla,no,si,no
+0073-27-14,Martinez Diaz Leticia,Tabasco,Centro,no,si,no
+0074-27-14,Oscar Fernandez Acuna,Tabasco,Comalcalco,si,no,no
+0075-14-14,World Animal Clinica Veterinaria SA de CV,Jalisco,Zapopan,no,no,si
+0076-18-14,Miguel Dibildox del Valle,Nayarit,Tepic,si,si,no
+0077-18-14,Ana Cecilia Rojas Virgen,Nayarit,Tepic,si,si,no
+0078-02-14,Francisca Lozano Aldana,Baja California,Tijuana,si,si,no
+0079-02-14,Mirna Mireya Millan Varela,Baja California,Tijuana,si,si,si
+0080-02-14,Julio Cesar Garcia Vazquez,Baja California,Tijuana,si,no,no
+0081-02-14,Bernardo Lopez Fonseca,Baja California,Tijuana,si,si,si
+0082-02-14,Carlos Nicolas Lopez Fonseca,Baja California,Tijuana,si,si,si
+0083-18-14,Rodriguez Ledesma Monica Cirenia,Nayarit,Santiago Ixcuintla,no,si,no
+0084-18-14,Medina Urenda Ruben,Nayarit,Ruiz,no,si,no
+0085-02-14,Mercedes Fonseca Bojorquez,Baja California,Tijuana,si,si,si
+0086-02-14,Ernesto Quevedo Castro,Baja California,Tijuana,si,si,no
+0087-02-14,Victor Francisco Valencia Mendivil,Baja California,La Presa,si,si,si
+0088-02-14,Jose Alfredo Escalera Moreno,Baja California,Tijuana,si,si,no
+0089-02-14,Marco Antonio Aldana Bonilla,Baja California,Tijuana,si,si,si
+0091-18-14,Zaida Maria Chavez Chalita,Nayarit,Tepic,no,si,no
+0092-18-14,Gabriel Amparo Tello,Nayarit,Tepic,no,si,no
+0093-18-14,Sergio Margarito Gonzalez Velazquez,Nayarit,Xalisco,no,si,no
+0094-02-14,Luis Alfonso Lopez Fonseca,Baja California,Tijuana,si,si,si
+0095-02-14,Jose Martin Lugo Calderon,Baja California,Tijuana,si,si,no
+0096-02-14,Jose Luis Gomez Garcia,Baja California,Tijuana,si,no,no
+0097-27-14,Alberto de la Cruz Hernandez,Tabasco,Jalapa,no,si,no
+0098-27-14,Jose Victor Hernandez Pacheco,Tabasco,Centro,si,no,no
+0099-31-14,Pedro Armando Carrillo Montero,Yucatan,Merida,no,si,no
+0100-09-14,Clinica Veterinaria Casaubon Sc,Ciudad de Mexico,Coyoacan,si,no,si
+0101-09-14,Sofia Macias Garcia,Ciudad de Mexico,Coyoacan,no,si,no
+0102-09-14,Luis Angel Bedolla Sarabia,Ciudad de Mexico,Coyoacan,si,no,no
+0103-18-14,Viridiana Grisel Arreola Monroy,Nayarit,Tepic,si,no,no
+0104-16-14,Espinosa Barragan Gabriel,Michoacan,Uruapan,si,si,no
+0105-09-14,Tobon Cabrera Miguel,Ciudad de Mexico,Iztacalco,si,no,no
+0106-15-14,Ernesto Urzua Gonzalez,Mexico,Tlalnepantla de Baz,si,si,si
+0107-23-14,Jose Luis Najar Ramirez,Quintana Roo,Benito Juarez,si,si,si
+0108-02-14,Jose Bonilla Sanchez,Baja California,Tijuana,si,si,si
+0109-02-14,Dagoberto Gutierrez Borrayo,Baja California,Tijuana,si,no,no
+0110-14-14,Artemisa Ramirez Escobedo,Jalisco,Tlajomulco de Zuniga,si,si,no
+0001-09-15,Clinica Integral Veterinaria Lan SA de CV,Ciudad de Mexico,Cuauhtemoc,si,no,si
+0002-07-15,Maria del Carmen Anza Varela,Chiapas,Tuxtla Gutierrez,si,si,no
+0003-07-15,Olena Gehrke Portilla,Chiapas,Tuxtla Gutierrez,si,si,si
+0005-09-15,Sofia Vargas Trujillo,Ciudad de Mexico,Benito Juarez,si,no,si
+0006-09-15,Rodolfo Reyes Flores,Ciudad de Mexico,Miguel Hidalgo,si,si,no
+0007-09-15,Edelmira Montes Mora,Ciudad de Mexico,Tlahuac,si,si,no
+0008-13-15,Irma Medrano Reyes,Hidalgo,Zacualtipan de Angeles,si,no,no
+0009-16-15,Viridiana Penaloza Diaz,Michoacan,Morelia,si,no,no
+0010-02-15,Francisco Ramos Alvarez,Baja California,Tijuana,si,si,si
+0011-09-15,Asuncion Cupil Lopez,Ciudad de Mexico,Tlalpan,no,no,no
+0012-01-15,Nabor Larios Magdaleno,Aguascalientes,Aguascalientes,si,si,si
+0013-21-15,Genaro Andres Velazquez Reyes,Puebla,Tehuacan,si,no,no
+0014-16-15,Rosa Martha Villegas Sanchez,Michoacan,Morelia,si,si,no
+0015-05-15,Morales Garibay Hector,Coahuila,San Buenaventura,si,si,no
+0016-09-15,Manuel Hernandez Gonzalez,Ciudad de Mexico,Magdalena Contreras,si,si,no
+0017-09-15,Jorge Eduardo Corona Barroso,Ciudad de Mexico,Coyoacan,si,si,no
+0018-09-15,Vazquez Lopez Juan Martin,Ciudad de Mexico,Iztacalco,si,no,no
+0019-30-15,Araceli Mendoza Hernandez,Veracruz,Xalapa,si,si,no
+0020-02-15,Fidel Lozano Gaspar,Baja California,Tecate,no,si,si
+0021-09-15,Federacion Canofila Mexicana Ac,Ciudad de Mexico,Tlalpan,si,no,si
+0023-09-15,Hermilo Garcia Mayen,Ciudad de Mexico,Iztacalco,si,si,si
+0024-02-15,Maria Esperanza Bojorquez Gastelum,Baja California,Tecate,no,si,no
+0025-14-15,Arturo de la Torre Aceves,Jalisco,Guadalajara,si,si,no
+0026-14-15,Adan Sanchez Rosales,Jalisco,Guadalajara,si,si,no
+0027-14-15,Alvaro Garcia Alvarez,Jalisco,Zapopan,si,no,no
+0028-14-15,Erika Magdalena Perez Mejia,Jalisco,Zapopan,si,si,no
+0029-27-15,Blanca Patricia Hernandez Belueta,Tabasco,Centro,no,si,no
+0030-09-15,Salazar Bedolla Elizabeth,Ciudad de Mexico,Iztacalco,no,si,no
+0031-14-15,Altagracia Isabel Garcia Cortes,Jalisco,Guadalajara,si,si,no
+0032-14-15,Jaime Hernandez Rizo,Jalisco,Guadalajara,si,si,no
+0034-02-15,Maria Luisa Moreno Reyes,Baja California,Tijuana,no,si,no
+0035-27-15,Virginia Calix Triano,Tabasco,Cardenas,no,si,no
+0036-30-15,Gallegos Carcamo Juan Tomas,Veracruz,Veracruz,si,no,no
+0037-15-15,Avila Segura Enrique Bernabe,Mexico,Toluca,si,si,no
+0039-23-15,Sara Detamahar Diaz Garcia,Quintana Roo,Benito Juarez,no,no,no
+0040-07-15,Kobat Especialistas En Fauna Silvestre SA de CV,Chiapas,Tuxtla Gutierrez,si,no,no
+0041-22-15,Maria Concepcion Botello Barcenas,Queretaro,Queretaro,si,no,no
+0042-09-15,Erick Lopez Vazquez,Ciudad de Mexico,Tlahuac,si,si,no
+0043-22-15,Fortunato Sanchez Murillo,Queretaro,Queretaro,no,si,no
+0044-16-15,Jesus Camacho Calderon,Michoacan,Morelia,si,no,no
+0045-02-15,Alfonso Gomez Contreras,Baja California,Tecate,si,si,no
+0046-16-15,Gabriela Arnaud Perez,Michoacan,Morelia,si,no,no
+0047-09-15,Veterinaria Tollocan SA de CV,Ciudad de Mexico,Benito Juarez,no_,no,si
+0048-16-15,Rosa Isela Hernandez Alvarez,Michoacan,Morelia,si,si,no
+0049-30-15,Antonio Martinez Valero,Veracruz,Veracruz,si,no,no
+0050-02-15,Armendariz Arroyo Maria de Los Angeles,Baja California,Tecate,no,si,si
+0051-12-15,Jose Luis Rodriguez Lopez,Guerrero,Pungarabato,no,si,no
+0052-02-15,Gaxiola Santos Arlette Iliana,Baja California,Mexicali,si,si,no
+0053-02-15,Gaxiola Santos Jorge Humberto,Baja California,Mexicali,si,si,no
+000055-09-15,Clinica Veterinaria de Especialidades Inguaran Sc,Ciudad de Mexico,Gustavo a Madero,si,si,no
+0056-23-15,Urso Augusto Morales Cruz,Quintana Roo,Benito Juarez,si,si,no
+0057-14-15,Claudia Lizette Escontria Pita,Jalisco,Puerto Vallarta,si,no,si
+0059-21-15,Miguel Angel Gorgonio Pacheco Espinoza,Puebla,San Gabriel Chilac,si,si,si
+0060-02-15,Sergio Alejandro Fimbres Maldonado,Baja California,Tecate,no,si,no
+0061-09-15,Edna Angelica Gaytan Zamarripa,Ciudad de Mexico,Cuauhtemoc,si,si,no
+0063-02-15,Gustavo Cazares Bojorquez,Baja California,Tecate,no,si,no
+0064-02-15,Aracely Felix Chaparro,Baja California,Tijuana,si,si,no
+0065-08-15,Humberto Carmona Cabral,Chihuahua,Chihuahua,si,si,si
+0066-27-15,Campos Andrade Dora Maria,Tabasco,Macuspana,no,si,no
+0067-27-15,Guadalupe Madrigal Arias,Tabasco,Jalpa de Mendez,no,si,no
+0068-27-15,Ofelia del Carmen Palos Leon,Tabasco,Cardenas,no,si,no
+0069-27-15,Noemi Arias Sanchez,Tabasco,Macuspana,no,si,no
+0070-08-15,Almacen de Veterinaria el Ganadero SA de CV,Chihuahua,Nuevo Casas Grandes,no,si,no
+0073-23-15,Elias Ramos Sanchez,Quintana Roo,Benito Juarez,si,si,no
+0074-21-15,Lazaro de Jesus Cortes,Puebla,Santo Tomas Hueyotlipan,no,si,no
+0075-27-15,Luciano Hernandez Lopez,Tabasco,Centro,no,si,no
+0076-27-15,Maria Cristina Sol Ble,Tabasco,Macuspana,no,si,no
+0077-27-15,Willian Villegas Lopez,Tabasco,Centro,no,si,no
+0078-14-15,Maria Guadalupe Fernandez Gonzalez,Jalisco,Zapopan,si,si,no
+0079-09-15,Rafael Segura Gamez,Ciudad de Mexico,Alvaro Obregon,si,no,no
+0081-23-15,Martha Lizbet Diaz Arellanos,Quintana Roo,Cozumel,si,no,no
+0082-30-15,Veterinaria el Rancho SA de CV,Veracruz,Acayucan,no,si,no
+0083-27-15,Cooperativa Asociacion Ganadera Local de Macuspana Sc de Rl de CV,Tabasco,Macuspana,no,si,no
+0084-09-15,David Hernandez Gutierrez,Ciudad de Mexico,Benito Juarez,si,si,si
+0085-14-15,Maria de Lourdes Morales Navarrete,Jalisco,Zapopan,si,si,no
+0087-14-15,Roberto Sanchez Sandoval,Jalisco,Zapopan,si,no,no
+0088-09-15,Sanchez Rodriguez Juan Carlos,Ciudad de Mexico,Gustavo a Madero,si,no,no
+0090-09-15,Tanous Hage Jacqueline,Ciudad de Mexico,Alvaro Obregon,si,no,no
+0091-21-15,Ajuria Vergara Juan Carlos,Puebla,Acatlan de Ororio,no,si,no
+0092-09-15,Lorena Ibarra Rionda,Ciudad de Mexico,Miguel Hidalgo,no,no,no
+0093-16-15,Alfonso Jose Medrano Valtierra,Michoacan,Zitacuaro,si,no,no
+0094-09-15,Carolina Hernandez Vazquez,Ciudad de Mexico,Iztacalco,si,no,no
+0095-02-15,Fernando Sanchez Fernandez,Baja California,Tijuana,si,si,si
+0096-09-15,A Mania Todo Para Mascotas y Mucho Mas SA de CV,Ciudad de Mexico,Miguel Hidalgo,no,no,si
+0097-31-15,Maria Isabel Gonzalez Villanueva,Yucatan,Merida,no,si,no
+0098-16-15,Daniel Alejandro Gomez Pizano,Michoacan,Morelia,no,no,si
+0099-16-15,Omar Pineda Herrera,Michoacan,Morelia,si,no,no
+0100-09-15,Hernandez Ruiz Manuel Felipe,Ciudad de Mexico,Tlalpan,si,si,no
+0101-13-15,Jaime Mejia Garcia,Hidalgo,Cuautepec de Hinojosa,no,no,no
+0102-01-15,Alma Elisa de Leon Saldoval,Aguascalientes,Aguascalientes,si,no,si
+0104-23-15,Mariana Albacete Orozco,Quintana Roo,Solidaridad,si,si,si
+0105-09-15,Gabriela Patricia Perez Palomares,Ciudad de Mexico,Xochimilco,si,si,si
+0106-02-15,Davila Reyes Rodolfo,Baja California,Tijuana,no,si,no
+0107-15-15,Distribuidora Veterinaria de Medicamentos SA de CV,Mexico,Naucalpan,si_,si_,si_
+0108-12-15,Lhia Uranga Ortega,Guerrero,Zihuatanejo de Azueta,no,si,no
+0109-12-15,Salvador Ibarra Flores,Guerrero,Zihuatanejo de Azueta,no,si,no
+0110-12-15,Rafael Lobato Castro,Guerrero,Zihuatanejo de Azueta,no,si,no
+0111-12-15,Ma Guadalupe Ruiz Estrada,Guerrero,Zihuatanejo de Azueta,no,si,no
+0112-12-15,Roberto Eduardo Leyva Magana,Guerrero,La Union de Isidoro Montes de Oca,no,si,no
+0113-09-15,Luis Martin Villegas Vargas,Ciudad de Mexico,Alvaro Obregon,si,no,no
+0115-15-15,Jose Luis Arias Navarro,Mexico,Acambay de Ruiz Castaneda,no,no,no
+0116-30-15,Forrajera la Posta SA de CV,Veracruz,Banderilla,no,si,no
+0117-15-15,Lazaro Anastacio de la Garza Velazquez,Mexico,Chicoloapan,no,si,no
+0118-15-15,Roberto Ramirez Flores,Mexico,Nezahualcoyotl,si,si,no
+0119-15-15,Eva Eugenia Tovar Aviles,Mexico,Tlalnepantla de Baz,si,si,no
+0120-09-15,Hospital Veterinario de Alta Especialidad Sc,Ciudad de Mexico,Benito Juarez,no,no,si
+0121-02-15,Jury Raygoza Saldivar,Baja California,Tijuana,si,si,no
+0122-09-15,Norma Alejandra Azpiroz Villanueva,Ciudad de Mexico,Magdalena Contreras,si,no,si
+0123-02-15,Maria Anita Garcia,Baja California,Tijuana,si,no,no
+0124-09-15,Arturo Albiter Flores,Ciudad de Mexico,Tlalpan,si,si,si
+0125-09-15,Animal Home Mexico S de Rl de CV,Ciudad de Mexico,Tlalpan,si,si,si
+0126-14-15,Ignacio Hernandez Diaz,Jalisco,Zapopan,si,no,si
+0127-02-15,Estela Camacho Castro,Baja California,Mexicali,si,si,no
+0128-02-15,Daniel Graciano Gonzalez,Baja California,Mexicali,si,si,si
+0129-15-15,Gerardo Garza Malacara,Mexico,Tlalnepantla de Baz,si,no,si
+0130-02-15,Gonzalo Aldama Duarte,Baja California,Mexicali,no,si,no
+0131-02-15,Alma Merary Rios Delgado,Baja California,Mexicali,no,si,no
+0132-02-15,Jair Enrique Fuentes Castro,Baja California,Mexicali,si,si,no
+0133-09-15,Mirtha Yadira Carranza Flores,Ciudad de Mexico,Milpa Alta,si,si,no
+0134-02-15,Ma de Los Angeles Hernandez Lopez,Baja California,Mexicali,si,no,no
+0135-02-15,Paola Mariana Arroyo Garcia,Baja California,Mexicali,no,si,no
+0136-09-15,Victor Perez Sea,Ciudad de Mexico,Iztacalco,si,si,no
+0137-02-15,Central Express de Control de Plagas SA de CV,Baja California,Mexicali,si,si,no
+0138-01-15,Enrique Javier Argüelles Mora,Aguascalientes,Aguascalientes,si,si,si
+0139-02-15,Teofilo Ortega Salazar,Baja California,Mexicali,si,si,no
+0142-01-15,Claudia Veronica Vicencio Reyes,Aguascalientes,Aguascalientes,si,si,no
+0143-02-15,Nora Maria Cardenas Alvarez,Baja California,Mexicali,si,si,no
+0144-02-15,Perez Silva Aurelio,Baja California,Mexicali,si,si,no
+0145-02-15,Ma Bernardina Perez Silva,Baja California,Mexicali,si,si,no
+0146-02-15,Maria Guadalupe Silvia Cuellar Montenegro,Baja California,Mexicali,no,si,no
+0148-02-15,Perez Escobar Mara Armida,Baja California,Mexicali,no,si,no
+0149-12-15,Maciel Vargas Rosa Maria,Guerrero,Zihuatanejo de Azueta,no,si,no
+0150-12-15,Salvador Campos Aburto,Guerrero,Zihuatanejo de Azueta,no,si,no
+0151-12-15,Galeana Castro Vicente,Guerrero,Zihuatanejo de Azueta,no,si,no
+0152-12-15,Santana Vazquez Angelica,Guerrero,Zihuatanejo de Azueta,no,si,no
+0153-02-15,Acosta Bojorquez Eleazar,Baja California,Mexicali,si,si,si
+0154-21-15,Perez Rosales Ruperto,Puebla,San Salvador Huixcolotla,no,si,no
+0155-21-15,Sara Leticia Hernandez Hernandez,Puebla,Atlixco,si,si,si
+0156-21-15,Sara Alicia Pacheco Ortiz,Puebla,Tehuacan,si,si,no
+0157-09-15,Adan Garcia Rosas,Ciudad de Mexico,Iztapalapa,no,no,no
+0158-09-15,Felipe Alberto Delgado Delgado,Ciudad de Mexico,Benito Juarez,si,si,no
+0159-09-15,Mouret Rodriguez Claudio Enrique Emmanuel,Ciudad de Mexico,Iztacalco,si,no,no
+0161-13-15,Luz Maria Carmona Andrade,Hidalgo,Tulancingo,no,si,no
+0162-15-15,Francisco Hugo Martinez Diego,Mexico,Nezahualcoyotl,si,si,si
+0163-12-15,Hernandez Franco Celestino,Guerrero,Zitacuaro,no,si,no
+0165-09-15,Silvia Ruiz Villalon,Ciudad de Mexico,Iztacalco,si,no,no
+0166-15-15,Ariel Fernando Saldivar Flores,Mexico,Tlalnepantla,si,si,no
+0167-30-15,Antonio Quinto Diez,Veracruz,San Andres Tuxtla,si,si,no
+0169-25-15,Grupo Prostasa de Mexico SA de CV,Baja California,Mexicali,si,si,si
+0170-22-15,Ma Teresa Garcia Jimenez,Queretaro,Queretaro,si,si,no
+0172-09-15,Garcia Ponce Tito Livio,Ciudad de Mexico,Tlalpan,si,si,no
+0173-09-15,Bernardo Chavez Roqueni,Ciudad de Mexico,Coyoacan,si,si,si
+0174-06-15,Claudia Estefania Olvera Torres,Colima,Colima,si,si,no
+0179-09-15,Cristobal Topete Barrera,Ciudad de Mexico,Tlalpan,no,no,no
+0180-02-15,Rios Perez Sergio,Baja California,Mexicali,si,si,no
+0181-21-15,Vergara Lopez Jose Gregorio,Puebla,Tecali de Herrera,no,si,no
+0182-21-15,Jose Luis Munoz Lopez,Puebla,Tochtepec,no,no,no
+0184-09-15,Cinthia Acosta Villegas,Ciudad de Mexico,Benito Juarez,si,si,no
+0185-09-15,Cecilia Concepcion Avalos Santiago,Ciudad de Mexico,Benito Juarez,si,si,no
+0186-22-15,Hospital Para Mascotas SA de CV,Queretaro,Queretaro,si,no,si
+0187-16-15,Anouk Darlene Ochoa Chavez,Michoacan,Uruapan,no,si,no
+0188-16-15,Hugo Ernesto Gil Villa,Michoacan,Morelia,si,no,no
+0189-16-15,Yhazmin Eugenia Pineda Rosales,Michoacan,Morelia,si,si,si
+0190-16-15,Maria del Rocio Alvarez Heredia,Michoacan,Los Reyes,no,si,no
+0191-16-15,Fernando Carrillo Arteaga,Michoacan,Uruapan,no,si,no
+0192-16-15,Maria Guadalupe Gutierrez Cancino,Michoacan,Morelia,si,no,no
+0193-02-15,Lorena Saborit Castro,Baja California,Tijuana,si,no,si
+0194-02-15,Aviles Valenzuela Miguel,Baja California,Mexicali,si,si,si
+0195-02-15,Alma Angelina Castellanos Felix,Baja California,Mexicali,si,si,no
+0196-02-15,Claudia Acosta Grajeda,Baja California,Tijuana,si,si,no
+0196-02-15,Claudia Acosta Grajeda,Baja California,Tijuana,si,si,no
+0197-02-15,Cesar Wilfredo Solorzano Hernandez,Baja California,Tijuana,si,no,si
+0198-02-15,Jose Antonio Pinto Cruz,Baja California,Tijuana,no,si,no
+0200-09-15,Alanis Vallarta Miguel Angel,Ciudad de Mexico,Xochimilco,si,no,no
+0201-14-15,America Dalia Moya Gaona,Jalisco,Guadalajara,si,si,no
+0202-14-15,Maria Guadalupe Herrera Andrade,Jalisco,Zapopan,si,si,no
+0203-14-15,Silvia Lizette Benitez Miranda,Jalisco,Jalisco,si,no,no
+0204-14-15,Jose Luis Torres Sanchez,Jalisco,Zapopan,si,no,no
+0205-14-15,Arturo Jimenez Garcia,Jalisco,Zapopan,si,si,no
+0206-14-15,Edith Rodarte Gonzalez,Jalisco,Guadalajara,si,no,si
+0207-09-15,Ruiloba Ausin Fernando Eduardo,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+0209-09-15,Itzcuitlan SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,si
+0210-15-15,Natazhimi Dog & Tanyerin Cat SA de CV,Mexico,Huixquilucan,si,si,si
+0211-05-15,Mascotas y Mas SA de CV,Coahuila,Saltillo,si,si,si
+0212-05-15,Hector Adolfo Medina Romo,Coahuila,Saltillo,si,si,si
+0213-13-15,Maria Judith Pacheco Gutierrez,Hidalgo,Tizayuca,no,si,no
+0214-09-15,Knoth Fierro Lidia,Ciudad de Mexico,Iztacalco,si,si,no
+0215-02-15,Arcega Saboria Jose Guillermo,Baja California,Mexicali,si,si,no
+0216-02-15,Jose Luis Flores Ramos,Baja California,Mexicali,no,si,si
+0217-02-15,Alicia Andrea Felix Alvarez,Baja California,Ensenada,si,si,no
+0218-14-15,Cordova Estrada Gloria Edith,Jalisco,Sayula,si,si,si
+0222-06-15,Gilberto Isidro Arana Govea,Colima,Manzanillo,si,si,si
+0225-14-15,Daniela Alton Zepeda,Jalisco,Guadalajara,si,si,si
+0228-15-15,Erick Alberto Lopez Hernandez,Mexico,Coacalco de Berriozabal,si,no,no
+0229-09-15,Jose Alvaro Zugarazo Lecona,Ciudad de Mexico,Tlalpan,si,si,si
+0234-09-15,Oftalvet Servicio Veterinario SA de CV,Ciudad de Mexico,Benito Juarez,si,si,si
+0235-09-15,Sandra Mariana Hernandez Garcia,Ciudad de Mexico,Tlalpan,si,si,no
+0236-09-15,Roberto Armando Rojo Botello,Ciudad de Mexico,Azcapotzalco,si,si,no
+0237-09-15,Raymundo Razo Barragan,Ciudad de Mexico,Tlalpan,si,si,no
+0238-22 -15,Jose Arturo Alvarez Vargas,Queretaro,Queretaro,no,no,no
+0239-04-15,Julio Cesar Calcaneo Priego,Campeche,Escarcega,no,si,no
+0240-14-15,Patricia Oropeza Lopez,Jalisco,Teocaltiche,si,si,no
+0241-09-15,Angelica Martinez Galicia,Ciudad de Mexico,Cuauhtemoc,si,si,no
+0242-09-15,Gonzalez Oliver Sergio,Ciudad de Mexico,Coyoacan,si,si,si
+0243-09-15,Arturo Jorge Cortes Iracheta,Ciudad de Mexico,Cuauhtemoc,si,si,si
+0244-09-15,Guadalupe Veronica Delgado Hernandez,Ciudad de Mexico,Benito Juarez,si,si,si
+0245-09-15,Jimenez Morales Carlos,Ciudad de Mexico,Gustavo a Madero,si,si,no
+0246-30-15,Distribuidor Veterinario San Juan SA de CV,Veracruz,Oluta,si,si,no
+0247-16-15,Eva Hernandez Calvillo,Michoacan,Patzcuaro,si,si,no
+0247-16-15,Ignacio Hernandez Diaz,Jalisco,Zapopan,no,no,si
+0248-05-15,Isidoro Gamez Cano,Coahuila,Parras,no,si,no
+0250-27-15,Juan Carlos Magana Ramon,Tabasco,Cunduacan,no,si,no
+0251-05-15,Gerardo Luis Gonzalez Saucedo,Coahuila,Saltillo,si,si,no
+0252-09-15,Ortiz Martinez Hector Manuel,Ciudad de Mexico,Magdalena Contreras,si,si,no
+0253-09-15,Secretaria de la Defensa Nacional (Almacen No 3 Insumos de Uso Veterinario de la Sdn Almacenes Generales de Sanidad),Ciudad de Mexico,Miguel Hidalgo,no,no,no
+0254-16-15,Asociacion Ganadera Local de Venustiano Carranza Mich,Michoacan,Venustiano Carranza,no,si,no
+0255-10-15,Rosa Alicia Silva Franco,Durango,Durango,si,si,si
+0062-19-15,Luis Fernando Rodriguez Rodriguez,Nuevo Leon,San Nicolas de Los Garza,no,si,no
+0256-09-15,Valentin Rodriguez Rosas,Sd,Sd,sd,sd,sd
+0257-25-15,Daniel Alejandro Penuelas Estrada,Sinaloa,Guasave,si,si,no
+0258-15-15,Asuncion Avila Merino,Mexico,Naucalpan,si,no,no
+0259-21-15,Lecona Pardo Antonio,Puebla,Xicotepec de Juarez,no,si,no
+0260-18-15,Jorge Arturo Aranda Orozco,Nayarit,Santiago Ixcuintla,no,si,no
+0261-27-15,Cecilia Correa Garcia,Tabasco,Cardenas,no,si,no
+0262-27-15,Servirancho SA de CV,Tabasco,Cardenas,no,si,no
+0263-27-15,Francisco de la Rosa de la Rosa,Tabasco,Huimanguillo,no,si,no
+0264-23-15,Ivan Mendoza Estrada,Quintana Roo,Benito Juarez,no,si,no
+0265-02-15,Yamila Judith Gonzalez Lopez,Baja California,Mexicali,no,si,no
+0266-22-15,Irma Laura Cruz Ortiz,Queretaro,San Juan del Rio,si,si,no
+0267-14-15,Hector Alfredo Hernandez Marin,Jalisco,Guadalajara,si,no,no
+0269-14-15,Alberto Carlos Gomez Correa,Jalisco,Guadalajara,si,no,no
+0270-09-15,Blanca Lidia Corona Martinez,Ciudad de Mexico,Iztacalco,si,no,no
+0271-12-15,Jose Nunez Herrera,Guerrero,Iguala,no,si,no
+0272-14-15,Sandra Elizabeth Sandoval Ibarra,Jalisco,Guadalajara,si,si,si
+0273-12-16,Yolanda Vazquez Abarca,Guerrero,Chilapa de Alvarez,si,si,no
+0274-16-16,Ramon Martinez Pimentel,Michoacan,La Piedad,no,si,no
+0275-16-16,Susana Elizabeth Miranda Arredondo,Michoacan,Morelia,si,si,no
+0276-27-16,Vaca Sosa Genaro,Tabasco,Huimanguillo,no,si,no
+0277-22-16,Maria Perez Rodriguez,Queretaro,San Juan del Rio,no,no,no
+0278-09-16,Jazmin Linares Andrade,Ciudad de Mexico,Milpa Alta,si,si,no
+0279-09-16,Luna Pelayo Edgar Alejandro,Ciudad de Mexico,Xochimilco,si,si,si
+0280-16-16,Victor Hugo Torres Maya,Michoacan,Zitacuaro,no,si,no
+0281-09-16,Jose Miguel Munive Vera,Ciudad de Mexico,Coyoacan,si,no,no
+0282-15-16,Luis Carlos Diaz Coppe,Mexico,San Juan del Rio,si,no,no
+0284-27-16,Asuncion Sanchez Rodriguez,Tabasco,Centro,no,si,no
+0285-27-16,Javier Mendez Hernandez,Tabasco,Nacajuca,no,si,no
+0286-09-16,Servicios Veterinarios Darwin SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,si
+0287-27-16,Ofelia Cervantes Lopez,Tabasco,Centro,no,si,no
+0288-14-16,Beatriz Arianna Villarejo Alvarez,Jalisco,Zapopan,si,no,no
+0290-09-16,Pedro Pablo Caballero Izaguirre,Ciudad de Mexico,Benito Juarez,si,no,no
+0291-09-16,Maria Guadalupe Casilda Saiz Vazquez,Ciudad de Mexico,Benito Juarez,si,no,si
+0292-09-16,Hortencia Mendoza,Ciudad de Mexico,Gustavo a Madero,si,no,no
+0293-27-16,Arisvet Castillo Lagunes,Tabasco,Emiliano Zapata,no,si,no
+0295-02-16,Jorge Villalobos Diaz,Baja California,Mexicali,no,si,no
+0296-30-16,Ana Maria Sosa Ruiz,Veracruz,Fortin,no,si,no
+0298-09-16,Mitzi Beatriz Rojas Servin,Ciudad de Mexico,Iztacalco,si,no,no
+0299-02-16,Edith Eileen Rivera Reyes,Baja California,Tijuana,si,no,no
+0300-14-16,Divirosa SA de CV,Jalisco,Guadalajara,no,si,no
+0302-02-16,Luis Antonio Ramos Delgado,Baja California,Rosarito,no,si,no
+0303-02-16,Adalis Ramos Gonzalez,Baja California,Tijuana,no,si,no
+0304-02-16,Ricardo Martinez Gomez,Baja California,Tijuana,no,si,no
+0305-02-16,Rosa Esther de la Cruz Hernandez,Baja California,Tijuana,no,si,no
+0306-16-16,Gerardo Hernandez Madrigal,Michoacan,Aguililla,si,si,no
+0307-12-16,Sorayda Delgado Cruz,Guerrero,Iguala,no,no,no
+0308-12-16,Juan Carlos Ocampo Elizalde,Guerrero,Buenavista de Cuellar,no,no,no
+0309-02-16,Marcela Jimenez Madrigal Moncayo,Baja California,Tijuana,si,no,no
+0310-14-16,Ismael Ruan Tejeda,Jalisco,El Salto,si,si,si
+0311-14-16,Laura Alejandra Lozano Garcia,Jalisco,Guadalajara,si,si,si
+0312-13-16,Cruz Angelica Neri Peralta,Hidalgo,Cuautepec de Hinojosa,no,si,no
+0313-30-16,Jose Enrique Cesar Sanchez Aldama,Veracruz,Rafael Lucio,no,si,no
+0314-30-16,Enrique Cesar Sanchez Garcia,Veracruz,Xalapa,no,si,no
+0315-30-16,Reyna Perez Pinzon,Veracruz,Xalapa,si,no,no
+0315-30-16,Reyna Guadalupe Lima Perez,Veracruz,Xalapa,si,no,no
+0316-27-16,Raul Arcos Garcia,Tabasco,Emiliano Zapata,no,si,no
+0317-27-16,Flor de Liz Perez Ovando,Tabasco,Tenosique,no,si,no
+0318-27-16,Maribel Villarreal Peralta,Tabasco,Emiliano Zapata,no,si,no
+0319-27-16,Zulema Mejia Olivera,Tabasco,Emiliano Zapata,no,si,no
+0320-27-16,Claudia Barahona Ruiz,Tabasco,Tenosique,no,si,no
+0321-27-16,Zoraida Rodriguez Rodriguez,Tabasco,Tenosique,no,si,no
+0322-06-16,Zoraida Rodriguez Rodriguez,Colima,Colima,si,no,no
+0324-06-16,Javier de la Pena Diaz,Colima,Manzanillo,si,si,si
+0325-06-16,Ma Isabel Hernandez Martinez,Colima,Manzanillo,si,si,no
+0326-06-16,Magdalena Morfin Malacara,Colima,Manzanillo,si,si,no
+0327-06-16,Jose Baltazar Aguilar,Colima,Manzanillo,si,si,no
+0328-14-16,Wendy Maria Guadalupe Rivera Lopez,Jalisco,Guadalajara,si,si,si
+0329-14-16,Francisco Javier Rodriguez Valencia,Jalisco,Guadalajara,si,si,si
+0330-14-16,Francisco Rodriguez Jimenez,Jalisco,Zapopan,si,si,si
+0332-13-16,Maria Karina Hernandez Perez,Hidalgo,Cuautepec de Hinojosa,no,si,no
+0333-27-16,Marisol Cordova Magana,Tabasco,Paraiso,si,si,si
+0334-31-16,Mariana Josefina Duarte Romero,Yucatan,Tekax,no,si,no
+0335-09-16,Gabriela Hernandez Gonzalez,Ciudad de Mexico,Tlalpan,si,no,no
+0337-26-16,Ifv Division Noroeste SA de CV,Sonora,Ciudad Obregon,no,no,no
+0338-14-16,Moises Israel Ramirez Morales,Jalisco,Zapopan,si,no,no
+0339-03-16,Carlos Ignacio Chapa Cortez,Baja California,La Paz,si,si,si
+0340-30-16,Saul Aguilar Dominguez,Veracruz,Alto Lucero de Gutierrez Barrios,no,no,no
+0341-12-16,Leonid Guadarrama Miranda,Guerrero,Iguala,no,si,no
+0342-28-16,Merced Atilano Sanchez,Tamaulipas,Madero,si,si,no
+0343-15-16,Elisa Robles Paz,Mexico,Tlalnepantla de Baz,si,si,no
+0344-03-16,Farmacia Veterinaria Chiapa Sa,Baja California,La Paz,no,si,no
+0345-12-16,Cesar Samano Botello,Guerrero,Buenavista de Cuellar,no,si,no
+0346-12-16,Raul Guadarrama Ocampo,Guerrero,Iguala,no,si,no
+0347-12-16,Productos y Servicios Agropecuarios el Giro SA de CV,Guerrero,Iguala,no,si,no
+0348-12-16,Alberto Garcia Santana,Guerrero,Zirandaro,no,si,no
+0349-14-16,Erika Margarita Ramirez Arceo,Jalisco,Guadalajara,si,no,no
+0350-15-16,Enrique Alberto Santillan Gonzalez,Mexico,Atizapan de Zaragoza,si,no,no
+0351-09-16,Elizabeth Rodriguez Mercado,Aguascalientes,Azcapotzalco,no,no,si
+0352-09-16,Dulce Maria Soto Garcia,Ciudad de Mexico,Iztacalco,si,no,no
+0353-16-16,Maria Faviola Gaona Garcia,Michoacan,Patzcuaro,si,no,no
+0354-11-16,Asociacion Ganadera Local General de Leon,Guanajuato,Leon,si,si,no
+0355-25-16,Soluciones Veterinarias de Sinaloa SA de CV,Sinaloa,Culiacan,si,si,no
+0356-27-16,Patricia Graciela Cruz Enriquez,Tabasco,Cardenas,no,si,no
+0357-27-16,Jose Javier Zavala Hidalgo,Tabasco,Comalcalco,no,si,no
+0359-27-16,Alfonso Valenzuela Ortiz,Tabasco,Comalcalco,no,si,no
+0360-27-16,Lauro Garcia Alarcon,Tabasco,Cardenas,no,si,no
+0361-27-16,Amalia Canul Moo,Tabasco,Cardenas,no,si,no
+0362-27-16,Diagnosticos y Sanidad del Sureste SA de CV,Tabasco,Centro,si,si,no
+0363-23-16,Gabriel Galvan Rodriguez,Quintana Roo,Benito Juarez,si,no,si
+0364-07-16,Rita Ruth Rodriguez Molina,Chiapas,Simojoel de Allende,no,si,no
+0365-15-16,Luis Urbina Ortega,Mexico,Acolman,si,si,no
+0366-18-16,J Jesus Delgado Romero,Nayarit,Rosamorada,si,si,no
+0367-15-16,Sandra Perez Blanco,Mexico,Tlalnepantla,si,no,no
+0368-30-16,Silvia Espinoza Vasquez,Veracruz,Minatitlan,no,si,no
+0369-27-16,Jose Alejo Aguilar Perez,Tabasco,Nacajuca,no,si,no
+0370-28-16,Luis Armando Oyervides Rios,Tamaulipas,Gonzalez,si,no,no
+0371-19-16,Alejandro Omar Reyes Delgado,Nuevo Leon,Gral Escobedo,si,si,si
+0373-09-16,Antonio Flores Moran,Ciudad de Mexico,Xochimilco,si,no,no
+0374-30-16,Lizbeth Martinez Romero,Veracruz,San Andres,si,si,no
+0375-06-16,Cynthia Lizeth Urzua Gallegos,Colima,Tecoman,si,si,si
+0376-30-16,Raul Salazar y Reyes,Veracruz,Misantla,si,si,no
+0377-14-16,Jose Ramon Gallegos Velasquez,Jalisco,Guadalajara,no,si,si
+0379-02-16,Jackson Sherman Still,Baja California,Mexicali,si,si,si
+0380-09-16,Asociacion Pro Defensa de Los Derechos Animales y Prevencion de la Rabia Ac,Ciudad de Mexico,Benito Juarez,si,si,no
+0381-09-16,Centro Medico Veterinaria del Sur SA de CV,Ciudad de Mexico,Coyoacan,si,si,no
+0382-15-16,Sergio Ramon Carrizoza,Mexico,Teoloyucan,si,si,no
+0383-11-16,Christian Gutierrez Lopez,Guanajuato,Leon,si,si,si
+0384-15-16,Karla Lorena Vargas Morquecho,Mexico,Tlalnepantla,si,no,no
+0385-01-16,Fabiola Ayluardo Rivera,Aguascalientes,Aguascalientes,si,si,no
+0386-01-16,Leticia Feregrino Vega,Aguascalientes,Aguascalientes,no,si,no
+0389-14-16,Francisco Javier Aguilar del Portillo,Jalisco,Puerto Vallarta,si,si,no
+0390-14-16,Gloria Edith Cordova Estrada,Jalisco,Sayula,si,si,si
+00391-05-16,Juana Esmeralda Perez Alvarado,Coahuila,Coahuila,no,si,no
+00392-18-16,Oscar Alonso Martinez Garcia,Nayarit,Ruiz,no,si,no
+00393-18-16,Jorge Armando Vergara Dominguez,Nayarit,Rosamorada,si,si,no
+00394-18-16,Juan Manuel Martinez Garcia,Nayarit,Ruiz,no,si,no
+00395-09-16,Isabel Barroso Hernandez,Ciudad de Mexico,Iztacalco,si,si,si
+00396-09-16,Catalina Botello Tufino,Ciudad de Mexico,Iztacalco,si,si,no
+00398-01-16,Alfredo Enrique Chanona Salazar,Aguascalientes,Aguascalientes,si,si,no
+00399-09-16,Francisco Javier Malagamba Mendez,Ciudad de Mexico,Magdalena Contreras,si,no,no
+00401-07-16,Mario Antonio Sosa Montalvo,Chiapas,Tuxtla Gutierrez,no,si,no
+00403-09-16,Angelica Irene Lopez Brambila,Ciudad de Mexico,Tlalpan,si,si,no
+00404-09-16,Cynthia Calderon Virgen,Ciudad de Mexico,Gustavo a Madero,si,si,si
+00405-09-16,Sadit Orlando Mata Salazar,Ciudad de Mexico,Tlalpan,si,si,si
+00406-09-16,Omar Leon Ramirez,Ciudad de Mexico,Tlahuac,si,si,no
+00408-11-16,Mauricio Salvador Munoz Aranda,Guanajuato,Leon,no,si,no
+00409-27-16,Oscar Lopez Tosca,Tabasco,Centro,no,si,no
+00410-02-16,Sandra Ruth Montoya Ramiro,Baja California,Mexicali,si,si,no
+00411-13-16,Jose Luis Zamora Gonzalez,Hidalgo,Atotonilco el Grande,no,si,no
+00413-09-16,Enrique Jardon Palmer,Ciudad de Mexico,Xochimilco,si,si,no
+00414-01-16,Patricia Evertsz Cervantes,Aguascalientes,Aguascalientes,no,si,no
+00415-07-16,Maria del Carmen Martinez Maza,Chiapas,Berriozabal,no,si,no
+00416-07-16,Jose Roberto Alvarado Aguilar,Chiapas,Villa Las Rosas,no,si,no
+00417-07-16,Maria Alejandra Nangulari Jerez,Chiapas,Chiapilla,no,si,no
+0418-09-16,Maria del Carmen Campos Castillo,Ciudad de Mexico,Benito Juarez,si,si,no
+00420-09-16,Maria de Lourdes Serrano Garcia,Ciudad de Mexico,Venustiano Carranza,si,si,si
+00421-03-16,Jose Alejandro Angulo Villavicencio,Baja California,La Paz,si,si,no
+00422-07-16,Virna Lorena Rincon Ocampo,Chiapas,Pijijiapan,no,si,no
+00423-07-16,Jose Enrique Ortega Cancino,Chiapas,Tapachula,no,si,no
+00424-07-16,Maria Teresa Gomez Cardenas,Chiapas,Ocozocoautla,no,si,no
+00425-07-16,Jose Hugo Rosas Hernandez,Chiapas,Tapachula,no,si,no
+00426-07-16,Ulises Ramos Lopez,Chiapas,Huixtla,si,si,si
+00427-07-16,Victor Alejandro Arguello Hernandez,Chiapas,Tzimol,no,si,no
+0428-07-16,Carlos Reemberto Penagos Valdez,Chiapas,Simojovel,no,si,no
+00429-07-16,Josefa Palacios Calvo,Chiapas,San Fernando,no,si,no
+00430-07-16,Rodolfo Daniel Diaz Ballinas,Chiapas,San Cristobal de Las Casas,no,si,no
+00431-07-16,Liliana Reyes Burguete,Chiapas,Cintalapa,no,si,no
+00432-27-16,Veterinarias Dimevet SA de CV,Tabasco,Centro,no,si,no
+00433-15-16,Jorge Mauricio Varela Razo,Mexico,Atizapan de Zaragoza,si,no,si
+00434-07-16,Ana Lorena Ortega Cancino,Chiapas,Insurgentes,no,si,no
+00435-07-16,Rigoberto Martin Coronel Mijangos,Chiapas,Tuxtla Gutierrez,si,si,no
+00436-27-16,Dario Olive Montejo,Tabasco,Comalcalco,no,si,no
+00438-09-16,Claudia Concepcion Name Rodriguez,Ciudad de Mexico,Venustiano Carranza,si,no,si
+00439-30-16,Andres Candelario Jose Avila Lopez,Veracruz,Minatitlan,no,si,no
+00440-04-16,Antonio Forsythe Anderson,Campeche,Champoton,no,si,no
+00441-15-16,Pet You SA de CV,Mexico,Huixquilucan,no,si,si
+0442-09-16,Jesus Lugo Marin,Ciudad de Mexico,Coyoacan,si,no,no
+00444-23-16,Martha Graciela Moreno Rodriguez,Quintana Roo,Cancun,si,si,no
+00445-15-16,Adrian Hernandez Montiel,Mexico,Apaxco,si,si,si
+00446-27-16,Oteo Tello Maria de Lourdes,Tabasco,Tenosique,no,si,no
+0447-09-16,Jose Francisco Davila Gonzalez,Ciudad de Mexico,Benito Juarez,si,si,no
+00448-09-16,Valed SA de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+00449-27-16,Carlos Alberto Pavon del Rivero,Tabasco,Emiliano Zapata,no,si,no
+00450-07-16,Petrona Ferrer Aez,Chiapas,Catazaja,no,si,no
+0451-07-16,Cesar de la Cruz Ramirez,Chiapas,Pakal,no,si,no
+00452-09-16,Gobierno de la Ciudad de Mexico y O Agencia de Atencion Animal de la Ciudad de Mexico,Ciudad de Mexico,Cuauhtemoc,no,no,si
+00453-09-16,Veronica Ramirez Martinez,Ciudad de Mexico,Gustavo a Madero,si,no,no
+00454-31-16,Jorge Cardos Bonilla,Yucatan,Merida,no,si,no
+00455-09-16,Fernando Ramirez Garcia,Ciudad de Mexico,Benito Juarez,si,no,no
+00456-09-16,Valencia de Jesus Guillermo,Ciudad de Mexico,Venustiano Carranza,si,si,no
+00457-27-16,Roberto Perez Lopez,Tabasco,Centro,no,si,no
+00458-15-16,Hector Cedillo Sanchez,Mexico,Tlalnepantla de Baz,si,si,no
+00459-02-16,Maryhelen Rivera Henry,Baja California,Mexicali,si,no,si
+00460-02-16,Leopoldo Gutierrez Padilla,Baja California,Tijuana,si,si,si
+00461-09-16,Julio Esquivel Colin,Ciudad de Mexico,Gustavo a Madero,si,no,no
+00462-16-16,Martha Leticia Delgadillo Martinez,Michoacan,Morelia,si,no,no
+00463-23-16,Maria Aide Salazar Chavez,Quintana Roo,Playa del Carmen,si,si,no
+00464-09-16,Blanca Estela Rocha Flamand,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+00465-27-16,Rodrigo Uzcanga Hernandez,Tabasco,Tenosique,no,si,no
+00466-09-16,Claudia Reyna Ortega,Ciudad de Mexico,Gustavo a Madero,si,no,no
+00467-28-16,Nadia Aracely Ceniceros Pong,Tamaulipas,Madero,si,si,no
+00468-23-16,Victor Marcelo Vega Bruner,Quintana Roo,Playa del Carmen Solidaridad,si,no,no
+00469-15-16,Oftalvet Servicio Veterinario SA de CV,Mexico,Tlalnepantla,si,si,si
+00470-31-16,Humberto Martin Solis Rodriguez,Yucatan,Kinchil,no,si,no
+00471-16-16,Juan Jose Equihua Valladares,Michoacan,Uruapan,si,si,no
+00472-10-16,Lucelia Guadalupe Onofre Ibarra,Durango,Gomez Palacio,no,si,no
+00473-06-16,Veronica Van Grimbergen Ramos,Colima,Manzanillo,si,si,si
+00474-04-16,Ileana Beatriz Gamboa Barrera,Campeche,Hopelchen,no,si,no
+00475-04-16,Ileana Beatriz Gamboa Barrera,Campeche,Hopelchen,no,si,no
+00476-04-16,Ileana Beatriz Gamboa,Campeche,Hopelchen,no,si,no
+00477-15-16,Francisca Morales Velazquez,Mexico,Texcoco,si,no,no
+00478-09-16,Aytzee Eloisa Pinon Cabrera,Ciudad de Mexico,Tlalpan,no,si,no
+00479-16-16,Hugo Figueroa Medina,Michoacan,Uruapan,no,si,no
+00480-09-16,Ruben Moreno Cordero,Ciudad de Mexico,Gustavo a Madero,si,si,no
+00481-27-16,Clinica Veterinaria Ventura S de Rl,Tabasco,Villa Hermosa,si,si,si
+00482-09-16,Luis Fernando Martinez Cornejo,Ciudad de Mexico,Coyoacan,no,no,si
+00483-09-16,Eduardo Vazquez del Arenal,Ciudad de Mexico,Cuajimalpa,si,si,no
+00485-23-16,Servicios Profesionales Jfc Sc y O Clinica Hospipet,Quintana Roo,Benito Juarez,si,si,si
+00486-27-16,Leonorilda Landero Herrera,Tabasco,Centro,no,si,no
+00488-24-16,Guillermo Rodriguez Castillo,San Luis Potosi,Ebano Centro,si,no,si
+00489-05-16,Francisco Nunez Gonzalez,Coahuila,Torreon,si,si,si
+00490-11-16,Ileana Quezada Torres,Guanajuato,Leon,si,no,no
+00491-09-16,Rene Garcia Maldonado,Ciudad de Mexico,Tlalpan,si,no,no
+00492-09-16,Victor Hugo Escalona Marcial,Ciudad de Mexico,Tlalpan,si,si,no
+00493-27-16,Jesus Gabriel Espinosa Lastra,Tabasco,Huimanguillo,no,si,no
+00494-27-16,Jenaro Perez Ruiz,Tabasco,Huimanguillo,no,si,no
+00495-27-16,Moises Fernando Amador Ronquillo,Tabasco,Cardenas,no,si,no
+00496-15-16,Vanessa Espinosa Robles,Mexico,Tlalnepantla,si,si,no
+00497-05-16,Rolando Albores Garcia,Coahuila,Torreon,si,no,si
+00498-05-16,Jorge Leobardo Gonzalez Castaneda,Coahuila,Torreon,si,si,si
+00499-05-16,Miguel Davila Davila,Coahuila,Torreon,si,si,si
+00500-10-16,Xochitl Sosa Chavez,Durango,Gomez Palacio,si,si,si
+00501-05-16,Karen Isabel Tapia Robles,Coahuila,Torreon,si,si,si
+00502-05-16,Daniel Eduardo Ortiz Diaz,Coahuila,Torreon,si,si,no
+00503-10-16,David Banda Lugo,Durango,Gomez Palacio,si,si,no
+00504-10-16,Azalia Margarita Garcia Samaniego,Durango,Lerdo,si,si,si
+00505-05-16,Gerardo Barrera Rayos,Coahuila,Torreon,si,si,si
+00506-05-16,Enrique Facio Umana,Coahuila,Torreon,si,si,si
+00507-10-16,Juan Carlos Lugo Garcia,Durango,Gomez Palacio,si,si,si
+00508-05-16,Maria Eugenia Marin Rivera,Coahuila,Torreon,si,si,si
+00509-10-16,Claudia Elena Perez Lopez,Durango,Gomez Palacio,si,si,si
+00510-05-16,Irineo Juan Rodriguez Garcia,Coahuila,Torreon,si,si,no
+00511-10-16,Fernando Rafael Morales Soto,Durango,Gomez Palacio,si,no,no
+00512-05-16,Arturo Flores Guadarrama,Coahuila,Torreon,si,si,si
+00513-05-16,Armando Javier Villareal Martinez,Coahuila,Torreon,si,si,si
+00514-05-16,Jose Trinidad Castro Hernandez,Coahuila,Torreon,si,si,si
+00515-05-16,Arnoldo R Celis Saucedo,Coahuila,Torreon,si,si,si
+00516-05-16,Maria Fernanda Garcia Suarez,Coahuila,Torreon,si,si,si
+00517-05-16,Alejandro Aquino Vazquez,Coahuila,Torreon,si,si,no
+00519-10-16,Sylvia Herrera Rueda,Durango,Gomez Palacio,si,si,no
+00520-27-16,Elio Ascencio Ramirez,Tabasco,Centro Cardenas,no,si,no
+00521-27-16,Elio Ascencio Ramirez,Tabasco,Centro,no,si,no
+00522-11-16,Veterinaria Agropol SA de CV,Guanajuato,Penjamo,no,si,no
+00523-14-16,Centro Especializado En Pequenas Especies S de Rl de CV,Jalisco,Zapopan,si,si,no
+00524-01-16,Samuel Lozano Santillan,Aguascalientes,Aguascalientes,si,no,si
+00525-09-16,Juan Francisco Daniel Arroyo Vazquez,Ciudad de Mexico,Magdalena Contreras,no,si,no
+00526-27-16,Ramon Sanchez Sanchez,Tabasco,Tenosique,no,si,no
+00527-27-16,Marcelo Chan Perez,Tabasco,Tenosique,no,si,no
+00528-27-16,Lucero del Alba Chan Damas,Tabasco,Jonuta,no,si,no
+00529-21-16,Oliver Meneses Gonzalez,Puebla,Tepanco de Lopez,si,si,no
+00530-09-16,Tamara Libertad Iturbe Cossio,Ciudad de Mexico,Benito Juarez,si,no,no
+00531-27-16,Alfredo Castro Broca,Tabasco,Comalcalco,no,si,no
+00532-09-16,Raul Alvarado Canchola,Ciudad de Mexico,Iztacalco,si,si,si
+00533-07-16,Florentina Gomez Lazos,Chiapas,Villaflores,no,si,no
+00535-31-16,Floricely Canul Canul,Yucatan,Merida,no,si,no
+00537-27-16,Daniel de la Cruz Lopez,Tabasco,Huamanguillo,no,si,no
+00538-02-16,Adolfo Antonio Arellano Rojo,Baja California,La Presa,si,si,no
+00539-23-16,Maskoketos Sc,Quintana Roo,Solidaridad,si,no,no
+00540-09-16,Martin Manuel Garcia Cota,Ciudad de Mexico,Cuauhtemoc,si,si,si
+00541-21-16,Maria Luisa Martini Crivelli,Puebla,San Gregorio Atzompa,no,si,no
+00542-02-16,Dinamica Veterinaria SA de CV,Baja California,Mexicali,no,si,no
+00543-16-16,Sergio Enrique Fajardo Tejeda,Michoacan,La Piedad,no,si,no
+00544-15-16,Maribel Gutierrez Vidal,Mexico,Texcoco,no,si,no
+00545-11-16,Paloma Cervantes Perez,Guanajuato,Celaya,si,si,si
+00546-15-16,Claudia Hernandez Lopez,Mexico,San Juan,no,si,no
+00547-09-16,Veterinaria Roa Sa,Ciudad de Mexico,Tlahuac,no,si,no
+00548-01-16,Eneyda Eugenia Ramos Chavez,Aguascalientes,Aguascalientes,si,no,no
+00549-27-16,Adriana Munoz Adriano,Tabasco,Paraiso,si,si,si
+00550-27-16,Edgardo Adolfo Lopez Guzman,Tabasco,Centla,no,si,no
+00551-27-16,Maribel de la Cruz Jimenez,Tabasco,Centla,no,si,no
+00552-27-16,Eva Rocio Flores Diaz,Tabasco,Villahermosa,no,si,no
+00553-23-16,Juan Urbano Salazar Chavez,Quintana Roo,Benito Juarez,si,si,no
+00554-27-16,Blanca Isela Salvador de la Cruz,Tabasco,Frontera,no,si,no
+00555-27-16,Juan Alberto Almeida Garcia,Tabasco,Cardenas,no,si,no
+00556-15-16,Alfredo Cebada Perea,Mexico,Teotihuacan,si,no,no
+00557-09-16,Pets Dogs & Friends S de Rl de CV,Ciudad de Mexico,Alvaro Obregon,si,no,no
+00558-09-16,Hospital Veterinario de Especialidades del Valle Vg SA de CV,Ciudad de Mexico,Benito Juarez,si,no,si
+00559-15-16,Rigoberto Avalos Rodriguez,Mexico,Tecamac,si,si,no
+00560-18-16,Forrajes de Ruiz SA de CV,Nayarit,Ruiz,no,si,no
+00561-27-16,Elizabeth Chable Jimenez,Tabasco,Villa Benito Juarez,no,si,no
+00562-07-16,Jaime Antonio Cabrera Bernat,Chiapas,Palenque,no,si,no
+00563-27-16,Lucia Balan Romero,Tabasco,Tenosique,no,si,no
+00564-28-16,Gustavo Rafael Rivera Lara,Tamaulipas,Tula,no,si,no
+00565-07-16,Maria de Lourdes Gomez Alonso,Chiapas,Palenque,no,si,no
+00566-27-16,Rosa del Carmen Hidalgo Valladares,Tabasco,Emiliano Zapata,no,si,no
+00567-23-16,Laura Tatyana Colina Rodriguez,Quintana Roo,Benito Juarez,si,si,si
+00568-23-16,Oscar Oliva Cantarutti,Quintana Roo,Benito Juarez,si,si,no
+00569-09-16,Enrique Vejar Covarrubias,Ciudad de Mexico,Gustavo a Madero,si,no,no
+00570-15-16,Pamela Barcenas Avila,Mexico,Acolman,si,no,no
+00573-09-16,Vanessa Zavaleta Leal,Ciudad de Mexico,Xochimilco,no,si,no
+00574-03-16,Alvaro Ivan Gonzalez Espinoza,Baja California,La Paz,no,si,no
+00575-11-16,Francisco Emanuel Beltran Esparza,Guanajuato,Leon,no,no,si
+00576-19-16,Saul Alejandro Galvan Valdez,Nuevo Leon,Santa Catarina,no,no,si
+00577-19-16,Edgar Ramiro de la Garza Velazquez,Nuevo Leon,Guadalupe,si,si,no
+00578-19-16,Eduardo Rafael Rodriguez Mata,Nuevo Leon,Monterrey,si,si,no
+00583-09-16,Ernesto Macias Trujillo,Ciudad de Mexico,Gustavo a Madero,no,si,no
+00584-09-16,Atanacio Macias de Anda,Ciudad de Mexico,Gustavo a Madero,no,si,no
+00586-19-16,Erick Castillo Rodriguez,Nuevo Leon,Apodaca,si,si,si
+00587-19-16,Eduardo Martinez Arriaga,Nuevo Leon,Monterrey,si,no,si
+00588-19-16,Yolanda Jaramillo Melendez,Nuevo Leon,Monterrey,si,si,no
+00590-19-16,Javier Serna Gonzalez,Nuevo Leon,Monterrey,si,si,no
+00592-19-16,Marco Antonio Solis Caballero,Nuevo Leon,San Nicolas de Los Garza,si,si,si
+00594-19-16,Jessica Sepulveda Chavana,Nuevo Leon,Cd Guadalupe,si,no,no
+00596-19-16,Cristobal Gerardo Rodriguez Trevino,Nuevo Leon,San Pedro,si,si,si
+00597-19-16,Cynthia Elishama Govea Sanchez,Nuevo Leon,Monterrey,si,si,no
+00599-19-16,Mario Alberto Rodriguez Garcia,Nuevo Leon,Gudalupe,si,si,no
+00601-19-16,Manuel Omar Serna Moya,Nuevo Leon,Monterrey,si,si,no
+00602-19-16,Nahomi Fernanda Aleman,Nuevo Leon,Sd,Sin dato,Sin dato,Sin dato
+00603-19-16,Rodolfo Contreras Uribe,Nuevo Leon,Monterrey,si,si,si
+00608-15-16,Ana Elvia Flores Rodriguez,Mexico,Zumpango,si,si,si
+00609-11-16,Maritza Torres Nasser,Guanajuato,Leon,si,no,no
+00610-16-16,Cynthia Sarahy Rivera Torres,Michoacan,Los Pinos,si,si,Sin dato
+00611-19-16,Josefina Cantu Lopez,Nuevo Leon,Monterrey,si,si,no
+00612-19-16,Adriana Valdez Ceballos,Nuevo Leon,Monterrey,si,si,no
+0613-21-16,Emilio Felipe Flores Lima,Puebla,Puebla,si,si,no
+00614-2-16,Maria Estela Viramontes Trujillo,Baja California,Baja California,si,si,si
+00615-2-16,Jose Ramon Garcia Arballo,Baja California,Baja California,si,si,no
+00616-16-16,Yared Samantha Rivera Garduno,Michoacan,Michoacan,si,si,no
+00617-16-16,Fany Carolina Manriquez Elejandre,Michoacan,Michoacan,si,si,si
+00618-9-16,Alvaro Berrones Carriles,Ciudad de Mexico,Coyoacan,si,si,no
+00619-28-16,Jose Clemente Baldit Araujo,Tamaulipas,Tampico,no,si,no
+00620-9-16,Erick Linares Martinez,Ciudad de Mexico,Azcapotzalco,si,si,no
+00621-28-16,Gustavo Rafael Rivera Lara,Tamaulipas,Tula,no,si,no
+00622-14-16,Lucila Bernal Sobarzo,Jalisco,Puerto Vallarta,si,si,si
+00623-9-16,Eden Alberto Garcia Guerra,Ciudad de Mexico,Tlalpan,no,no,no
+00624-31-16,Eleuterio Oxte Ay,Yucatan,Izamal,no,si,no
+00625-9-16,Euterio Oxte Ay,Ciudad de Mexico,Cuauhtemoc,si,si,no
+00626-14-16,Ana Catalina Cantu Villarreal,Jalisco,Zapopan,si,si,si
+00628-9-16,Hospital de Especialidades Veterinarias San Jeronimo Sc,Ciudad de Mexico,Magdalena Contreras,si,si,si
+00629-9-16,Arturo Albiter Flores,Ciudad de Mexico,Tlalpan,no,no,si
+00630-7-16,Rosario Villanueva Gomez,Chiapas,Palenque,no,si,no
+00631-7-16,Octavio Alejo Perez,Chiapas,Palenque,no,si,no
+00632-09-16,Armando Rosales Velazquez,Ciudad de Mexico,Xochimilco,si,si,no
+00633-9-16,Leonardo Valderrama Martinez,Ciudad de Mexico,Xochimilco,si,no,no
+00634-15-16,Sergio Raul Flores Aguilar,Mexico,Ecatepec,no,si,no
+00635-16-16,Melchor Hurtado Rizo,Michoacan,Uruapan,si,si,no
+00637-31-16,Carmita Candelero Gomez,Michoacan,Uruapan,no,si,no
+00638-16-16,Federico Montes Vaca,Michoacan,Michoacan,si,no,no
+00639-9-16,Silvia Padilla Monroy,Mexico,Tlalnepantla,si,no,no
+00640-07-16,Gerardo Arturo Perez Olivares,Chiapas,Villaflores,no,si,no
+00641-09-16,Miguel Angel de la Torre Suire,Ciudad de Mexico,Gustavo a Madero,si,no,si
+00642-23-16,Rafael Delgado Perez,Quintana Roo,Benito Juarez,si,si,si
+00643-09-16,Yamili Gonzalez Cruzaley,Ciudad de Mexico,Tlalpan,si,si,no
+00644-09-16,Guillermo Cotera Garcia,Ciudad de Mexico,Coyoacan,si,si,no
+00645-06-16,Veronica Van Grimgerben Ramos,Colima,Manzanillo,si,si,si
+00646-09-16,Javier Medrano Barcenas,Ciudad de Mexico,Alvaro Obregon,si,si,si
+00646-09-16,Javier Medrano Barcenas,Ciudad de Mexico,Alvaro Obregon,Sin dato,Sin dato,Sin dato
+00647-21-16,Samuel Andrade Salvador,Puebla,Quecholac,no,si,no
+00648-12-16,Dumagafra SA de CV,Guerrero,Ometepec,no,si,no
+00649-07-16,Union Ganadera Regional de Catazaja,Chiapas,Palenque,no,si,no
+00650-07-16,Cooperativa de Consumo Agropecuario Las Monterias Scl,Chiapas,Palenque,no,si,no
+00651-30-16,Jorge Antonio Arroyo Perez,Veracruz,Santiago Tuxtla,no,si,no
+00653-15-16,Maria Dolores Adriana Pardo Gutierrez,Mexico,Naucalpan,si,no,no
+00654-07-16,Miguel Mendez Arcos,Chiapas,Palenque,no,si,no
+00655-30-16,Ana Luisa Vera Fomperosa,Veracruz,Poza Rica,no,si,no
+00658-20-16,Distribuidora de Insumos Agroveterinarios la Potranca SA de CV,Oaxaca,Tuxtepec,no,si,no
+00659-14-16,Martin Medina Alvarez,Jalisco,Puerto Vallarta,si,si,no
+00660-03-16,Carlos Ignacio Chiapa Cortes,Baja California,La Paz,si,si,no
+00660-03-16,Carlos Ignacio Chiapa Cortes,Baja California,La Paz,no,si,no
+00661-26-16,Gilberto Javier Romero Rodriguez,Sonora,Nogales,si,si,si
+00662-15-16,Maria Odethe Escalona Gomez,Mexico,Toluca,si,no,no
+00663-26-16,Jose Ariel Felix Ortiz y O Veterinaria del Sol,Sonora,Nogales,si,si,no
+00664-22-16,Armando Berlanga Corona,Queretaro,Queretaro,si,si,si
+00666-25-16,Hector Manuel Cambreros Santana,Sinaloa,Mazatlan,si,no,no
+00667-15-16,Jose Antonio Velazquez Maya,Mexico,Toluca,si,no,no
+00668-15-16,Julio Cesar Mejia Sanchez,Mexico,Toluca,si,no,no
+00669-31-16,Noe Hernandez Cruz,Yucatan,Merida,si,no,no
+00671-26-16,Cinthia Cecilia Guereca Campos,Sonora,Hermosillo,si,si,no
+00672-26-16,Maria Guadalupe Campos Arreola,Sonora,Hermosillo,si,si,si
+00674-27-16,Diana Macias Guevara,Tabasco,Sabina Centro,si,no,no
+00675-9-16,Ernesto Rivera Gamino,Ciudad de Mexico,Tlalpan,si,no,no
+00676-9-16,Tania Alejandra Gomez Alcauter,Ciudad de Mexico,Cuajimalpa,si,no,no
+00677-27-16,Janet Dominguez Saldivar,Tabasco,Cardenas,no,si,no
+00678-13-16,Guicela Cruz Sanchez,Hidalgo,Mineral de la Reforma,si,si,no
+00679-9-16,Rafael Martinez Range,Ciudad de Mexico,Tlalpan,si,si,no
+00680-18-16,Jose Jesus Medina Alvarez,Nayarit,Bahia de Banderas,si,si,si
+00681-9-16,Accesorios Para Mascotas,Ciudad de Mexico,Cuauhtemoc,si,si,si
+00682-14-16,Maria Guadalupe Gomez Wong,Jalisco,Guadalajara,si,si,si
+00683-9-16,Mariana Zuniga Ugalde,Mexico,Tlalpan,si,si,no
+00684-9-16,Andres Borja Mora,Ciudad de Mexico,Alvaro Obregon,si,no,no
+00685-9-16,Reina Agustina Miranda Sanchez,Ciudad de Mexico,Alvaro Obregon,si,no,no
+00686-17-16,Maria del Carmen Ibarra Leon,Morelos,Puente de Ixtla,no,si,no
+00687-9-16,Estela Zarahit Roca Gonzalez,Ciudad de Mexico,Cuauhtemoc,si,si,no
+00688-9-16,Gerardo Palma Garcia,Ciudad de Mexico,Tlahuac,si,si,si
+00689-21-16,Gonzalo Ramirez Barroso,Puebla,San Pedro Cholula,no,si,no
+00690-14-16,Veronica Gonzalez Franco,Jalisco,Zapopan,si,no,no
+00691-21-16,Veronica Gonzalez Herrera,Puebla,Barrio de Tetela,si,si,no
+00692-14-16,Miguel Angel Corona Flores,Jalisco,Guadalajara,no,no,si
+00693-9-16,Cesar Rodrigo Camarillo Soto,Ciudad de Mexico,Xochimilco,si,si,si
+00694-31-16,Cynthia Yazmin Canto Hernandez,Yucatan,Merida,no,si,no
+00695-9-16,Ana Laura Rodriguez Maldonado,Ciudad de Mexico,Coyoacan,si,si,si
+00696-12-16,Francisco Javier Eguibar Rivero,Guerrero,Acapulco de Juarez,si,si,no
+00697-12-16,Jose Fernando Benitez Lopez,Guerrero,Taxco de Alarcon,si,si,no
+00698-12-16,Rebecca Maria Molina Pane,Guerrero,Iguala,si,si,no
+00699-12-16,Silvia Garduno Saavedra,Guerrero,San Marcos Guerrero,si,si,no
+00700-12-16,Raul Eduardo Nunez Tovar,Guerrero,Iguala,si,si,no
+00701-14-16,Servicios Especializados Veterinarios Arboledas SA de CV,Jalisco,Tlaquepaque,si,si,si
+00702-14-16,Ismael Rendon Guerrero,Jalisco,Puerto Vallarta,si,si,si
+00703-20-16,Rene Vasquezramos y O Farmacia y Clinica Veterinaria San Jorge,Oaxaca,Matias Romero,si,si,si
+00704-9-16,Claudia Veronica Lopez Andrade,Ciudad de Mexico,Azcapotzalco,si,no,no
+00705-2-16,Carlos Armando Noriega Martinez,Baja California,Mineral de la Reforma,si,si,no
+00706-14-16,Dr Pe SA de CV,Jalisco,Zapopan,si,si,no
+0000707-26-16,Lizeth Paulina Alvarez Alvarez,Sonora,Hermosillo,si,si,no
+00708-9-16,Ixchel Ortiz Morales,Ciudad de Mexico,Tlalpan,si,no,no
+00709-1-16,Daniel Ivan Romo Guerra,Aguascalientes,Aguascalientes,no,si,no
+00710-15-16,Miriam del Carmen Romero Rivera,Mexico,Cuautitlan Izcalli,si,no,no
+0711-04-16,Faustino Salvador Martinez,Campeche,El Carmen Campeche,no,si,no
+0712-09-16,Christian Collins Rodriguez,Ciudad de Mexico,Miguel Hidalgo,si,si,no
+0712-09-16,Christian Collins Rodriguez,Ciudad de Mexico,Miguel Hidalgo,si,si,no
+0714-30-16,Benito Martinez Godinez,Veracruz,Huayacocotla,no,si,no
+0715-30-16,Fernando Flores Guadarrama,Veracruz,Camerino Z Mendoza,si,si,no
+0716-14-16,Carmen Rivera Velazco,Jalisco,San Pedro Tlaquepaque,si,si,si
+0716-14-16,Carmen Rivera Velazco,Jalisco,San Pedro Tlaquepaque,si,si,si
+0717-9-16,Jonathan Gomez Jimenez,Ciudad de Mexico,Iztacalco,si,no,no
+0719-27-16,Jose Joaquin Urrutia Lopez,Tabasco,Tabasco,no,si,no
+0720-15-16,Enrique Cuitlahuac Flores Rivero,Mexico,Melchor Ocampo,no,si,no
+0721-22-16,Vitanimal Clinica Veterinaria,Quintana Roo,Playa del Carmen,si,si,si
+0722-28-16,Maria del Rocio Perez Nunez,Tamaulipas,Tampico,si,si,si
+00723-26-16,Luis Eduardo Grandvallet Mugica,Veracruz,Tierra Blanca,si,si,si
+00723-26-17,Luis Eduardo Grandvallet Mugica,Veracruz,Tierra Blanca,si,si,si
+0724-31-16,Fernando Javier Peraza Quintal,Yucatan,Hunucma,no,si,no
+0725-09-16,Israel Leyva Gamez,Ciudad de Mexico,Coyoacan,si,si,no
+00727-14-16,Jose Maria Wenceslao Diaz Arellano,Jalisco,Taquepaque,si,si,no
+00728-21-16,Manuela Salustia Gonzalez Gomez,Puebla,Zaragoza,no,si,no
+00729-15-16,Jorge Joel Albaytero Gonzalez,Mexico,Toluca,si,no,no
+0730-09-16,Armando Guerra Iriarte,Ciudad de Mexico,Alvaro Obregon,si,si,si
+0732-09-16,Equinos y Caninos Sc Hospital Veterinario,Ciudad de Mexico,Miguel Hidalgo,si,no,si
+0733-05-16,Fabiola Catalina Rodriguez Iga,Coahuila,Monclova,no,si,no
+0734-24-16,Antonio Munoz Ramos,San Luis Potosi,San Luis Potosi,si,no,no
+00735-9-16,Luis Mendoza Lopez,Ciudad de Mexico,Tlalpan,si,si,no
+00736-9-16,Samuel Eduardo Martinez Ramirez,Ciudad de Mexico,Coyoacan,no,no,no
+00737-28-16,Jose Antonio Saldate Portilla,Tamaulipas,Ciudad Madero,si,si,no
+00738-16-16,Michel Angelo Oropeza Ojeda,Michoacan,Uruapan,si,no,no
+00740-30-16,Veronica Castillo Estrada,Veracruz,Veracruz,si,si,si
+00741-30-16,Rigoberto Carmona Lozada,Veracruz,Ozuluama de Mascarenas,no,si,no
+00742-9-16,Clinica Vet-Esp SA de CV,Ciudad de Mexico,Alvaro Obregon,si,si,no
+00743-18-16,Jose Angel Escobedo Aguiar,Nayarit,Acapuneta,no,si,no
+00744-13-16,David Monroy Frias,Hidalgo,Atotonilco de Tula,no,si,no
+00745-15-16,Eduardo Villanueva Lopez,Mexico,Zumpango,si,si,si
+00746-16-16,Asociacion Ganadera Local Especializada En Porcinos de Puruandiro,Michoacan,Puruandiro,si,si,no
+00748-33-16,Maria Guadalupe Uribe Chavez,Coahuila,Torreon,si,no,no
+00749-30-16,Jose Francisco Rodriguez Naranjo,Veracruz,Angel R Cabada,no,si,no
+00750-21-16,Cristina Yasdabek Quiroz Hidalgo,Puebla,Atlixco,no,si,no
+00751-22-16,Zooteca Sc,Mexico,Naucalpan,si,si,si
+00752-14-16,Damaris Aleyda Rodriguez Jimenez,Jalisco,Puerto Vallarta,si,si,si
+00753-9-16,Jesus Martin Morales Cortes,Ciudad de Mexico,Tlalpan,si,no,no
+00754-4-16,Integradora de Agroinsumos Peninsulares S de Lr de CV,Campeche,Champoton,no,si,no
+00755-15-16,Maria Veronica Gonzalez Ayuso,Mexico,Tecamac,si,no,no
+00756-16-16,Florencia Ramirez Morales,Michoacan,Morelia,si,si,si
+00758-14-16,Universidad Cuauhtemoc Plantel Guadalajara Sc,Jalisco,Zapopan,si,si,no
+00759-15-16,Elvia Galicia Oropeza,Mexico,Zumpango,no,si,no
+00760-7-16,Alejandro Vazquez Castro,Chiapas,Mapastepec Estacion,no,si,no
+00761-21-16,Maria Ana Quinones Lopez,Puebla,Teziutlan,si,si,no
+00762-9-16,Pets Dogs & Friends S Rl de CV,Ciudad de Mexico,Alvaro Obregon,si,no,no
+00763-21-16,Teresita Alday de la Vega,Puebla,Puebla,no,si,no
+00764-12-17,Lilia Marquina Castillo,Guerrero,Iguala,si,si,no
+00765-09-17,V&P Commercial Solutions SA de CV,Ciudad de Mexico,Coyoacan,si,si,no
+00767-2-17,Juan Francisco Marquez Garcia,Baja California,Tijuana,si,no,no
+00768-9-17,Adrian Trujillo Rivera y O Vet-Center,Ciudad de Mexico,Iztacalco,si,si,no
+00769-9-17,Elizabeth Lopez Cruz,Mexico,Nicolas Romero,si,no,no
+00770-09-17,Erandi Larissa Lopez Nava,Ciudad de Mexico,Cuauhtemoc,no,no,no
+00771-9-17,Servicios Caninos Pc de Mexico SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,no
+00772-9-17,Maritza Gabriela Jimenez Rodriguez,Ciudad de Mexico,Xochimilco,si,no,no
+00773-07-17,Aurora Itzel Figueroa Martinez,Chiapas,Chiapas,no,si,no
+00774-9-17,Julian Romero Lopez,Ciudad de Mexico,Tlalpan,si,no,no
+00776-30-17,Lucia Merino Lara,Veracruz,Isla,no,si,no
+00777-09-17,Marco Antonio Vargas Anaya,Ciudad de Mexico,Gustavo a Madero,si,si,si
+00778-15-17,Maria Guadalupe Lozada Cassou,Mexico,Tenango del Valle,no,si,no
+00779-11-17,Mariel Xiomara Santoyo Razo,Guanajuato,Irapuato,si,no,no
+00780-15-17,Jose Adolfo Acosta Espana,Mexico,Cuautitlan Izcalli,si,si,no
+00781-12-17,Yolanda Josefina Farina Valdes,Guerrero,Iguala,si,si,no
+00782-21-17,Jose Antonio Roano Cabrera,Puebla,Zaragoza,no,si,no
+00783-21-17,Maria Magdalena Flores Gonzalez,Puebla,Teziutlan,no,si,no
+00784-9-17,Karen Maldonado Manzano,Ciudad de Mexico,Alvaro Obregon,si,si,no
+00785-9-17,Gloria del Consuelo Vega Guerra,Ciudad de Mexico,Benito Juarez,si,no,no
+00787-15-17,Alejandro Ivan Nuevo Rodriguez,Mexico,Sn Bartolo Acolman,no,si,si
+00788-11-17,Union Ganadera Regional de Porcicultores de Guanajuato,Guanajuato,Irapuato,no,si,no
+00791-5-17,Pedro de Leon Rosales,Coahuila,Torreon,si,si,no
+00793-6-17,Margarita Beatriz Elena Orendain Orendain,Colima,Manzanillo,si,si,si
+00794-7-17,Alimentos y Tecnicas Nutricionales de Chiapas Spr de Rl de CV,Chiapas,Juarez,no,si,no
+00795-21-17,Distribuidora de Zaragoza,Puebla,Zaragoza,no,si,no
+0000796-19-17,La Jungla de Timo SA de CV,Nuevo Leon,Apodaca,si,si,no
+0000796-19-17,La Jungla de Timo SA de CV,Nuevo Leon,Monterrey,si,si,no
+0000796-19-17,La Jungla de Timo SA de CV,Nuevo Leon,San Nicolas de Los Garza,si,si,no
+0000796-19-17,La Jungla de Timo SA de CV,Nuevo Leon,Monterrey,si,si,no
+00798-16-17,La Jungla de Timo SA de CV,Michoacan,Uruapan,si,si,si
+00799-9-17,Angel Manuel Prieto Sanchez,Ciudad de Mexico,Iztacalco,si,no,no
+0800-09-17,Sharon Palma Lara,Ciudad de Mexico,Coyoacan,si,no,no
+0801-9-17,Catalina Soto Sanchez,Ciudad de Mexico,Xochimilco,no,no,no
+0802-9-17,Francisco Pineda Santana,Ciudad de Mexico,Iztapalapa,si,no,no
+0803-19-17,Olivia de Leon Gaytan,Nuevo Leon,Santiago,si,si,si
+0804-14-17,Felipe Garcia Gonzalez,Jalisco,Santa Cecilia,si,si,si
+0806-19-17,Alma Rosa Gonzalez Flores,Nuevo Leon,Juarez,si,si,si
+0807-9-17,Antonio Federico Delgado Mucino,Ciudad de Mexico,Cuajimalpa,si,no,no
+0808-08-17,Lucia Veronica Baron Polito,Chihuahua,Chihuahua,si,si,si
+0809-2-17,Leslie Selene Arredondo Suarez,Baja California,Tijuana,no,si,no
+0810-9-17,Salvador Guadalupe Sanchez Fabela,Ciudad de Mexico,Tlalpan,si,si,no
+0811-15-17,Marco Antonio Ramirez Alcantar,Mexico,Tlalnepantla de Baz,si,si,si
+0812-11-17,Carlos Zuniga Torres,Guanajuato,Leon,si,no,no
+0814-2-17,Elda Maria Rovira Illescas,Baja California,Tijuana,si,si,no
+00815-26-17,Andrea Araiza Forni,Sonora,Hermosillo,no,si,no
+00816-19-17,Proveedora Agropecuaria Garcia SA de CV,Nuevo Leon,Santa Catarina,no,si,no
+00817-28-17,Lorena Idania Aguirre Martinez,Tamaulipas,Tampico,si,si,si
+00818-22-17,Victor Hugo Monforte Braga,Quintana Roo,Cancun,si,si,si
+00820-2-17,Jose Alfredo Escalera Moreno,Baja California,Tijuana,si,si,no
+00821-11-17,Raul Hernandez Cancino y Nieves,Guanajuato,Leon,si,no,no
+00822-7-17,Esperanza Vazquez Rodriguez,Chiapas,Mapastepec,no,si,no
+00823-9-17,Francisco Munguia Garcia,Ciudad de Mexico,Iztacalco,si,no,no
+00824-14-17,Maria de Lourdes Luquin Rubio,Jalisco,Zapopan,si,no,no
+00825-7-17,Maria Isolina Torres Dominguez,Chiapas,Las Margaritas,no,si,no
+00826-24-17,Nora Esther Rojas Cruz,San Luis Potosi,San Luis Potosi,si,no,no
+00827-9-17,Carla Lecuna de Beltran,Ciudad de Mexico,Cuauhtemoc,si,si,si
+00828-27-17,Juana Moguel Ramos,Tabasco,Balancan,no,si,no
+00829-2-17,Carlos Ramon Lopez Ruelas,Baja California,Tijuana,si,si,no
+00830-2-17,Felipe Mauricio Sanchez Luna,Baja California,Ensenada,si,si,si
+00831-16-17,Leobardo Palomino Duran,Michoacan,Michoacan,si,si,no
+00833-08-17,Compania Veterinaria Difag SA de CV,Chihuahua,Delicias,si,si,si
+00834-21-17,Nicolas Cuitlahuac Martinez Diaz,Puebla,Atlixco,si,no,no
+00835-9-17,Madivet Patriotismo SA de CV,Ciudad de Mexico,Benito Juarez,si,si,si
+00838-13-17,Claudia Lizzete Flandes Sanchez,Hidalgo,Pachuca,si,no,no
+00839-22-17,Alejandro Romo Inzunza y O Clinica Veterinaria Meztli,Queretaro,Queretaro,si,no,si
+00840-2-17,Ana Maria Loaiza Cortes y O Acuario de Nemo,Baja California,Tijuana,no,si,no
+0841-09-17,Ernesto Santillan Pala y O Clinica Veterinaria Central,Ciudad de Mexico,Benito Juarez,si,no,no
+00842-14-17,Servicios Veterinarios Baron S de Rl de CV,Jalisco,Guadalajara,si,si,si
+00844-2-17,Alexis Armenta Gonzalez y O Granero Farmacia Veterinaria,Baja California,Benito Juarez,si,si,no
+0000845-09-17,Vecsma SA de CV,Ciudad de Mexico,Cuauhtemoc,no,si,si
+0000845-09-17,Vecsma SA de CV,Ciudad de Mexico,Cuauhtemoc,no,no,si
+00846-09-17,Antonio Hernandez Pinzon y O Veterinaria Huellitas y Garritas,Ciudad de Mexico,Tlahuac,si,si,no
+00847-15-17,Jesus Martinez Cervantes,Mexico,Acolman,si,no,no
+00848-22-17,Francisco Javier Gonzalez Rubio Rose,Queretaro,Queretaro,no,si,no
+00850-11-17,Alimentos Lecheros de Leon SA de CV,Guanajuato,Leon,no,si,Sin dato
+00851-30-17,Victor Tobias Gil,Veracruz,Xalapa,si,no,si
+00852-30-17,Lucia Espinosa Cruz y O Farmacia Veterinaria Cosautlan,Veracruz,Cosautlan de Carvajal,no,si,no
+00853-9-17,Adriana Araceli Armendariz Olivares y O Vet & Pets,Ciudad de Mexico,Xochimilco,si,no,no
+00854-9-17,Edgar Mejia Juarez,Ciudad de Mexico,Coyoacan,si,si,no
+00855-14-17,Francisco Eduardo Mercado Hernandez,Jalisco,Tlajomulco de Zuniga,si,no,si
+00856-15-17,Flor del Rocio Gonzalez Martinez y O Clinica Veterinaria Integral Happy Animal,Mexico,Nicolas Romero,si,no,no
+00857-15-17,Raul Reynoso Isrrade,Mexico,Toluca,si,si,si
+00858-09-17,Hugo Arturo Meza Torres y O Can Angeles del Pedregal de CV,Ciudad de Mexico,Tlahuac,si,no,si
+00859-5-17,David Eduardo del Angel Dey y O Clinica Veterinaria Animal-Place,Coahuila,Saltillo,si,no,no
+00860-5-17,Leopoldo Martin Chavarria Galindo y O Clinica Veterinaria Chavarria,Coahuila,Acuna,si,no,si
+00861-5-17,Fabian Pena Escarcega,Coahuila,Saltillo,si,no,no
+00862-9-17,Gm&A Veterinarios S de Rl de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+00862-9-17,Gm&A Veterinarios S de Rl de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+00863-21-17,Pedro Alberto Zaldivar Huerta y O Clinica Veterinaria Centenario,Puebla,Izucar de Matamoros,si,no,no
+00864-26-17,Jesus Manuel Montano Varela y O Estetica Canina Puppy,Sonora,San Luis Rio Colorado,si,si,no
+00865-26-17,Jesus Manuel Montano Varela y O Veterinaria el Torito,Sonora,San Luis Rio Colorado,si,si,no
+00866-26-17,Mariana Moreno Navarro y O Granero y Veterinaria el Burrito,Sonora,San Luis Rio Colorado,si,si,no
+00867-26-17,Ilse Maria Moreno Navarro y O Pet House,Sonora,San Luis Rio Colorado,si,si,no
+00867-26-17,Ilse Maria Moreno Navarro y O Pet House,Sonora,San Luis Rio Colorado,si,si,no
+00868-26-17,Enrique Moreno Sanchez y O Farmacia Veterinaria del Desierto,Sonora,San Luis Rio Colorado,si,si,no
+00869-28-17,Maria Guadalupe Perez Flores y O Farmacia Veterinaria el Venadito,Tamaulipas,Tamaulipas,si,si,si
+00870-09-17,Ambrosio Garcia Lopez y O Consultorio Veterinario Mascotas,Ciudad de Mexico,Alvaro Obregon,si,no,no
+00871-11-17,Liliana Serrano Saucedo y O Vettier,Guanajuato,Leon,si,no,si
+00872-11-17,Pablo Enrique Lopez Lopez y O Veterinaria Los Potros,Guanajuato,Ciudad de Cueramaro,si,si,no
+00873-11-17,Juan Alfredo Gonzalez Soto y O Los Laureles,Guanajuato,Leon,si,no,no
+00874-15-17,Angel Mario Bringas Curiel,Mexico,Toluca,no,no,no
+00875-15-17,Super Farmacia Veterinaria de Toluca SA de CV,Mexico,Toluca,no,si,no
+00876-09-17,Maria de Jesus Cardenas Rayas y O Hospital Veterinario Rampu,Ciudad de Mexico,Cuauhtemoc,no,no,si
+00877-08-17,Martha Elena Sanchez Garcia y O Veterinaria Sigala,Chihuahua,Chihuahua,si,si,si
+00878-05-17,Omar Guillermo Martinez Juarez,Coahuila,Torreon,si,no,no
+00879-09-17,Brenda del Consuelo Gongora Cardenas y O P&C Club,Ciudad de Mexico,Miguel Hidalgo,si,si,no
+00880-09-17,Lilian Lizbeth Flores Contreras y O Vidavet,Ciudad de Mexico,Cuauhtemoc,si,si,no
+00881-05-2017,Asociacion Ganadera Local de Piedras Negras,Coahuila,Piedras Negras,no,si,no
+00882-21-17,Mary Cruz Jimenez Rivadeneyra y O Alimentos Servicio Veterinario y Estetica Canina Acatzingo,Puebla,Acatzingo,si,no,no
+00883-05-17,Gruvets SA de CV,Coahuila,Saltillo,si,no,si
+00884-20-17,Distribuidora el Tio SA de CV,Oaxaca,Oaxaca,no,si,no
+00885-09-17,Adriana Quintana Rodriguez y O Veterinaria Pecas,Ciudad de Mexico,Tlalpan,si,no,si
+00886-09-17,Miguel Angel Homar Sigala Duarte y O Veterinaria Sigala,Chihuahua,Chihuahua,si,si,si
+00887-08-17,Omar Yasef Sigala Sanchez,Chihuahua,Chihuahua,si,si,si
+00888-09-17,Servicios Integrales Para Mascotas SA de CVy O Centro Veterinario Mexico (Sucursal Cincinatti),Ciudad de Mexico,Ciudad de Mexico,si,si,si
+00888-09-17,Servicios Integrales Para Mascotas SA de CVy O Centro Veterinario Mexico (Sucursal Petco),Ciudad de Mexico,Ciudad de Mexico,si,si,si
+00888-09-17,Servicios Integrales Para Mascotas SA de CVy O Centro Veterinario Mexico (Sucursal Bosques),Ciudad de Mexico,Ciudad de Mexico,si,si,si
+00888-09-17,Servicios Integrales Para Mascotas SA de CVy O Centro Veterinario Mexico (Sucursal Napoles),Ciudad de Mexico,Ciudad de Mexico,si,si,si
+00889-09-17,Miguel Angel Sierra Bernal y O Clinica Veterinaria Palo Verde,Ciudad de Mexico,Coyoacan,si,si,si
+00890-09-17,Orquidea Trinidad Rionda Morales y O Consultorio Veterinario Rasgunos y Mordidas,Ciudad de Mexico,Iztacalco,si,no,no
+00891-09-17,Jose de Jesus Banuelos Cuahutecatl y O Clinica Veterinaria Azca Center,Ciudad de Mexico,Azcapotzalco,si,si,no
+00892-09-17,Ernesto Moranchel Gutierrez y O Veterinaria Dr Moranchel,Ciudad de Mexico,Tlahuac,si,si,no
+00893-09-17,Adriana Eugenia Juarez Rivas y O Clinica Veterinaria Yoalli,Ciudad de Mexico,Iztacalco,si,si,no
+00894-02-17,Maria Elena Rivera Valenzuela y O Granero y Veterinaria del Sol,Baja California,Mexicali,si,si,si
+00894-02-17,Maria Elena Rivera Valenzuela y O Granero y Veterinaria del Sol,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+00895-02-17,Juan Antonio de Anda Romo,Baja California,Mexicali,si,si,si
+7,Alfredo Medrano Miranda y O Distribuidora del Sol Monorcas,Baja California,Mexicali,si,si,si
+00897-07-17,Alejandro Vazquez Castro y O Veterinaria el Rodeo de Mapastepec,Chiapas,Chiapas,no,si,no
+00898-22-17,Veterinaria el Ganador SA de CV,Queretaro,Queretaro,si,si,no
+00899-30-17,Luz Maria Flores Flores y O Servicios Veterinarios Montero,Veracruz,Las Choapas,no,si,no
+00901-20-17,Joel Armando Trujillo Romano y O Centro Clinico Veterinario de Antequera,Oaxaca,Oaxaca,si,si,no
+00902-20-17,Fermin Murcio Morales y O Mascotas Veterinarias,Oaxaca,Oaxaca,si,si,no
+00903-20-17,Agroveterinaria Abastos SA de CV,Oaxaca,Oaxaca,no,si,no
+00904-20-17,Heriberto Regis Ordonez y O Veterinaria Dr Beto,Oaxaca,Oaxaca,no,si,no
+00905-20-17,Maria Esther Juarez Pacheco y O Clinica y Estetica Canina Amairani,Oaxaca,Oaxaca,si,si,no
+00906-20-17,Donaji Julian Garcia y O Veterinaria Pet & Shop Donican,Oaxaca,Oaxaca,si,no,si
+00907-20-17,Maria Angelica Laredo Vazquez y O Veterinaria Casas,Oaxaca,Oaxaca,si,si,no
+00908-07-17,Grupo Empresarial Bolero Spr de CVy O Agropecuaria la Giba,Queretaro,Pijijiapan,no,si,no
+00909-12-17,Xochitl Nieto Gatica y O Eureka Clinica Veterinaria,Guerrero,Iguala,si,no,no
+00910-12-17,Luis Alberto Roman Faureno y O Vetpets Alimento y Accesorios,Guerrero,Iguala,si,no,no
+00911-09-17,Victoria Yanez Esperon y O Clinica Veterinaria Le Gua Gua,Ciudad de Mexico,Benito Juarez,si,si,no
+00912-28-17,Jose Carlos Trevino Canales y O Forrajes Trevino,Tamaulipas,Valle Hermoso,no,si,no
+00913-09-17,Jorge Fernando Morales Mota y O Cuerpi,Ciudad de Mexico,Cuauhtemoc,no,si,no
+00914-16-17,Jimenez Ruiz Aureliano y O Farmacia Veterinaria del Centro,Michoacan,Los Reyes,no,si,no
+00915-19-17,Luis Enrique Esquivel Briones y O Centro Veterinario Esquivel,Nuevo Leon,San Nicolas de Los Garza,no,no,si
+00916-30-17,Osvaldo Popocatl Matus y O Consultorio Veterinario Animal Health,Veracruz,Veracruz,si,no,no
+00917-26-17,Carlos Pina Felix y O Veterinaria Perros y Gatos,Sonora,Hermosillo,si,no,no
+00919-09-17,Administradora Leysa SA de CV,Ciudad de Mexico,Iztacalco,no,si,no
+00920-31-17,Maria Teresa Jimenez Salazar y O Central Medica Veterinaria,Yucatan,Merida,si,no,no
+00921-27-17,Jose Humberto Priego Gonzalez y O Agrotec del Sureste,Tabasco,Centro,no,si,no
+00922-21-17,Salvador Zambrano Campillo y O Farmacia Veterinaria el Carmen,Puebla,Acatzingo,no,si,no
+00923-14-17,Agroveterinaria Marroquin S de Rl de CV,Jalisco,Zapotlanejo,si,no,no
+00926-27-17,Carlos Armando Castillo Salas y O Distribuidora de Alimentos,Tabasco,Teapa,no,si,no
+00927-27-17,Delmina Ramos Prats y O Productos Veterinarios de la Sierra,Tabasco,Tacotalpa,no,si,no
+00928-15-17,Enrique Ruiz Manrique,Mexico,Cuautitlan Izcalli,si,no,no
+00929-30-17,Laura Patricia Gomez Diaz y O Farmacia Veterinaria la Cubeta,Veracruz,Sin dato,no,si,no
+00930-28-17,Patricia Arenas Lopez y O Farma 2000 del Mante,Tamaulipas,Mante,no,si,no
+00931-15-17,Jorge Hernandez Vera y O Clinica Veterinaria Catdog,Mexico,Mexico,si,no,no
+00932-09-17,Veronica Mendoza Reyes y O Clinica Veterinaria de Especialidades Acanceh,Ciudad de Mexico,Tlalpan,si,si,no
+00933-07-17,Surtidora Agropecuaria Diga S de Rl de CV,Chiapas,Tuxtla Gutierrez,no,si,no
+00934-09-17,Aaron Neftali Molho Mondragon,Ciudad de Mexico,Miguel Hidalgo,no,si,no
+00935-09-17,Luis Daniel Arroyo Torres y O Centro Integral Veterinario Angelus,Ciudad de Mexico,Benito Juarez,si,no,no
+00936-09-17,Grupo Staysi SA de CV,Ciudad de Mexico,Miguel Hidalgo,no,si,no
+00937-28-17,Forrajera Cantus de Rl de CV,Tamaulipas,Reynosa,si,si,si
+00938-02-17,Mia Victoria Gonzalez Badillo y O Veterinaria Mexicali,Baja California,Lomas de San Fernando,si,si,no
+00939-09-17,Karol Alejandra Sanchez Sanchez y O K-Vet,Ciudad de Mexico,Benito Juarez,si,no,no
+00940-16-17,Ricardo Mendez Landa y O Mack Vet'S,Michoacan,Michoacan,si,si,si
+00941-16-17,Luis Enrique Ramirez Barragan y O Centro Veterinario Uruapan,Michoacan,Michoacan,si,si,si
+00942-01-17,Arturo Gutierrez Jimenez,Aguascalientes,Aguascalientes,no,si,no
+00943-25-17,Pedro Javier Rojas Zavala y O Hospital Chapultepets,Sinaloa,Cualiacan,no,no,si
+00944-25-17,Marco Antonio Ledezma Marin y O Clinica Veterinaria Chapultepets,Sinaloa,Culiacan,si,no,no
+00945-09-17,Oscar Ivan Bello Medrano y O Clinica Veterinaria San Eloy,Ciudad de Mexico,Gustavo a Madero,si,no,no
+00946-30-17,Ana Isabel Perez Ortiz y O Proveedora Veterinaria,Veracruz,Acayucan,no,si,no
+00947-09-18,Centro Integral de Atencion Para la Mascota Coyoacan SA de CV,Ciudad de Mexico,Alvaro Obregon,si,Sin dato,si
+00948-14-17,Hospital Veterinario Manuel Acuna S de Rl de CV,Jalisco,Guadalajara,si,no,no
+00949-09-17,Fabiola Rueda Calderon y O Estetica Canina Faby,Ciudad de Mexico,Coyoacan,si,si,no
+00950-23-17,Hector Jorge Flores Rodriguez y O Animal Company,Quintana Roo,Solidaridad,si,si,no
+00951-25-17,Santiago Lopez Gerardo y O Hospital Chapultepets,Sinaloa,Cualiacan,no,no,si
+00953-23-17,Francisco Carlos Cortes Van Aaren y O Sanimal,Quintana Roo,Solidaridad,si,si,si
+00954-21-17,Israel Flores Limon y O Farmacia Veterinaria la Hacienda,Puebla,Acatzingo,no,si,no
+00955-08-17,Roberto Carballo Galicia y O Clinica Veterinaria Mundo K-Nino,Chihuahua,Chihuahua,si,si,si
+00956-21-17,Agustin Jose Cedillo Irigoyen y O Clinica Veterinaria Cergar,Puebla,Tepeaca,si,no,no
+00957-11-17,Francisco Javier Carrillo Reyes y O Clinica Veterinaria Vetpoint,Guanajuato,Leon,si,no,no
+00958-02-17,Roberto Carlos Inzunza Garcia y O Granero y Veterinaria Los Campeones,Baja California,Mexicali,si,si,si
+00959-14-17,Enrique Anarbol Hernandez Perez y O Veterinaria Leo,Jalisco,Guadalajara,si,no,no
+00960-08-17,Jose Ulises Loya,Chihuahua,Cuauhtemoc,no,si,no
+00961-15-17,Jose Alberto Fajardo Miranda,Mexico,Ecatepec,si,no,si
+00962-20-17,Facundo del Rio Avedano,Oaxaca,Tlacolula de Matamoros,no,si,no
+00963-22-17,Humberto Perea Nunez y O Medical Center Clinica Veterinaria,Queretaro,Queretaro,si,no,si
+00964-02-17,Oscar Aguilar Lucero y O la Casa del Granjero,Baja California,Baja California,no,si,no
+00965-14-17,Carlos Macias Escoto,Jalisco,Puerto Vallarta,si,no,no
+00967-02-17,Karina Galaviz Corral y O Servicios Veterinarios la Mascota,Baja California,Mexicali,si,si,no
+00968-14-17,Efrain de la Rosa Martinez,Jalisco,Zapopan,si,no,si
+00969-08-17,Veterinaria Regina SA de CV,Chihuahua,Parral,no,si,no
+00970-16-17,Juana Bucio Vazquez y O Veterinaria la Mula Chula,Michoacan,Morelia,si,si,no
+00971-14-17,Maria del Carmen Santillan Flores,Jalisco,Puerto Vallarta,si,no,no
+00972-04-17,Jose Faisal Sanchez y O Proveedora Agricola y Ganadera,Campeche,Campeche,no,si,no
+00973-22-17,Maria del Rocio Buendia Campos,Queretaro,Corregidora,si,no,no
+00974-16-17,Javier Baltazar Vicencio y O Veterinaria Mascopet,Michoacan,Morelia,si,si,no
+00975-16-17,Brenda Cardenas Perez y O Huellitas y Bigotes Veterinaria,Michoacan,Morelia,si,si,no
+00976-16-17,Kevin Geraldo Ceja Melgoza y O Woof Clinica Veterinaria,Michoacan,Patzcuaro,si,no,no
+00977-27-17,Yessica Anallely Osorio Gomez y O Agroveterinaria Santa Cruz,Tabasco,Emiliano Zapata,no,si,no
+00978-27-17,Distribuidora del Usumacita el Corral Sociedad Por Acciones Simplificada de Capital Variable,Tabasco,Emiliano Zapata,no,si,no
+00979-09-17,Norma Tapia Zurita y O Mi Gran Amigo,Ciudad de Mexico,Iztacalco,si,si,si
+00980-09-17,Angelina Alarcon Contreras y O Bichos Boutique,Ciudad de Mexico,Cuauhtemoc,si,no,no
+00981-09-17,Omar Artuto Lopez Reyna y O Centro Medico Veterinario de Oriente,Ciudad de Mexico,Iztacalco,Sin dato,Sin dato,Sin dato
+00982-09-17,Karina Flores Arellano y O Clinica Veterinaria Doggy,Ciudad de Mexico,Azcapotzalco,si,no,no
+00983-02-17,Mario Barboza Padilla y O Farmacia Veterinaria Alamitos,Baja California,Mexicali,no,si,si
+00984-05-17,Eduardo Chaires Zamora y O Veterinaria Schnauzer,Coahuila,Monclova,si,no,si
+00985-26-17,Material de Curacion y Equipo Medico SA de CV,Michoacan,Morelia,no,si,no
+00986-24-17,Clara Leticia Sanchez Rocha y O Hospital Veterinario Animal Cityvet,San Luis Potosi,San Luis Potosi,si,no,si
+00987-24-17,Pedro Pablo Trujillo Rosales y O Hospital Veterinario Animal Cityvet,San Luis Potosi,San Luis Potosi,si,no,si
+00988-21-17,Demetrio Hernandez Gomez y O Farmacia Veterinaria San Isidro,Puebla,Zaragoza,no,si,no
+00989-21-17,Dominga Nieves Rojas y O Consultorio Veterinario Taximascota,Puebla,Teziutlan,si,no,no
+00990-22-17,Ali Suris Alonso y O Vivanimal,Quintana Roo,Benito Juarez,si,si,si
+00991-22-17,Yroel Luis Bentacourt Herrera y O Amerivet Hospital Veterinario,Quintana Roo,Benito Juarez,si,si,si
+00992-22-17,Jose Luis Mejia Reyes y O la Tienda de Animales,Quintana Roo,Benito Juarez,no,si,no
+00993-22-17,Lisset Capote Hernandez y O Vivanimal,Quintana Roo,Benito Juarez,si,si,si
+00994-22-17,Ibeth Marcela Carvajal Santisteban y O Chez Guau,Quintana Roo,Benito Juarez,no,si,no
+00995-02-17,Cesar Alberto Rodriguez Salazar y O Vita-Can,Baja California,Ensenada,si,si,no
+00996-08-17,Juan Carlos Cardenas Avila y O Provetsa,Chihuahua,Chihuahua,no,si,no
+00997-09-17,Victoria Ramirez y O Centro Veterinario Sur,Ciudad de Mexico,Coyoacan,si,si,no
+00998-05-17,Martha Elizabeth Gonzalez Mariel y O Agropecuaria la Jarochita,Coahuila,Saltillo,no,si,no
+00999-07-17,Marcos Alejo Perez,Chiapas,Palenque,no,si,no
+1001-31-17,Felipe Andres Sosa Chan y O Agropecuaria del Sureste,Yucatan,Merida,no,si,no
+1002-14-17,Asociacion Local de Porcicultores de Tepatitlan de Morelos Jalisco,Jalisco,Tepatitlan,no,si,no
+1005-18-17,Leonardo Aguilar Marana,Nayarit,Nayarit,si,si,si
+1006-09-17,Catherine Maria Pia Cilveti Le Lorier y O Clinica Veterinaria Coyoacan,Ciudad de Mexico,Ciudad de Mexico,si,no,no
+1007-28-17,Noelia Davila Pineiro y O Veterinaria y Estetica Canina Peq Es,Tamaulipas,Tampico,no,si,no
+1007-28-17,Noelia Davila Pineiro y O Super Mascotas,Tamaulipas,Tampico,no,si,no
+1008-28-17,Ricardo del Angel Velazco y O Super Veterinaria,Tamaulipas,Tampico,si,si,si
+1009-14-17,Sara Elena Venegas Montes,Jalisco,Zapopan,si,no,no
+1010-14-17,Hector Andres Garcia Guiza,Jalisco,Tepatitlan de Morelos,si,no,si
+1011-21-17,Grecia Bandera Nochebuena,Puebla,Libres,no,si,no
+1012-02-17,Alejandro Jesus Romero Torrecillas y O el Vaquero,Baja California,Mexicali,no,si,no
+1013-02-17,Lorenzo Antonio Heredia Moreno y O Veterinaria del Valle,Baja California,Mexicali,no,si,no
+1014-02-17,Naimeth Dipp Flores Soria y O Veterinaria Carito,Baja California,Mexicali,si,si,no
+1015-16-18,Jose Francisco Cordoba Castro (Prehistoric Animals),Michoacan,Morelia,si,si,si
+1016-16-18,Samuel Hernandez Servin y O Central Medica Veterinaria,Michoacan,Lazaro Cardenas,si,si,si
+1017-16-18,Eunice Fabiola Cuesta Reyes y O Pet´S Planet,Michoacan,Lazaro Cardenas,si,si,si
+1018-16-18,Jaime Orozco Hernandez y O Hospivet,Michoacan,Lazaro Cardenas,si,si,no
+1019-16-18,Alfredo Lopez Alvarez y O Clinica Vetrrinarai +Ko,Michoacan,Lazaro Cardenas,si,no,no
+1020-16-18,Cesar Mauricio Rangel Salgado Y7O Veterinaria Rangel,Michoacan,Lazaro Cardenas,si,si,si
+1021-16-18,Christina Isabel Perez Cabrera y O Clinica Veterinaria Huellas,Michoacan,Morelia,si,no,no
+1022-14-18,Edith Ariadna Lozano Caro y O Clinica Veterinaria Animal Nature,Jalisco,Jalisco,si,si,si
+1023-02-18,Alama Guadalupe Murillo Miranda (Veterinaria Rancho Grande),Baja California,Baja California,si,no,no
+1024-16-18,Jorge Daniel Hernandez Nolasco y O Amikan Servicios Veterinarios,Mexico,Ecatepec,si,no,no
+1025-15-17,Arturo Tienda Diaz y O Clinica Veterinaria y Estetica el Buitre,Mexico,Texcoco,si,no,no
+1026-09-17,Escuela Para Entrenamiento de Perros Guia Para Ciegos Iap,Ciudad de Mexico,Coyoacan,no,no,si
+1027-09-17,Rocio Zuleima Silva Peruyero Toral y O Pet Care,Ciudad de Mexico,Coyoacan,si,no,no
+1028-09-17,Karina Calderon Garcia y O Clinica Veterinaria Jonay,Ciudad de Mexico,Coyoacan,si,si,no
+1029-09-17,Alejandra Huerta Duran y O Dog Cute,Ciudad de Mexico,Iztacalco,si,si,no
+1031-11-18,Adriana Sishlaine Martinez Molina y O Kinkivet,Guanajuato,Leon,no,si,si
+1032-15-18,Edmundo Soriano Rivero y O Clinica y Farmacia Veterinaria Rancho Alegre,Mexico,Zumpango,si,si,no
+1032-15-18,Edmundo Soriano Rivero y O Clinica Veterinaria Rancho Alegre,Mexico,Zumpango,si,si,no
+1032-15-18,Edmundo Soriano Rivero y O Forrajera Rancho Alegre,Mexico,Zumpango,no,no,no
+1033-02-18,Forrajes y Servicios Agropecuarios SA de CV,Baja California,Mexicali,no,si,no
+1035-21-18,Maria del Rocio Veron del Pino y O Hospital Veterinarios de Cholula,Puebla,Cholula de Rivadabia,si,si,no
+1036-04-18,Edwin Renan Miranda Silva y O el Sembradio,Campeche,Escarcega,si,si,no
+1037-04-18,Juana Silva Salas y O el Sembradio,Campeche,Escarcega,si,si,no
+1038-16-18,Celestino Duarte Ramirez y O Veterinaria y Estetica Chapultepec,Michoacan,Morelia,si,si,no
+1039-04-18,Cinthya Natalia Alayon Vazquez y O la Economica Mercado,Campeche,Sin dato,no,si,no
+1041-04-18,Matilde Enriqueta Sarmiento Maldonado y O Veterinaria la Vaquita,Campeche,Escarcega,si,si,no
+1044-20-18,Alimentos y Productos Veterinarios del Tropico SA de CV,Oaxaca,Loma Bonita,si,si,no
+1045-08-18,Juan Manuel Arredondo Salinas,Chihuahua,Juarez,si,si,no
+1047-08-18,Erik Baltazar Sanchez,Campeche,Melchor Ocampo,no,si,no
+1048-08-18,Liliana Elizabeth Mendez Chavira,Chihuahua,Chihuhua,no,si,no
+1050-09-18,Mayra Vizcarra Sanbuichi y O Pet Care Centro Veterinario,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1050-09-18,Mayra Vizcarra Sanbuichi y O Pet Care Centro Veterinario,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1051-09-18,Jose Sergio Carrillo Aguiar y O Mas Que Mascotas,Ciudad de Mexico,Benito Juarez,si,no,no
+1051-09-18,Jose Sergio Carrillo Aguiar y O Mas Que Mascotas,Ciudad de Mexico,Benito Juarez,si,no,no
+1052-09-18,Guillermo Toledo Flores y O Animalitos,Ciudad de Mexico,Benito Juarez,si,si,si
+1052-09-18,Guillermo Toledo Flores y O Animalitos,Ciudad de Mexico,Benito Juarez,si,si,si
+1053-14-18,Claudia Galan Martinez,Jalisco,San Pedro Tlaquepaque,si,no,no
+1054-09-18,Carmen Avila Merino,Ciudad de Mexico,Naucalpan,si,no,no
+1054-09-18,Carmen Avila Merino,Ciudad de Mexico,Naucalpan,si,no,no
+1055-15-18,Miguel Ulises Pulido Gomez,Mexico,Metepec,si,si,si
+1055-15-18,Miguel Ulises Pulido Gomez,Mexico,Toluca,si,si,si
+1055-15-18,Miguel Ulises Pulido Gomez,Mexico,Toluca,si,si,si
+1056-15-18,Maria del Socorro Rosas Castillo y O la Boutique de Chiens,Mexico,Metepec,si,si,si
+1057-16-18,Margarita Carbajal Lopez y O Veterinaria Carval,Michoacan,Uruapan,si,si,no
+1058-14-18,Patricia Elizabeth Zaragoza Quintero y O Ecopet San Miguel,Jalisco,San Pedro Tlaque Paque,si,si,no
+1059-09-18,Jorge Antonio Vilchis Lopez,Ciudad de Mexico,Tlalpan,si,no,no
+1060-09-18,Omar Arturo Lopez Reyna y O Centro Medico Veterinario de Oriente,Ciudad de Mexico,Iztacalco,si,si,no
+1061-19-18,Gerardo Cantu Guajardo y O Forrajera Cantu,Nuevo Leon,Apodaca,no,si,no
+1062-14-18,Rosa Maria Garcia Gonzalez y O Hospital Veterinario The Animal Health Center,Jalisco,Zapopan,si,no,no
+1063-08-18,Hiram Israel Mancera Contreras y O Mexpet,Chihuahua,Chihuhua,si,si,si
+1064-14-18,Eliaelisa Mendoza Dam,Jalisco,Zapopan,si,si,no
+1064-14-18,Eliaelisa Mendoza Dam,Jalisco,Zapopan,si,si,no
+1065-09-18,Israel Diaz Velasco y O Zen-Can,Ciudad de Mexico,Iztacalco,si,si,no
+1067-23-18,Rosalia Rayado Munos y O Patitas Felices Clinica Veterinaria,Quintana Roo,Cancun,si,no,no
+1068-28-18,Erick Aaron del Angel Huerta y O Servicios Veterinarios Mi Maskota,Tamaulipas,Tampico,si,si,no
+1069-28-18,Rogelio Montoya Ruiz y O Distribuidora Veterinaria de Victoria,Tamaulipas,Ciudad Victoria,si,si,no
+1070-28-18,J Alejandro Garcia Tamez y O Veterinaria Altamira,Tamaulipas,Altamira,si,si,no
+1071-28-18,Maria Leticia Lerma Jimenez y O Clinicas Para Mascotas 13 Michoacan,Tamaulipas,Ciudad Victoria,si,si,si
+1072-28-18,Zamira Urrutia Juarez y O Servicios Veterinarios Mi Maskota,Tamaulipas,Altamira,si,si,si
+1073-27-18,Ana Luisa Perez Garcia,Tabasco,Tenosique,no,si,no
+1074-21-18,Ricardo Ledo Flores y O Farmacia Veterinaria San Jose,Puebla,Acatzingo,no,si,no
+1075-24-18,Elizabeth Gonzalez Aguilar y O Veterinaria Aguilar,San Luis Potosi,Soledad de Graciano Sanchez,si,si,no
+1076-24-18,Jose de Jesus Martin del Campo Soto,San Luis Potosi,San Luis Potosi,si,si,no
+1078-09-18,Itzel Anahi Velasco Ramos y O Clinica Veterinaria Agni,Ciudad de Mexico,Tlalpan,si,no,no
+1079-09-18,Mariana Gomez Garcia y O el Senor y la Senora Xolotl,Ciudad de Mexico,Coyoacan,si,si,si
+1080-09-18,Poc a Poc SA de CV,Ciudad de Mexico,Cuajimalpa,si,no,no
+1081-14-18,Ricardo Palomar Munoz,Jalisco,San Pedro Tlaquepaque,si,si,si
+1082-24-18,Andres Augusto Castro Zaragoza y O Centro Veterinario de Especialidades Hermes,San Luis Potosi,San Luis Potosi,si,si,si
+1083-24-18,Oscar Castro Zaragoza y O Centro Veterinario de Especialidades Hermes,San Luis Potosi,San Luis Potosi,si,si,si
+1084-24-18,Andres Castro Ramirez y O Centro Veterinario de Especialidades Helmes,San Luis Potosi,San Luis Potosi,si,si,si
+1085-14-18,Maria de la Luz Jaime Orozco,Jalisco,San Pedro Tlaquepaque,si,no,no
+1086-14-18,Miguel Ibanes Arroniz y O Hospital Veterinario Guadalajara,Jalisco,Guadalajara,si,si,si
+1088-20-18,Union Ganadera Regional del Norte de Oaxaca,Oaxaca,Tuxtepec,no,si,no
+1089-09-18,Guillermo Diaz Rogers y O Vet For Pets,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1092-14-18,Angela Gomez Garcia,Jalisco,Puerto Vallarta,si,no,no
+1093-16-18,Maria de la Luz Magana Guisa,Michoacan,Morelia,si,no,no
+1094-23-18,Sarai Diaz Mendez y O Clinica Veterinaria Integral,Quintana Roo,Playa del Carmen,si,no,no
+1095-02-18,Irving Silva Reyes y O Veterinaria Dovet,Baja California,Tijuana,si,no,no
+1096-11-18,Cesar Rodriguez Contreras y O Veterinaria San Roque,Guanajuato,San Miguel de Allende,no,si,no
+1097-16-18,Jorge Espinosa Garcia y O Veterinaria Katze,Michoacan,Uruapan,si,si,si
+1098-07-18,Central Ganadera y Agropecuaria SA de CV,Chiapas,Tonala,no,si,no
+1099-07-18,Agroveterinaria el Gallero SA de CV,Chiapas,Frontera Comalapa,no,si,no
+1100-09-18,Luis Tufic Dergal Dergal Tumascota,Ciudad de Mexico,Benito Juarez,si,no,no
+1102-16-18,Juan Manuel Rincon Jimenez y O Veterinaria y Estetica Tsuki,Michoacan,Morelia,si,no,no
+1103-16-18,Idalia Fuentes Ambriz y O Medican,Michoacan,Morelia,si,no,no
+1106-15-18,Ismael Gabriel Perez Reyes,Mexico,Ecatepec,si,si,si
+1107-09-18,Juan Pablo Zavala Villanueva y O Pet-Ker Clinica Veterinaria,Ciudad de Mexico,Tlalpan,si,si,no
+1108-09-18,Ramos Munoz Cristina y O Vetter,Ciudad de Mexico,Venustiano Carranza,si,no,no
+1109-25-18,Ma del Rocio Martinez Amador y O Veterinaria Los Tejados,San Luis Potosi,Cd Fernandez,no,si,no
+1110-09-18,Gerarddo Jacome Serrano y O Veterinaria Locky,Ciudad de Mexico,Coyoacan,si,no,no
+1111-16-18,Alfredo Fernandez Miranda y O Veterinaria la Hacienda,Michoacan,Indaparapeo,no,si,no
+1112-02-18,Kimberly Rojas Naranjo y O Granero y Veterinaria del Sol,Baja California,Mexicali,si,si,si
+1113-15-18,Manuel Enriquez Lach y O Pet Home,Mexico,Metepec,si,no,no
+1114-14-18,Daniel Alejandro Suarez Paredes,Jalisco,Puerto Vallarta,si,si,si
+1115-14-18,Oscar Gerardo Gomez Huerta,Jalisco,Puerto Vallarta,si,si,si
+1116-14-18,Sonia Lomelin del Castillo y O Ocicat Clinica Felina,Jalisco,Guadalajara,si,no,no
+1117-23-18,Karen Elena Vazquez Baeza y O Veterinaria Alfa,Quintana Roo,Benito Juarez,si,no,no
+1118-04-18,Hospital Veterinario Integral Sc,Campeche,Campeche,no,si,si
+1119-16-18,Doris Christian Villasenor Rodriguez y O Rocky Pet'S Veterinaria,Michoacan,Morelia,si,no,no
+1120-23-18,Pet'Opia SA de CV,Quintana Roo,Cancun,si,si,no
+1121-15-18,Gustavo Eduardo Ramirez Zierold y O Anima Mundi Hospital Veterinario,Mexico,Valle de Bravo,si,si,si
+1122-02-18,Tania Isabelvillalobos Ortiz y O Veterinaria y Granero Paraiso Canino,Baja California,Tijuana,si,si,si
+1123-02-18,Fabian Gastelum Leyva y O Granero y Veterinaria la Trovazoo,Baja California,Tijuana,si,si,no
+1124-02-18,Porfirio Molina Martinez y O Veterinaria y Estetica Canina Reino Animal,Baja California,Tijuana,si,si,no
+1125-09-18,Alma Delia Bonilla Pineda y O Pets Market,Ciudad de Mexico,Gustavo a Madero,si,si,no
+1126-03-18,Jose Manuel Melero Astorga y O Clinica Veterinaria y Farmacia Transpeninsular Los Dos Josee'S,Baja California,La Paz,si,si,si
+1127-24-18,Jesus Raymundo Dominguez Gonzalez y O Clinica Veterinaria Entre Perros y Gatos,San Luis Potosi,San Lusi Potosi,si,no,no
+1128-09-18,Gerardo Gonzalez Cruz,Ciudad de Mexico,Tlahuac,si,no,no
+1129-05-18,Jesus Flores Medellin y O Veterinaria Medellin,Coahuila,Saltillo,si,no,si
+1130-16-18,Maria Eugenia Avila Vazquez y O Clinica Veterinaria Kirman,Michoacan,Zitacuaro,si,si,si
+1131-09-18,Maria de la Luz Alfaro Gonzalez y O Veterinaria y Spa Marilu,Ciudad de Mexico,Gustavo a Madero,si,si,no
+1132-21-18,Plinio Hernandez Aguirre y O la Huella Clinica Hospital Veterinario,Puebla,Tehuacan,si,no,no
+1133-16-18,Miguel Angel Axomulco Nava y O Serveter,Michoacan,Morelia,si,si,no
+1134-09-18,Administradora Mexicana de Hipodromo SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1135-14-18,Alejandro Salgado Rodriguez y O Veterinaria Mascotitas,Jalisco,Guadalajara,si,no,no
+1136-14-18,Juan Silvestre Gonzalez Garibay y O Perriatra,Jalisco,Zapopan,si,no,no
+1137-14-18,Tonatzin Guadalupe Meza Herrera y O Tlaquepet,Jalisco,Tlaquepaque,si,no,no
+1138-14-18,Jonathan Manuel Jimenez Luna y O Hospital Veterinario Vetpets Canadas,Jalisco,Zapopan,no,no,si
+1139-25-18,Marco Antonio Cardenas Avila y O Veterinaria del Pacifico,Sinaloa,Mazatlan,si,no,no
+1140-09-18,Teresa Camacho Perez,Ciudad de Mexico,Benito Juarez,si,no,no
+1141-02-18,Alma Viridiana Ramos Chavez y O Pet Home Estetica Canina y Veterinaria,Baja California,Tijuana,si,no,no
+1142-09-18,Gabriela Vargas Ortega,Ciudad de Mexico,Gustavo a Madero,si,no,no
+1143-16-18,Maria Guadalupe Medina Herrera y O Veterinaria la Granja,Michoacan,La Mura,si,si,si
+1144-09-18,Roberto Mercado Gutierrez y O la Bodeguita de Las Mascotas,Ciudad de Mexico,Xochimilco,si,no,no
+1145-14-18,Jose Fausto Rosales Enciso,Jalisco,Guadalajara,si,si,si
+1146-09-18,Javier Cortes Salas y O Consultorio Veterinario Neco Tu Inu,Ciudad de Mexico,Iztacalco,si,no,no
+1147-18-18,Blanca Margarita Valenzuela Esparza y O Chocoburbujas,Nayarit,Tepic,si,si,no
+1148-15-18,Ricarda Guadalupe Moran Velazquez y O Veterinaria del Centro,Mexico,Almoloya de Juarez,si,si,no
+1149-09-18,Jose Bernabe German Luna Agustin y O Veterinaria y Estetica Canina Rocky,Ciudad de Mexico,Xochimilco,si,si,si
+1150-09-18,Gabriela Andrea Moreno Hernandez y O Socios y Sabuesos,Ciudad de Mexico,Iztacalco,si,no,no
+1151-02-18,Jose Alejandro Peralta Morales y O Veterinaria Traviz,Baja California,Tijuana,si,si,no
+1152-24-18,Gabriel Betancourt Rodriguez y O Clinica Veterinaria Anzus,San Luis Potosi,Soledad de Graciano Sanchez,si,no,no
+1153-09-18,Luis Nicolas Neme,Ciudad de Mexico,Benito Juarez,si,si,si
+1154-16-18,Efrain Burguete Trujillo y O Veterinaria Pro Pet'S,Michoacan,Tarimbaro,si,si,si
+1155-11-18,Rivera Navarro Delfino y O la Vaca Negra,Guanajuato,Penjamo,si,si,si
+1156-15-18,Alicia Comenares Jimenez y O Koko Bongo,Mexico,Ixtapaluca,si,si,no
+1157-09-18,Animalia SA de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+1157-09-18,Animalia SA de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1157-09-18,Animalia SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1157-09-18,Animalia SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1157-09-18,Animalia SA de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1158-30-18,Jose Misael Garcia Morales y O Estetica Canina San Jose,Veracruz,Boca del Rio,si,si,si
+1159-30-18,Jesus Armando Tavizon Alvarez y O Agropecauria del Golfo,Veracruz,Veracruz,si,si,no
+1160-09-18,Protectores Independientes de Animales y Ayuda Indigenista Ac,Ciudad de Mexico,Iztacalco,si,no,no
+1161-11-18,Sociedad Protectora de Animales de San Miguel de Allende Ac,Guanajuato,San Miguel de Allende,si,no,no
+1162-12-18,Laura Yarelly Taboada Romero y O Farmacia Veterinaria Arcangel,Guerrero,Petatlan,si,si,no
+1163-12-18,Yara Gamino Ponce y O Servicio Integral Veterinario,Guerrero,Petatlan,si,si,no
+1164-12-18,Gloria Fernandez Samano y O Veterinaria el Payo,Guerrero,Ciudad Altamirano,si,si,no
+1165-15-18,Abel Adolfo Huerta Castro y O Centro Veterinario Jardines,Mexico,Tecamac,si,no,no
+1166-09-18,Lilia Clavel Mejia y O Estetica Canina Veterinaria Shampoo,Ciudad de Mexico,Tlalpan,si,si,no
+1168-05-18,Ana Luisa Sandoval Marin y O Clinica Veterinaria Sandoval,Coahuila,Monclova,si,no,no
+1169-08-18,Lorena Maldonado Charles y O Clinica Veterinaria Mr Dogs,Coahuila,Monclova,si,no,no
+1170-09-18,Zamora Guillen Eufracio Ignacio y O Veterinaria la Loma,Ciudad de Mexico,Iztacalco,si,no,no
+1171-02-18,Juan Pedro Vizcaino Salas y O Forrajera y Veterinaria el Mezquite,Baja California,Tijuana,si,si,no
+1172-16-18,Luis Manuel Gutierrez Bautista y O Clinica Veterinaria de Michoacan,Michoacan,Morelia,si,no,si
+1173-16-18,Cesar Humberto Lemus Padilla y O Veterinaria Darwin,Michoacan,Uruapan,si,si,si
+1174-16-18,Omar Pineda Herrera y O Clinica Veterinaria Liz-Vet,Michoacan,Uruapan,si,si,si
+1175-09-18,Hugo Arturo Meza Torres y O Consultorio Veterinario Dr Meza,Ciudad de Mexico,Tlahuac,si,no,no
+1176-27-18,Francisco de la Cruz Hernandez y O Agroveterinaria Jalapa,Tabasco,Jalapa,si,si,no
+1177-02-18,Jose Luis Perez Galan y O Snoopy,Baja California,Tijuana,si,si,no
+1178-19-18,Raul Rangel Luna y O Clinica Veterinaria Dr Luna,Nuevo Leon,Monterrey,si,si,si
+1179-02-18,Aviles Valenzuela Miguel y O Veterinaria Alpha,Baja California,Mexicali,si,si,si
+1180-09-18,Quitze Lopez Pazos y O Mexicaninos,Ciudad de Mexico,Cuauhtemoc,si,si,no
+1181-14-18,Sandra Lorena Velazquez Vazquez y O Toby Town Consultorio Veterinario y Estetica,Jalisco,Zapopan,si,no,no
+1183-05-18,Francisco Javier Garcia Marines y O Veterinaria Mi Perrito,Coahuila,Saltillo,si,no,no
+1184-01-18,Jose Manuel Capuchino Barron y O Capuchino Centro Veterinario,Aguascalientes,Aguascalientes,si,si,no
+1185-12-18,Monica Rios Rojas y O Farmacia Veterinaria Huitzuco,Guerrero,Huitzuco de Los Figueroa,si,si,no
+1186-14-18,Saul Camarena Cabrera,Jalisco,Guadalajara,si,si,si
+1187-02-18,Salvador Jauregui Delgadillo y O Veterinaria Avelar,Baja California,Ensenada,no,si,no
+1188-01-18,Fiona Shomara Sanchez Obregon,Aguascalientes,Aguascalientes,si,no,no
+1189-28-18,Sergio Casillas Sandoval,Tamaulipas,Victoria,si,no,no
+1190-28-18,Bi An S Bienestar Animal Servicios Ac,Tamaulipas,Reynosa,si,si,no
+1191-30-18,Yareli Torres Uribe y O Centro Veterinario Xalapa,Veracruz,Xalapa,no,no,si
+1192-30-18,Eduardo Antonio Gazol Patino y O CVx Petco,Veracruz,Xalapa,si,no,no
+1193-20-18,Misael Lopez Lopez y O Servicio Veterinario Latinoamericano,Oaxaca,Oaxaca,si,no,no
+1194-05-18,Valdes Davila Vicente Javier,Coahuila,Piedras Negras,si,no,no
+1195-14-18,Animales Inn SA de CV,Jalisco,Zapopan,si,si,si
+1196-05-18,Delfina Maria Rodriguez Gomez,Coahuila,Saltillo,si,no,no
+1197-19-18,Eduardo Enrique Andrade Manjarez y O Centro Medico Veterinario,Nuevo Leon,San Nicolas de Los Garza,si,no,no
+1198-09-18,Stephany Juarez Cano y O Servicios Integrales Para Mascotas,Ciudad de Mexico,Gustavo a Madero,si,no,no
+1199-09-18,Edith Margarita Siguenza Medina,Quintana Roo,Benito Juarez,si,no,no
+1200-01-18,Alicia Guadalupe Garcia Baltazar y O Vet Inn,Aguascalientes,Aguascalientes,si,si,si
+1201-05-18,Carlos Sabas Sandoval Martin,Coahuila,Saltillo,si,no,no
+1202-23-18,Antonio Rafael Pineiro Ortiz,Quintana Roo,Benito Juarez,si,no,no
+1203-30-18,Luis Angel Merino Salazar,Veracruz,Isla,no,si,no
+1204-23-18,Barron de Olarte SA de CV,Quintana Roo,Benito Juarez,si,no,no
+1206-23-18,Maria del Socorro Valencia Padilla y O Veterinaria Xolotl,Quintana Roo,Benito Juarez,si,no,no
+1207-23-18,Zeyda Zulema Chan Ceh,Quintana Roo,Benito Juarez,si,si,no
+1208-18-18,Anthony Garcia Carrillo,Nayarit,Tepic,si,si,no
+1209-15-18,Jose Luis Toledo Yanez y O Knito,Mexico,Nezahualcoyotl,si,si,si
+1210-23-18,Marcela Ramirez Gomez y O Gaia Pet Care,Quintana Roo,Playa del Carmen,si,no,no
+1211-15-18,Nelly Angelica Lara Urbina,Mexico,Tlalnepantla de Baz,si,no,no
+1212-05-18,Camargo Anaya Leticia y O Veterinaria Guadalupe (Ser-Vet),Coahuila,Piedras Negras,si,no,no
+1213-05-18,Luis Manuel Ortiz Trillo y O Clinica Veterinaria Madero,Coahuila,Frontera,si,no,no
+1214-09-18,Hospital Veterinario de Alta Especialidad Chapultepec SA de CV,Mexico,Naucalpan,no,no,si
+1215-23-18,Marilu D Amiano Aispuro,Quintana Roo,Benito Juarez,si,si,no
+1216-23-18,Adrian Gomez Lopez y O Veterinaria Eli,Quintana Roo,Benito Juarez,si,no,no
+1217-09-18,Salomon Garcia Ramos y O Aledsa,Ciudad de Mexico,Coyoacan,si,no,no
+1218-09-18,Gabriela Luna Torres y O Consultorio Medico Veterinario Gasen,Ciudad de Mexico,Coyoacan,si,no,no
+1219-09-18,Luz Elena Flores Corona y O Clini Calli Veterinaria,Ciudad de Mexico,Benito Juarez,si,no,no
+1220-24-18,Fatima Ramirez Ramos,San Luis Potosi,San Luis Potosi,si,no,no
+1221-14-18,Municipio de Guadalajara y O Centro de Control Animal del Ayuntamiento del Municipio de Guadalajara,Jalisco,Guadalajara,si,si,no
+1222-02-18,Rafael Vazquez Ramirez y O Veterinaria Especializada y Granero,Baja California,Tijuana,si,si,no
+1223-19-18,Raul Zambrano Flores,Nuevo Leon,Guadalupe,si,si,no
+1224-14-18,Centro de Salud Equina Sc,Jalisco,Zapopan,si,no,si
+1225-17-18,Stefano Corichi Cabrera,Morelos,Yautepec,si,no,no
+1226-09-18,Nestor Granados Flores y O Centro Veterinario Granados,Ciudad de Mexico,Tlahuac,si,no,no
+1227-14-18,Jose Maria Naranjo Salazar,Jalisco,Zapopan,si,no,no
+1228-09-18,Israel Bautista Dimas,Ciudad de Mexico,Iztacalco,si,no,no
+1229-09-18,Orihuela Soberanes Juan Carlos,Ciudad de Mexico,Azcapotzalco,si,si,no
+1230-21-18,Maria Elena Manuela Gonzalez Mercado,Puebla,Puebla,si,no,no
+1231-02-18,Ariana Elizabeth Montoya Porras,Baja California,Mexicali,si,no,no
+1232-24-18,Forrajera el Sauce SA de CV,San Luis Potosi,San Luis Potosi,si,no,no
+1234-09-18,Gaem Veterinarios SA de CV(Santa Fe Vet Center),Ciudad de Mexico,Cuajimalpa,si,no,no
+1235-16-18,Hector Javier Gallardo Valencia,Michoacan,Morelia,si,no,no
+1236-04-18,Erica Guadalupe Cruz Sabido y O Clinica Veterinaria Novelo,Campeche,Campeche,si,si,no
+1237-16-18,Patricia Caro Alvarez,Michoacan,Uruapan,si,no,si
+1238-09-18,Andres Gonzalez Davila,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1239-11-18,Aldo Francisco Juarez Flores y O Clinica Veterinaria Innis,Guanajuato,Dolores Hidalgo,si,no,no
+1240-09-18,Ricardo Badillo Roa y O Hospital Veterinario de Alta Especialidad Los Leones,Ciudad de Mexico,Alvaro Obregon,no,no,si
+1241-17-18,Luis Jaime Villalpando Maldonado y O Clinica Veterinaria Pradera,Morelos,Cuernavaca,si,no,si
+1242-09-18,Solon Alfonso Zabre Santamaria,Mexico,Cuauhtemoc,si,no,no
+1243-16-18,Arturo Morales Castro y O Clinica Veterinaria Black Mine,Michoacan,Morelia,si,no,no
+1244-15-18,Liliana Gutierrez Perez y O Clinica Kinich Kakmo,Mexico,Cuautitlan Izcalli,si,no,no
+1246-09-18,Jose Antonio Tirado Lopez y O Centro Medico Veterinario Plaza Vallejo,Ciudad de Mexico,Gustavo a Madero,si,si,no
+1247-27-18,Maria Dolores Vela Suarez y O la Pecuaria,Tabasco,Tenosique,no,si,no
+1248-16-18,Pineda Esparza Jose Trinidad y O Central Medica Veterinaria,Michoacan,Morelia,si,si,no
+1249-15-18,Betsabe Torres Palomino,Mexico,Toluca,no,no,si
+1250-09-18,Irais Soto Ramirez,Ciudad de Mexico,Venustiano Carranza,si,no,no
+1251-06-18,Maria Teresa Zubillaga Loo y O Clinica Veterinaria Zubillaga,Colima,Colima,si,no,si
+1252-09-18,Sofia Vargas Trujillo,Ciudad de Mexico,Benito Juarez,si,si,si
+1253-24-18,Veterinaria y Forrajera la Palma SA de CV,San Luis Potosi,Matehuala,si,no,no
+1254-09-18,Fundacion Antonio Haghenbeck y de la Lama Iap,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1255-17-18,Francisco Enrique Cabrera Ohrner,Morelos,Cuernavaca,si,si,si
+1256-17-18,Rocio Erazo Garcia,Morelos,Jiutepec,si,si,no
+1257-14-18,Yolanda Estrada Lara,Jalisco,Zapopan,si,no,no
+1258-01-18,Jesus Humberto Estrada Calderon,Aguascalientes,Aguascalientes,si,no,no
+1259-09-18,Mariela Barrios Acosta y O Clinica Veterinaria Can & Cat,Ciudad de Mexico,Iztacalco,si,si,si
+1260-09-18,Tania Jazmin Trejo Cruz y O Clinica Veterinaria Kanis,Ciudad de Mexico,Tlalpan,si,no,no
+1261-02-18,Alejandro Noe Rojas Zolozabal,Baja California,Tijuana,no,s,si
+1265-09-18,Mary Carmen Ramirez Tapia y O Vet Care & Groomer Alpha,Ciudad de Mexico,Coyoacan,si,no,no
+1266-09-18,Jose Armando Ramirez Portela,Ciudad de Mexico,Iztacalco,no,no,si
+1267-09-18,U-Vet Red Veterinaria SA de CV(Zungu),Ciudad de Mexico,Cuauhtemoc,si,no,no
+1268-02-18,Rosalva Elenes Felix,Baja California,Tijuana,si,s,no
+1269-02-18,Zulma Lopez Fonseca,Baja California,Tijuana,si,s,no
+1270-15-18,Adalberto Sanchez Mendoza,Jalisco,Zapopan,si,no,si
+1271-23-18,Roberto Jimenez Carrillo,Quintana Roo,Benito Juarez,si,si,no
+1272-30-18,Farisa Estrada Ricardez y O Clinica Veterinaria del Campo,Veracruz,Nimatitlan,si,si,no
+1273-15-18,Esteban Bernal Quintana,Mexico,Chalco,si,si,no
+1274-09-18,Tania Monserrat Valdes Chavez,Ciudad de Mexico,Benito Juarez,si,no,no
+1275-05-18,Maria del Rosario de Leon Cabello y O Veterinaria Central,Coahuila,Saltillo,si,si,no
+1276-24-18,Jose Maria Garay Gutierrez,San Luis Potosi,Soledad de Graciano,si,s,si
+1277-23-18,Lizeth Anahi Espana Gutierrez y O Gucci-Kan,Quintana Roo,Benito Juarez,si,s,no
+1278-14-18,Jorge Gutierrez Chichino,Jalisco,Zapopan,si,no,no
+1279-09-18,Daniela Baltazar Sanchez,Ciudad de Mexico,Benito Juarez,si,no,no
+1280-02-18,Yesenia Karina Fonseca Valdes,Baja California,Tijuana,si,s,no
+1281-11-18,Juan Francisco Jasso Mendoza,Guanajuato,Celaya,si,no,no
+1282-11-18,Cocos Cat Rescue Ac,Quintana Roo,Solidaridad,si,no,no
+1283-02-18,Luis Alfonso Lopez Fonseca,Baja California,Tijuana,si,s,no
+1284-08-18,Smartvet SA de CV,Chihuahua,Delicias,si,s,no
+1286-11-18,Andrea Lopez Rodriguez,Guanajuato,Leon,si,no,si
+1287-07-19,Jose Carlos Corona Robles y O Cuidando a Tu Mascota,Chiapas,Sin dato,si,si,no
+1288-09-19,Universidad Nacional Autonoma de Mexico Hospital de Equinos de la Facultad de Estudios Superiores Cuautitlan,Mexico,Cuautitlan Izcalli,si,no,si
+1289-09-19,Universidad Nacional Autonoma de Mexico Hospital de Pequenas Especies de la Facultad de Estudios Superiores Cuautitlan,Mexico,Cuautitlan Izcalli,si,no,si
+1291-09-19,Hugo Adrian Zavala Yanez y O Hospital Veterinario de Especialidades,Ciudad de Mexico,Cuauhtemoc,si,no,si
+1292-14-19,Acela Michel Lopez y O Animal Nature Clinica Veterinaria,Jalisco,Guadalajara,si,no,no
+1294-20-19,Alberto Lopez Gonzalez y O Farmacia Veterinaria el Cachorro,Oaxaca,Santo Domingo Tehuantepec,no,si,no
+1295-28-19,Rebeca Zeni Lopez y O Veterinaria Trevino,Tamaulipas,Reynosa,si,no,si
+1296-06-19,Javier de la Pena Diaz,Colima,Manzanillo,si,si,si
+1297-14-19,Hugo Armando Gutierrez Vidrio y O Farmacia Veterinaria Los Carnales,Jalisco,Sayula,no,si,no
+1298-17-19,Armando Ayestaran Alarcon,Morelos,Cuautla,si,no,no
+1299-23-19,Veterinaria Cuatro Patas,Quintana Roo,Solidaridad,si,no,no
+1300-01-19,Jorge Antonio Perea Gayosso,Aguascalientes,Aguascalientes,si,no,no
+1301-09-19,Elsa Vera Gomez y O Veterinaria Galavet,Ciudad de Mexico,Xochimilco,si,no,si
+1302-09-19,Edna Angelica Gaytan Zamarripa,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1303-28-19,Pedro Lopez Valadez,Tamaulipas,Reynosa,si,si,si
+1304-28-19,Gerardo Enrique Villegas Fajardo,Tamaulipas,Reynosa,si,si,si
+1306-02-19,Servicios Agropurina de Tijuana SA de CV,Baja California,Tijuana,si,no,si
+1308-28-19,Luis Daniel Garcia Munoz,Tamaulipas,Reynosa,si,si,si
+1309-09-19,Leticia Velazquez Pastrana y O Clinican,Ciudad de Mexico,Coyoacan,si,no,no
+1310-08-19,Diana Monica Castruita Garcia,Chihuahua,Chihuahua,si,si,si
+1311-03-2019,Rogelio Icedo Aviles,Baja California,Tijuana,si,si,si
+1312-28-19,Ilia Lizeth Cortez Rodriguez,Tamaulipas,Reynosa,si,no,no
+1312-08-2019,Jesus Rodolfo Baylon Avila,Chihuahua,Chihuahua,si,si,no
+1313-08-19,El Granjero del Norte SA de CV,Chihuahua,Chihuahua,no,si,no
+1314-09-19,Beatriz del Carmen Anaya Castro y O Can-Pamento Hotel-Pension,Ciudad de Mexico,Magdalena Contreras,si,no,no
+1315-16-19,Pedro del Sagrado Corazon Rodriguez Tarre,Michoacan,Zamora,si,no,no
+1316-07-19,Distribuidora del Sector Agropecuario E Insumos J&A Surmex SA de CV,Chiapas,Tuxtla Gutierrez,no,si,no
+1317-23-19,Ensenanza Para Desarrollo Social Pethood Ac,Quintana Roo,Solidaridad,si,no,si
+1318-16-19,Adalberto Otero Balerio,Michoacan,Puruandiro,no,si,no
+1319-14-19,Miguel Angel Cerda Preciado,Jalisco,Guadalajara,si,si,si
+1320-01-19,Fernando Horacio Castillero Lopez,Aguascalientes,Aguascalientes,si,no,si
+1321-28-2019,Jose Heberto Cruz Matus,Tamaulipas,Reynosa,si,si,si
+1322-04-19,Irma Palacios Perez,Campeche,Cd del Carmen,si,si,no
+1322-08-19,Maria Araceli Rivera Aguirre,Chihuahua,Delicias,si,si,si
+1323-28-19,Silvia Adela Anzaldua Juarez,Tamaulipas,Reynosa,si,si,si
+1324-06-19,Santiago Pena Garcia,Colima,Colima,no,si,no
+1325-28-19,Melania Ivett Ortiz Ortega,Tamaulipas,Reynosa,si,si,no
+1326-15-19,Arlett Rosas Quintero,Mexico,Nezahualcoyotl,no,si,no
+1327-23-19,Mishi Woof,Quintana Roo,Benito Juarez,no,si,no
+1328-15-19,David Altaled Shueke,Mexico,Huixquilucan,si,no,no
+1329-28-19,Sergio Aguilar Rodriguez,Tamaulipas,Reynosa,si,no,no
+1330-14-19,Andrea Lizeth Garcia Barragan,Jalisco,Tlaquepaque,si,si,si
+1331-22-19,Juan Carlos Sanchez Marcelo,Queretaro,Queretaro,si,no,si
+1332-14-19,Hector Ladron de Guevara Berra,Jalisco,Chapala,si,no,no
+1333-26-19,Uvm Formacion Sc,Sonora,Hermosillo,si,no,no
+1334-29-19,Jose Gilberto Aguilar Mendez,Tamaulipas,Reynosa,si,no,no
+1335-16-19,Hugo Alberto Valiente Perez,Michoacan,Morelia,x,si,Sin dato
+1337-28-19,Hector Ruiz Cancino,Tamaulipas,Victoria,si,si,no
+1338-16-19,Hugo Alberto Valiente Perez,Michoacan,Morelia,si,si,no
+1339-16-19,Veterinaria Nava Castillo,Michoacan,Zamora,si,si,si
+1340-06-19,Hugo Fernando Avalos Gutierrez,Colima,Villa de Alvarez,si,si,si
+1341-09-19,Salvador Ramos Leon,Ciudad de Mexico,Benito Juarez,si,no,no
+1342-28-19,Salome Garza Ibarra,Tamaulipas,Gustavo Diaz Ordaz,si,si,no
+1343-02-19,Paloma Garcia Vargas,Baja California,Tijuana,si,si,no
+1344-02-19,Melecio Axayacatl Hernandez Tapia,Baja California,Tijuana,si,si,no
+1345-28-19,Juana Mirca Suarez Alvarez,Tamaulipas,Reynosa,si,si,no
+1346-19-19,Rodrigo Armando Reinoso Echavarria,Nuevo Leon,Monterrey,si,no,no
+1347-02-19,Melecio Hernandez Sanchez,Baja California,Tijuana,si,si,no
+1348-14-19,Antonio Ladron de Guevara Toquero,Jalisco,Guadalajara,si,si,no
+1349-09-19,Carolina Hidalgo Contreras Clinica Veterinaria Pet Point,Ciudad de Mexico,Cuauhtemoc,si,si,no
+1350-30-19,Mariemma Guadalupe Escorcia Quintana,Veracruz,Tuxpan,si,si,no
+1351-28-19,Arnoldo Noriega Cortez,Tamaulipas,Reynosa,si,si,no
+1352-09-19,Luis Alberto Chavez Palma,Ciudad de Mexico,Tlahuac,si,si,no
+1353-28-19,Elizabeth Zamudio Morales,Tamaulipas,Nuevo Laredo,si,no,no
+1354-09-19,Cristina Karla Sanchez Peralta,Ciudad de Mexico,Magdalena Contreras,si,no,no
+1355-09-19,Martha Soto Briones,Ciudad de Mexico,Iztacalco,si,si,no
+1356-15-19,Tamara Libertad Garcia Baca,Mexico,Zumpango,si,si,no
+1357-15-19,Lourdes Pastrana Escalona,Mexico,Estado de Mexico,si,si,no
+1358-05-19,Alfonso Heliodoro Serrano Faccusehclinica Veterinaria Miss Maskotas,Coahuila,Torreon,si,si,no
+1359-28-19,Berenice Jaime Rodriguez,Tamaulipas,Reynosa,si,si,no
+1360-11-19,Jose Julian Cambron Alvarez,Guanajuato,Acambaro,si,si,no
+1362-09-19,Juan Jesus Tadeo Trejo,Ciudad de Mexico,Ciudad de Mexico,si,no,no
+1364-28-19,Olivia Guadalupe Garcia Serrano,Tamaulipas,Victoria,si,si,no
+1365-28-19,Lucia Guadalupe Diez Canseco Quintana,Tamaulipas,Reynosa,si,si,si
+1366-02-19,Lorenzo Leal Castro,Baja California,Tijuana,si,si,no
+1367-28-19,Ramses Humberto Gonzalez Garcia,Tamaulipas,Tamaulipas,si,si,no
+1368-05-19,Sociedad Cooperativa Agropecuaria de la Comarca Lagunera Scl,Durango,Gomez Palacio,si,si,no
+1369-02-19,Luis Rey Mendez Rivas,Baja California,Tijuana,si,si,no
+1370-23-19,Rosa Erika Altbach Sanchez,Quintana Roo,Benito Juarez,si,no,no
+1371-28-19,Eladio Islas Aldana,Tamaulipas,Reynosa,si,si,no
+1372-04-19,Clinica Veterinaria Club Mascota,Campeche,Campeche,si,si,no
+1374-02-19,Reynaldo Mendez Rivas,Baja California,Tijuana,si,si,no
+1375-11-19,Francisco Garcia Rodriguez,Guanajuato,Sin dato,si,si,no
+1377-23-19,Sarai Diaz Mendez Home Pets,Quintana Roo,Sin dato,si,si,si
+1378-23-19,Sonia Yolotzin Valladares,Quintana Roo,Solidaridad,si,si,si
+1379-02-19,Eunice Velazquez Gonzalez,Baja California,Tijuana,no,si,si
+1380-08-19,Veronica Marin Valderrama,Chihuahua,Chihuahua,si,si,no
+1381-16-19,Daniel Acevedo Rangel,Michoacan,Sin dato,si,si,no
+1382-15-19,Pet You Lab SA de CV,Mexico,Huixquilucan,si,si,si
+1383-23-19,Ricardo Rodriguez Trejo,Quintana Roo,Solidaridad,no,si,si
+1384-26-19,Varlu Distribuidora Veterinaria SA de CV,Sonora,Sin dato,si,si,no
+1385-02-19,Vets Moon Clinica y Hospital Veterinario S de Rl de CV,Baja California,Baja California,si,si,si
+1386-26-19,Edgar Rodriguez Valpuesta,Michoacan,Morelia,si,no,no
+1387-02-19,Granero y Veterinaria el Grano de Oro SA de CV,Baja California,Sin dato,si,si,no
+1388-26-19,Figval Veterinaria SA de CV,Sonora,Hermosillo,s+ak1660:ay1660i,si,si
+1389-09-19,Perez Villanueva Medicos Veterinarios Sc,Ciudad de Mexico,Miguel Hidalgo,no,no,si
+1390-16-19,Marcelino Pulido Valencia,Michoacan,Tinguindin,no,si,no
+1391-15-19,Hector Sanchez Leon y O Clinica Veterinaria Medvetzoo,Mexico,Toluca,si,no,no
+1392-16-19,Marilu Ledesma Mendez y O Chester Clinica Veterinaria,Michoacan,Uruapan,si,no,no
+1393-15-19,Pedro Torrejon Herrera y O Clinica Veterinaria el Arca de Pet,Mexico,Nezahualcoyotl,si,no,no
+1394-15-19,Eberth Guadarrama Casas y O Clinica Veterinaria Canivet,Mexico,Metepec,si,no,no
+1395-10-19,Alimentos y Salud Animal Asm SA de CV,Durango,Victoria de Gurango,si,no,no
+1397-14-19,Cynthia Carranza Ponce,Jalisco,Tlaquepaque,si,si,no
+1398-14-19,Clinica Veterinaria Ladron de Guevara Orendain Sc,Jalisco,Jalisco,si,si,no
+1399-27-19,Carlos Guillen Mendez Veterinaria Snoopy,Tabasco,Tabasco,si,no,no
+1400-15-19,Maxs Moreno Monteagudo,Mexico,Estado de Mexico,si,no,no
+1401-08-19,Luis Calos Carrasco Almeida,Chihuahua,Chihuahua,si,si,si
+1404-15-19,Animedical S de Rl de CV,Mexico,Estado de Mexico,si,no,si
+1405-06-19,Israel Aaron Bautista Rosas,Ciudad de Mexico,Coyoacan,si,no,no
+1406-17-19,Nancy Mayeli Reyes Brito y O Huesos y Croquetas Pet Food,Morelos,Cuernavaca,si,si,no
+1407-17-19,Hospital Veterinario Cuernavaca SA de CV,Morelos,Cuernavaca,no,no,si
+1408-19-19,Inversiones Lomonts S de Rl de CV,Nuevo Leon,Monterrey,no,si,si
+1409-06-19,Centro Veterinario Van Grimbergen Chavez S de Rl de CV,Colima,Manzanillo,si,si,si
+1410-31-19,Jessica Aylin Carrillo Sosa,Yucatan,Merida,si,si,si
+1412-02-19,Maria del Carmen Ordonez Garcia,Baja California,Tijuana,si,no,no
+1413-09-19,Demian Omar Otegui Mejia y O Veterinaria Brazzaville,Ciudad de Mexico,Iztacalco,si,no,no
+1414-26-19,Jose Ariel Felix Ortiz,Sonora,Nogales,si,no,si
+1415-13-19,Noe Barragan Pelcastre,Hidalgo,Benito Juarez,si,no,si
+1416-15-19,Salutis Veterinarius SA de CV,Mexico,Toluca,si,no,si
+1417-14-19,Clinica Veterinaria Itzkuintli SA de CV,Jalisco,Jalisco,si,no,no
+1418-31-19,Mariana Ines Gongora Manzanero,Yucatan,Yucatan,si,no,no
+1420-27-19,Jennifer Monserrat Macosay Marin Agroveterinaria Me Canso Ganso,Tabasco,Tenosique,si,si,no
+1421-09-19,Hospital Veterinario Bizkaia SA de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1422-01-19,Maria Pia Hernandez Castillo,Aguascalientes,Solidaridad,si,si,no
+1423-02-19,Edmundo Alfaro Rodriguez,Baja California,Tijuana,si,si,no
+1424-07-19,Scheena Heberth Vazquez Contreras,Chihuahua,Cuauhtemoc,si,si,si
+1425-23-19,Rosa Ivet Ortiz Garcia,Quintana Roo,Puerto Morelos,si,si,si
+1426-15-19,Abigail Margarita Briz Sanchez,Mexico,Tecamac,si,no,no
+1427-05-19,El Palacio de Las Mascotas SA de CV,Coahuila,Coahuila,no,si,si
+1428-04-19,Roberto Mac Gregor Ocampo Veterinaria Mac Gregor,Campeche,Campeche,si,no,si
+1429-09-19,Rosa Leticia Segura Medina,Ciudad de Mexico,Xochimilco,si,no,no
+1430-09-19,Mario Eduardo Lopez Hernandez,Ciudad de Mexico,Tlalpan,si,si,no
+1431-09-19,Pet Experience Sapi de CV,Ciudad de Mexico,Miguel Hidalgo,si,no,si
+1432-09-19,Leticia Lopez Velazquez y O Centro Veterinario del Sur,Ciudad de Mexico,Coyoacan,si,si,no
+1433-09-19,Laura Villa Mayoral,Ciudad de Mexico,Coyoacan,si,no,si
+1434-09-19,Tania Alejandra Santana Lopez,Ciudad de Mexico,Gustavo a Madero,si,no,no
+1435-21-19,Oscar Roberto Molina Castro,Puebla,Puebla,si,no,no
+1437-02-19,Jose Roberto Valdez Armenta Bobbie And Robin,Baja California,Baja California,si,no,no
+1438-14-19,Alberto Eler Magana Medina,Jalisco,Tlaquepaque,si,si,no
+1440-23-19,Fernando Antonio Gomez Mendez,Quintana Roo,Quintana Roo,Sin dato,Sin dato,si
+1441-06-19,Universidad de Colima,Colima,Colima,si,no,si
+1442-09-19,Hospital de Especialidades Veterinarias Parques Insurgentes Sc,Ciudad de Mexico,Gustavo a Madero,si,si,no
+1444-28-19,Miguel Angel Hinojosa de la Cruz,Tamaulipas,Tamaulipas,no,si,no
+1445-23-19,Carlos Geney Monforte Monforte,Quintana Roo,Benito Juarez,si,si,si
+1446-28-19,Julio Cesar Avila Acosta,Tamaulipas,Tamaulipas,si,no,no
+1448-31-19,Sandra Liszet Chel Dzul,Yucatan,Yucatan,si,no,no
+1449-09-19,Karla Erika Pineda Palomares y O Servicio Medico Veterinario,Ciudad de Mexico,Coyoacan,si,no,no
+1450-23-19,Leticia Silva Islas,Quintana Roo,Benito Juarez,si,si,si
+1451-09-19,Karla Rocio Carrillo Luna y O Consultorio Veterinario Pet Vet & Care,Ciudad de Mexico,Benito Juarez,si,no,no
+1452-13-19,Giselle Lopez Mazon,Hidalgo,Benito Juarez,si,no,no
+1453-09-19,Jesus Concepcion Cano Aguilar y O Farmacia Zemivet,Ciudad de Mexico,Coyoacan,no,si,no
+1454-11-19,Vannesa Calderon Patino,Guanajuato,Acambaro,si,no,no
+1455-16-19,Miryam Edit Avila Torres,Michoacan,Morelia,no,si,no
+1457-11-19,Laureano Aguilera Serrano y O Clinica Veterinaria Bioterra,Guanajuato,Acambaro,si,no,no
+1458-16-19,Janneth Ramirez Carrilo y O Clinica Veterinaria Solidaridad,Michoacan,Michoacan,si,no,no
+1459-09-19,Martha Susana Flores Perez,Ciudad de Mexico,Benito Juarez,si,si,no
+1460-09-19,Alejandro Palacios Cardiel,Ciudad de Mexico,Azcapotzalco,si,si,no
+1461-16-19,Susana Ramirez Guerrero y O Veterinaria Animaniac,Michoacan,Morelia,si,no,no
+1462-07-19,Blanca Lidia Mendez Salcedo y O Veterinaria Fernandez,Chiapas,Villaflores,si,no,no
+1463-09-19,Hector Javier Villegas Gonzalez y O Vet Station Total Care,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1464-28-19,Felipe Nehri Medrano Castillo,Tamaulipas,Reynosa,si,no,no
+1465-23-19,Blanca Sonia Hidalgo Sanan y O Clinica y Estetica Veterinaria el Amigo de Tu Mascota,Quintana Roo,Othon P Blanco,si,no,no
+1467-16-19,Cecilia Fragoso Samaniego,Michoacan,Morelia,si,no,no
+1468-16-19,Edgar Alejandro Duran Mota y O Duran Vets Hospital Veterinario,Michoacan,Morelia,si,no,no
+1469-26-19,Maricruz Borboa Lerma,Sonora,Sonora,si,no,no
+1470-02-19,Karla Guadalupe Barran Hernandez,Baja California,Tijuana,si,no,no
+1472-28-20,Eugenia Catalina Barron Villarreal,Tamaulipas,Tampico,si,no,no
+1473-16-20,Luis Ascander Saucedo Gonzalez y O Robin Haus Todo Para Mascotas,Michoacan,Morelia,si,no,no
+1474-09-20,Jose Francisco Young Medina y O Vet To Go,Ciudad de Mexico,Coyoacan,si,no,no
+1475-23-20,Jose Roberto Hernandez Campos y O Veterinaria Santa Fe,Quintana Roo,Benito Juarez,si,no,no
+1476-28-20,Javier de Jesus Mora Garcia y O Veterinaria San Jose,Tamaulipas,Nuevo Laredo,si,no,no
+1477-28-20,Rosa Esther Herrera Garcia y O Veterinaria Mi Granjita,Tamaulipas,Nuevo Laredo,si,no,no
+1478-02-20,Jimena Pallares Nunez y O The Dogfather,Baja California,Tijuana,si,no,no
+1479-21-20,Eduardo Haghenbeck Correa y O Hospital Veterinario el Arca de Noe,Puebla,Tehuacan,no,no,si
+1480-28-20,Forrajera y Veterinaria 7 Leguas de Seguy SA de CV,Tamaulipas,Matamoros,si,no,si
+1481-02-20,Gustavo Aparicio Munoz,Baja California,Tijuana,si,no,no
+1482-11-20,Dario Jose Ramirez Enriquez,Guanajuato,Guanajuato,si,no,no
+1483-15-20,Lucero Manzanares Hernandez y O Clinica Veterinaria Jireh,Mexico,San Mateo Atenco,si,no,no
+1484-27-20,Edgar Arguellez Perez,Tabasco,Centro,si,no,no
+1485-09-20,Ruben Aguilar Molina y O Reino Animal,Mexico,Atizapan de Zaragoza,no,no,si
+1487-09-20,Hospital Veterinario Camcor Sc,Ciudad de Mexico,Alvaro Obregon,no,no,si
+1488-05-20,Cesar Alejandro Sumano Rodriguez,Coahuila,Coahuila,no,si,no
+1489-09-20,Viviana Perez Fernandez y O Vet My Pet,Ciudad de Mexico,Ciudad de Mexico,si,no,no
+1490-16-20,Arturo Huerta Rangel y O Veterinaria Vasco,Michoacan,Michoacan,si,no,no
+1491-15-20,Erik Sandoval Mejia y O Vet Shak,Mexico,Cuautitlan Izcalli,si,no,no
+1492-28-20,Jose Elias Charur Lozano,Tamaulipas,Tamaulipas,si,no,no
+1493-28-20,Martha Elizabeth Pena Rodriguez,Tamaulipas,Tamaulipas,si,no,no
+1494-13-20,Marisol Shelyn Marquez Sanchez,Hidalgo,Benito Juarez,si,no,no
+1495-15-20,Salvador Eduardo Acevedo Monroy y O Servicio Veterinario Koala,Mexico,Acolman,si,no,no
+1496-09-20,Alberto Obregon Gonzalez O Veterinaria la Changa,Ciudad de Mexico,Benito Juarez,si,no,no
+1497-22-20,Karla Selene Cordero Ballesteros,Queretaro,Queretaro,si,no,no
+1498-09-20,Iris Noemi Davila Jimenez y O Mi Ka'An,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1499-21-20,Andrea Mota Vargas y O Clinica Perronalidad,Puebla,Puebla,si,no,no
+1500-16-20,Rosalia Rangel Martinez,Michoacan,Morelia,no,no,si
+1501-15-20,Alejandra Pina Vite,Mexico,Ecatepec,no,no,si
+1502-14-20,Karla Ivonne Vazquez Partida,Jalisco,Tlaquepaque,si,no,no
+1503-15-20,Luis Antonio Velez Alavez,Mexico,Cuautitlan Izcalli,si,no,no
+1505-02-20,Evelia Rivera Soto,Baja California,Tijuana,si,no,no
+1506-05-20,Laura Nallely Munoz Saenz,Coahuila,Torreon,si,no,no
+1508-09-20,Centro Veterinario de Especialidades Ikal SA de CV,Ciudad de Mexico,Coyoacan,si,no,no
+1509-09-20,Fondo de Investigacion y Salud Para Bienestar Animal SA de CV,Ciudad de Mexico,Azcapotzalco,no,no,si
+1510-19-20,Isaac Herrera Lozano y O Delka Hospital Veterinario,Nuevo Leon,Garcia,si,no,no
+1511-22-20,Paola Denys Guzman Salaya y O Pets Avenue,Queretaro,Queretaro,si,no,no
+1512-23-20,Servicios Integrales Amikoo SA de CV,Quintana Roo,Benito Juarez,si,no,no
+1513-15-20,Alejandro Gonzalez Hernandez y O Clinica Veterinaria Akela,Mexico,Tlalnepantla de Baz,si,no,no
+1514-11-20,Abraham Ramses Cabrera Medel,Guanajuato,Celaya,si,no,no
+1515-15-20,Ivet Sarai Ruiz de Esparza Abarca y O Hospital Veterinario Myvet,Mexico,Tecamac,no,no,si
+1516-15-20,Marisol Arias Robledo y O Arias Pet Hospital,Mexico,Texcoco de Mora,si,no,no
+1517-02-20,Francisco Madrigal Madrigal y O Hospivet,Baja California,Tijuana,si,no,no
+1518-23-20,Ingrid Cristina Millan Lizarraga,Quintana Roo,Benito Juarez,si,no,no
+1519-15-20,Cristobal Garcia Hernandez,Mexico,Naucalpan,si,no,no
+1521-05-20,Luis Manuel de la Cueva Hernandez y O Dimavet,Coahuila,Torreon,si,no,no
+1522-09-20,Maria Guadalupe Hernandez Martinez,Ciudad de Mexico,Coyoacan,si,no,no
+1524-05-20,Rodolfo Mendoza Apolonio,Coahuila,Torreon,si,no,no
+1525-14-20,Oscar Eutiquio Duenas Valdez,Jalisco,Zapopan,si,no,no
+1526-14-20,Diana Jalomo Aguirre,Jalisco,Guadalajara,si,no,no
+1527-09-20,Gs Quality Services SA de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+1528-13-20,Abigail Morales Bazan y O Animal Hope,Hidalgo,Mineral de la Reforma,si,no,no
+1529-15-20,Francisco Heriberto Sanchez de la Barquera Coronel y O Clinica Veterinaria Fuentes,Mexico,Atizapan de Zaragoza,si,no,no
+1530-25-20,Jose Fernando Cazarez Valdez,Sinaloa,Culiacan,si,no,no
+1532-11-20,Norma Angelica Palomares Garcia y O Hospital Veterinario Healthy Puppy,Guanajuato,Leon,no,no,si
+1533-09-20,Darwin del Angel Agulo Narvaez,Ciudad de Mexico,Benito Juarez,si,no,no
+1534-09-20,Daniel Alejandro Garcia Moreno y O Clinica Veterinaria Shuncu Vet,Ciudad de Mexico,Gustavo a Madero,si,no,no
+1535-10-20,Antonio Ocampo Andrade y O Pet'S Poodle'S,Durango,Gomez Palacio,si,no,no
+1536-28-20,Monica del Angel Gamez,Tamaulipas,Tampico,si,no,no
+1537-02-20,Maria del Rocio Prieto Chavez,Baja California,Mineral de la Reforma,si,no,no
+1538-02-20,Francisco Dominguez Serrano,Baja California,Tijuana,si,no,no
+1539-09-20,Daniel Hernandez Perez Tagle y O Unidad Veterinaria de Mexico,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1540-14-20,Ramiro Adrian Lopez Arroyo,Jalisco,Zapopan,si,no,no
+1541-15-20,Iliane Zetina Marin y O Clinica Veterinaria Pet Hills,Mexico,Paseos del Bosque,si,no,no
+1542-21-20,Ruth Viviana Benitez Ornelas,Puebla,Tehuitzingo,si,no,no
+1543-28-20,Jose Alberto Hernandez Perez,Tamaulipas,Matamoros,si,no,no
+1544-14-21,Isaura Elizabeth Chan Fernandez,Jalisco,Zapopan,si,no,no
+1545-15-21,Ana Paola Lozano Estrada,Mexico,Chimalhuacan,si,no,no
+1546-14-21,Alfonso Jimenez Salazar,Jalisco,Guadalajara,si,no,no
+1547-09-21,Abuelo Santino Rambo SA de CV,Ciudad de Mexico,Tlalpan,no,no,si
+1548-18-21,Edmundo Orozco Ramirez,Nayarit,Tepic,si,no,no
+1549-28-21,Victor Hugo Mendoza San Luis y O Hospital Veterinario San Luis,Tamaulipas,Tampico,no,no,si
+1550-15-21,Eric Lara Cadena,Mexico,Ecatepec,si,no,no
+1551-09-21,Abel Ortega Cruz,Ciudad de Mexico,Tlalpan,si,no,no
+1552-28-21,Miriam Cruz Lopez y O Clinica Hospital y Estetica San Miguel,Tamaulipas,Matamoros,si,no,no
+1553-15-21,Andrea Guadalupe Oscoy Alvarez,Mexico,Nezahualcoyotl,si,no,no
+1554-16-21,Jesica Paloma Pineda Rodriguez,Michoacan,Uruapan,si,no,no
+1555-09-21,Elizabeth Perez Vazquez y O Clinica Veterinaria la Vet,Ciudad de Mexico,Cuajimalpa,si,no,no
+1556-23-21,Ivan Garcia Roque,Quintana Roo,Benito Juarez,si,no,no
+1557-14-21,Helena Cervantes Zepeda,Jalisco,Guadalajara,si,no,no
+1558-15-21,Maria Alejandra Corona Cordero,Mexico,Tlalnepantla de Baz,si,no,no
+1559-09-21,Hector Antonio Leguz Gutierrez Morales,Ciudad de Mexico,Xochimilco,si,no,no
+1560-16-21,Rivera Saavedra Comercializadora S de Rl de CV,Michoacan,Morelia,si,no,no
+1561-01-21,Eugenia Estefania Macias Quintero y O Clinica Veterinaria San Francisco,Aguascalientes,Aguascalientes,si,no,si
+1562-15-21,Carlos Rodriguez Montoya y O Veterinaria Coacalco,Mexico,Coacalco de Berriozabal,si,no,no
+1563-22-21,Andira Alejandra Hernandez Romahn y O Centro Veterinario,Queretaro,Queretaro,si,no,no
+1564-11-21,Jesus Emmanuel Rivera Barroso y O Forrajera la Vaca Negra,Guanajuato,Penjamo,si,no,no
+1565-09-21,Servicios Veterinarios Especializados Moka Sociedad Por Acciones Simplificadas de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1567-10-21,Geronimo de Jesus Maldonado Egure,Durango,Durango,si,no,no
+1568-14-21,Naysin Fernanda Duenas Vallejo,Jalisco,Zapopan,si,no,si
+1569-01-2021,Alejandro Ismael Charur Reyes,Aguascalientes,Aguascalientes,si,no,no
+1570-01-2021,Leonardo Ernesto Quintero Alvarado,Aguascalientes,Aguascalientes,si,no,no
+1571-01-2021,Mary July Alonso Valdes,Aguascalientes,Aguascalientes,si,no,no
+1572-01-2021,Fernando Arturo Lozano Mascarua,Aguascalientes,Aguascalientes,si,no,no
+1573-09-2021,Servicios Para Mascotas Maiquetia SA de CV,Ciudad de Mexico,Tlalpan,si,no,si
+1574-19-2021,Lomont Patria Sapi de CV,Jalisco,Zapopan,si,no,si
+1575-16-2021,Sergio Mendez Delgadillo,Michoacan,Michoacan,si,no,no
+1576-21-2021,Jose Antonio Gonzalez Huerta y O Clinica Veterinaria Picos y Plumas,Puebla,Puebla,si,no,no
+1577-16-21,Tomas Eduardo Sevilla Ambriz,Michoacan,Sahuayo,si,no,no
+1578-14-21,Zoologico Guadalajara,Guadalajara,Guadalajara,si,ni,no
+1579-09-21,Hospital de Pequenas Especies Peques Sc,Ciudad de Mexico,Azcapotzalco,si,no,si
+1580-08-21,Narda Guadalupe Favela Perez,Chihuahua,Chihuahua,si,no,no
+1581-09-21,Hospital Veterinario de Especialidades Bruselas Sc,Ciudad de Mexico,Coyoacan,no,no,si
+1582-14-21,Kepa Aguirregabiria de Miguel,Jalisco,San Pedro Tlaquepaque,si,no,no
+1583-01-21,Roberto Ramirez Hernandez,Aguascalientes,Aguascalientes,si,no,no
+1584-09-21,Nancy Guadalupe Rosas Sandoval,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1585-01-21,Lucy Esquivel Acevedo,Aguascalientes,Aguascalientes,si,no,no
+1586-09-21,Petcare Servicios Medicos Veterinarios S de Rl de CV,Ciudad de Mexico,Benito Juarez,no,no,si
+1587-16-21,Marco Antonio Mendoza Rivera y O Loveth Hospital Veterinario,Michoacan,Morelia,no,no,si
+1588-14-21,Luis Preciado Almaraz,Jalisco,Guadalajara,si,no,no
+1589-14-21,Gerkyl Leguz Gutierrez Hartmann,Jalisco,Zapopan,si,no,no
+1590-14-21,Nallely Karina Rosas Tejada,Jalisco,Guadalajara,si,no,no
+1591-14-21,Cecilia Guiza Trujillo,Jalisco,Guadalajara,si,no,no
+1592-19-21,Rancho Tio Edu Spr de Rl de CV,Nuevo Leon,Monterrey,si,no,no
+1593-01-21,Maria Eugenia Andrade Carreon,Aguascalientes,Aguascalientes,si,no,no
+1594-09-21,Marco Vinicio Escobar Flores,Ciudad de Mexico,Tlalpan,si,no,no
+1595-01-21,Martha Karina Fuentes Esparza y O Veterinaria de la Dogtora Petdiatra,Aguascalientes,Jesus Maria,si,no,si
+1596-01-21,Myrna Alicia Lopez Martin Guel,Aguascalientes,Aguascalientes,si,no,no
+1597-14-21,German Ivan Carranza Perez,Jalisco,Zapopan,si,no,si
+1598-15-21,Jacqueline Garcia Rivera,Mexico,Tlalnepantla de Baz,si,no,no
+1599-15-21,Clinica Veterinaria Zona Animal S de Rl de CV,Mexico,Acolman,si,no,no
+1600-17-21,Pet Inn Sc,Morelos,Cuernavaca,si,no,si
+1601-14-21,Aidee Madariaga Ruiz Velasco,Jalisco,Zapopan,si,no,no
+1602-15-21,Juan Manuel Rojano Diaz,Mexico,Atenco,si,no,no
+1603-01-21,Alfredo Manuel Medina Trejo,Aguascalientes,Aguascalientes,si,no,no
+1604-23-21,Victor Alejandro Alvarez Salazar,Quintana Roo,Benito Juarez,si,no,si
+1605-14-21,Sergio Humberto Salinas Navarrete,Jalisco,Zapopan,si,no,si
+1606-02-21,Silvia Arriaga Corona,Baja California,Tijuana,si,no,no
+1607-16-21,Katy Aracely Cedano Martinez,Michoacan,Morelia,no,no,si
+1608-16-21,Karhantani Ac,Michoacan,Morelia,si,no,no
+1609-14-21,Hospital Veterinario San Javier SA de CV,Jalisco,Zapopan,si,no,no
+1610-07-21,Delia Cristina Perez Hernandez,Chiapas,Tuxtla Gutierrez,si,no,no
+1612-28-21,Alicia Elizabeth Acevedo Oliva,Tamaulipas,Reynosa,si,no,no
+1613-02-21,Martha Elena Ortiz Aburto,Baja California,Tecate,si,no,no
+1614-02-21,Reyna Elizabeth Martinez Vaca,Baja California,Mineral de la Reforma,si,no,no
+1615-01-21,Hector Alejandro Salazar de la Rosa,Aguascalientes,Aguascalientes,si,no,no
+1616-01-21,Javier Felix Quezada,Aguascalientes,Aguascalientes,si,no,no
+1617-01-21,Carlos Alberto Chavez Valencia,Aguascalientes,Aguascalientes,si,no,no
+1619-01-21,Flavio Rosales Lopez,Aguascalientes,Aguascalientes,si,no,no
+1620-01-21,Edgar Omar Lopez Sevilla,Aguascalientes,Aguascalientes,si,no,no
+1621-01-21,Francisco Javier Morones Lopez,Aguascalientes,Aguascalientes,si,no,no
+1622-01-21,Shinji Alcala Okayasu,Aguascalientes,Aguascalientes,si,no,no
+1623-15-21,Flor Arroyo Salazar,Mexico,Estado de Mexico,si,no,no
+1624-22-21,Rosa Martha Sanchez Ruiz,Queretaro,San Juan del Rio,si,no,si
+1625-01-21,Gerardo Bernal Reza,Aguascalientes,Aguascalientes,si,no,no
+1626-01-21,David Castillejos Gomez,Aguascalientes,Aguascalientes,si,no,no
+1627-05-21,Ana Lilia Trevino Sanchez,Coahuila,Saltillo,si,no,no
+1628-02-21,Ramon Iriarte Aruajo,Baja California,Tijuana,si,no,no
+1629-28-21,Fabiola de Jesus Garza Puente,Tamaulipas,Ciudad Victoria,si,no,no
+1630-22-21,Hugo Aguirre Escalante,Queretaro,Queretaro,si,no,no
+1631-26-21,Ignacio Ivan Maldonado Pena,Sonora,Sonora,si,no,no
+1632-01-21,Carlos Omar Lopez Olac,Aguascalientes,Jesus Maria,si,no,no
+1633-02-21,Lilian Catalina Villafana Lopez,Baja California,Tijuana,si,no,no
+1634-01-21,Carolina Cons Sosa,Aguascalientes,"Pabellon De
+Arteaga",si,no,no
+1635-23-21,Linda Adoracion Ceron Calderon,Quintana Roo,Benito Juarez,si,no,si
+1636-09-21,Perros Discapacitados de Mexico Sc de Rl de CV,Ciudad de Mexico,Xochimilco,si,no,no
+1637-01-21,Vetcan Clinica Veterinaria,Aguascalientes,Aguascalientes,si,no,no
+1639-01-21,Sergio Daniel Main Elias,Aguascalientes,Aguascalientes,si,no,no
+1640-30-21,Josephine Regueiro Lazcano,Veracruz,Xalapa,si,no,no
+1641-16-21,Ana Luisa Calderon Guzman,Michoacan,Michoacan,si,no,no
+1642-09-21,Albeitar Sc,Ciudad de Mexico,Hermosillo,si,no,no
+1644-09-21,Efrain de Jesus Soto Ruiz,Ciudad de Mexico,Benito Juarez,si,no,no
+1645-15-21,Escuela de Jinetes y Desarrollos Equinos S de Rl de CV,Mexico,Texcoco de Mora,si,no,si
+1646-01-21,Andrea Bustamante Alzaga,Aguascalientes,Aguascalientes,si,no,si
+1647-01-21,Janeth Paulina Ramirez Castillo,Aguascalientes,Aguascalientes,si,no,si
+1648-01-21,Jorge Alberto de la Serna Mora,Aguascalientes,Aguascalientes,si,no,si
+1649-01-21,Francisco Javier Rodriguez Reyes,Aguascalientes,Aguascalientes,si,no,si
+1650-09-21,Iram Alberto Estrada Cardona,Ciudad de Mexico,Azcapotzalco,si,no,no
+1651-09-21,Aldo Alain Diaz Garduno,Ciudad de Mexico,Coyoacan,si,no,si
+1652-09-21,Cuidado Animal y Servicios SA de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+1653-01-21,Fabiola Ayluardo Rivera Clinica Veterinaria Jardines,Aguascalientes,Aguascalientes,si,no,no
+1654-31-21,Marco Gerardo Paez Angeles Hospital Medivet,Yucatan,Merida,no,no,si
+1657-16-22,Daniel Alejandro Gomez Pizarro,Michoacan,Morelia,no,no,si
+1658-14-22,Adriana Margarita Maldonado Ramirez,Jalisco,Guadalajara,si,no,no
+1660-09-22,Juan Ignacio Monroy Basilio,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1661-09-22,Alan Fuentes Lopez Veterinaria San Roque,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1662-19-22,Alma Rosa Gonzalez Flores Hospital Veterinario Hega,Nuevo Leon,Juarez,si,no,si
+1663-22-22,Cecilia Cristina Arciniega Najera Veterinaria la Rabia,Queretaro,Queretaro,si,no,no
+1664-09-22,Cristina Mora Zamora,Ciudad de Mexico,Azcapotzalco,si,no,si
+1665-15-22,Raul Carrillo Navarrete,Mexico,Huixquilucan,si,no,no
+1666-15-22,Julio Cesar Velazquez Maya,Mexico,Toluca,si,no,no
+1667-14-22,Jose Antonio Valdez Sosa,Coahuila,Zapopan,si,no,si
+1668-09-22,Maria Jimena Ramirez Romero,Ciudad de Mexico,Benito Juarez,si,si,no
+1669-01-22,Enrique Hernandez Rios,Aguascalientes,Aguascalientes,si,no,no
+1670-28-22,Rodolfo Gonzalez Garza,Tamaulipas,Matamoros,si,no,no
+1671-09-22,Francisco Javier Verastegui Casas y O Consultorio Zoorecnista,Ciudad de Mexico,Tlalpan,si,no,si
+1672-15-22,Francisco Javier Serna Luna y O Veterinaria Monstruitos,Mexico,Nezahualcoyotl,si,no,no
+1673-09-22,Petngo SA de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+1674-22-22,Edgardo Eslava Jimenez,Queretaro,Queretaro,si,no,no
+1675-01-22,Nancy Guadalupe Gonzalez Campos,Aguascalientes,Aguascalientes,si,no,no
+1676-09-22,Minerva Carolina Torres Ortiz y O Guardy-Kan,Ciudad de Mexico,Benito Juarez,si,no,no
+1677-01-22,Leslya Ivonne Soria Rodriguez,Aguascalientes,Aguascalientes,si,no,si
+1678-09-22,Pet You Hospital Para Mascotas SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,si
+1679-09-22,Cat Care SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,si
+1680-09-23,Hospital de Especialidad En Oncologia Veterinaria Py SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,si
+1681-09-22,Monica Aridai Ramos Jardines,Ciudad de Mexico,Tlahuac,no,si,si
+1682-09-2022,Cristobal Rocha Jaime y O Rancho Don Manuel Animal Health Care,Ciudad de Mexico,Azcapotzalco,si,si,no
+1683-14-2022,Laura Margarita Aguila Pena,Jalisco,Zapopan,si,si,no
+1684-09-2022,Manuel Arturo Rangel Quintanar,Ciudad de Mexico,Benito Juarez,si,no,no
+1685-23-2023,Larissa Odette Macias Garcia,Quintana Roo,Cozumel,si,si,si
+1686-14-2023,Africare S de Rl de CV,Jalisco,Zapopan,no,si,si
+1687-30-2023,Jorge Daniel Trujillo Rios,Veracruz,Ursulo Galvan,si,no,si
+1688-19-2023,Vicky Viridiana Guzman Garza,Nuevo Leon,Monterrey,si,no,si
+1689-09-2023,Alimentos y Articulos Para Mascotas Los Huertos SA de CV,Ciudad de Mexico,Gustavo a Madero,si,no,si
+1690-14-2023,Centro Veterinario y Oncologia Veterinaria Valles Sc,Jalisco,Zapopan,si,no,no
+1691-09-2023,Rosa Elena Nunez Cruz,Ciudad de Mexico,Gustavo a Madero,si,no,no
+1693-09-22,Tania Edith Arroyo Manzanilla Carevet,Ciudad de Mexico,Coyoacan,si,no,no
+1694-15-22,Christian Matus Escobedo,Mexico,Tlalnepantla de Baz,si,no,si
+1695-16-22,Ricardo Nayem el Mosri Bohsain,Michoacan,Uruapan,si,no,no
+1696-22-22,Edgardo Eslava Jimenez,Queretaro,Queretaro,si,no,no
+1697-09-22,Mitzi Sarahi Anaya Garcia,Ciudad de Mexico,Iztacalco,si,no,si
+1698-09-22,Universidad del Valle de Mexico Sc Hospital Veterinario Uvm,Ciudad de Mexico,Coyoacan,si,no,si
+1699-09-22,Liliana Raygoza Salinas,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1700-09-22,Cristobal Garcia Hernandez,Mexico,Benito Juarez,si,no,no
+1701-09-22,Fernando Lizarraga Parada,Ciudad de Mexico,Coyoacan,si,no,no
+1702-15-22,Alegriacanina SA de CV,Mexico,Atizapan de Zaragoza,si,no,no
+1703-28-22,Elva Karina Calvillo Huereca (Centro Veterinario Clinican),Tamaulipas,Rio Bravo,si,no,no
+1704-2822,Victor Alejandro Parra Munoz (Veterinaria Parra),Tamaulipas,Reynosa,si,no,si
+1707-09-22,Paulina Rigual Solis,Ciudad de Mexico,Benito Juarez,si,no,no
+1708-09-22,Grupo Veterinario Axioma SA de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+1709-09-22,Servicios Veterinarios Especializados Moka Sociedad Por Acciones Simplificadas de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1710-13-22,Ricardo David Calderon Zamora,Hidalgo,Tolcayuca,si,no,no
+1711-09-22,Servicios Profesionales Para Mascotas Dermavet,Ciudad de Mexico,Iztacalco,no,no,si
+1712-09-22,Alba Guadalupe Navarrete Duarte,Ciudad de Mexico,Tlalpan,si,no,no
+1713-28-22,Hector Maldonado Alfaro,Tamaulipas,Reynosa,si,no,si
+1714-15-22,Israel Cruz Vergara,Mexico,Zinacantepec,si,no,no
+1715-28-22,Maria Elena Melo Gutierrez,Tamaulipas,Ciudad Madero,si,no,no
+1716-14-22,Servicios Medicos de Minima Invasion S de Rl de CV,Jalisco,Zapopan,si,no,no
+1717-15-22,Medica Veterinaria Coovet,Mexico,Metepec,no,si,si
+1718-14-22,Iaosa Pets SA de CV,Jalisco,Tlajomulco de Zuniga,si,no,no
+1719-11-22,Miau Centro Medico Felino,Guanajuato,Ciudad de Leon,si,si,si
+1720-15-22,Gabriela Villagrana Santana,Mexico,Tlalnepantla de Baz,si,no,no
+1721-02-22,Marcela Jimenez Marigal Moncayo,Baja California,Tijuana,no,no,si
+1722-11-22,Karina Rodriguez Lopez,Guanajuato,Leon,si,no,si
+1723-14-22,Pablo Daniel Gonzalez Sandoval,Jalisco,Guadalajara,si,si,no
+1724-09-22,Hospital de Especialidad En Oftalmologia Veterinaria Py SA de CV,Ciudad de Mexico,Miguel Hidalgo,no,si,si
+1725-02-22,Jorge Antonio Luna Isaac,Baja California,Ensenada,si,no,si
+1726-14-22,Elizabeth Arellano Herrera,Jalisco,Guadalajara,si,no,si
+1728-15-22,Paula Carolina Valdivia Rosas,Mexico,Metepec,no,si,si
+1729-01-22,Miguel Angel Salzar Bocanegra,Aguascalientes,Aguascalientes,si,no,no
+1730-28-22,Leticia Limon Villanueva,Tamaulipas,Rio Bravo,si,si,si
+1731-09-22,Tito Livio Garcia Ponce,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1731-13-22,Petterra Pet Care Center SA de CV,Hidalgo,Mineral de la Reforma,si,si,si
+1732-09-22,Shibavet SA de CVvanne,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1733-09-22,Maria Teresa Velazquez Ramirez,Ciudad de Mexico,Tlalpan,si,no,no
+1734-15-22,Maria de Lourdes Patricia Hernandez Becerra,Mexico,Estado de Mexico,si,si,no
+1735-11-22,Leslie Escamilla Guerrero,Guanajuato,Leon,si,no,no
+1736-15-22,Miriam Leticia Becerril Moctezuma,Mexico,Texcoco de Mora,no,no,si
+1737-18-23,Luis Alberto Huerta Gomez,Nayarit,Tepic,si,no,no
+1738-18-22,Felipe Lugo Hernandez,Nayarit,Bahia de Banderas,si,si,no
+1739-10-22,Daniela Fernanda Berumen Frias,Durango,Durango,si,si,Sin dato
+1740-09-22,Leonardo Javier Maya Sanchez,Ciudad de Mexico,Iztacalco,si,si,no
+1741-08-22,Francisco Javier Lozoya Chavez,Chihuahua,Camargo,si,no,no
+1742-14-22,Magaly Sandoval Orozco,Jalisco,San Pedro Tlaquepaque,si,si,no
+1743-14-22,Jose Guadalupe Padilla Gonzalez,Morelos,Tepatitlan de Morelos,si,no,no
+1744-16-22,Jose Gerardo Ortiz Villanueva,Michoacan,Morelia,si,no,no
+1745-14-22,Leonor Olvera Montes,Jalisco,Puerto Vallarta,si,no,no
+1746-18-22,Ivory Marlene Lopez,Nayarit,Xalisco,si,no,no
+1747-30-22,Swiss Hospital Pet SA de CV,Veracruz,Sin dato,no,no,si_
+1748-09-22,Raul Ortiz Perez,Ciudad de Mexico,Miguel Hidalgo,si,si,no
+1749-09-22,Grupo Empresarial Balmai & Macgon SA de CV,Ciudad de Mexico,Benito Juarez,si,no_,no_
+1751-14-22,Jose Maria Arana Sanchez,Jalisco,Tlaquepaque,si,no,no
+1752-15-22,Froylan Soberanes Fragoso,Mexico,Ecatepec,si,no,no
+1753-09-22,Hector Manuel Sanchez Castillo,Ciudad de Mexico,Miguel Hidalgo,no,no,si
+1754-05-22,Luz Maria Siller Cedillo,Coahuila,Torreon,si,no,no
+1755-03-22,Eduardo Franzoni Perez,Baja California,La Paz,si,no,no
+1756-15-22,Alfredo Paul Soto,Mexico,Ecatepec,no,no,si
+1757-02-22,Laura Teresa Gomez Bibiano Cevallos,Baja California,Ensenada,si,no,no
+1758-15-22,Camilo Andres Ramirez Alape,Mexico,Naucalpan,no,no,si
+1759-09-22,Maria Elena Gomez Alvarez,Ciudad de Mexico,Coyoacan,si,no,no
+1760-18-22,Antonio Valtierra Villegas,Nayarit,Tepic,si,no,no
+1761-14-22,Leopoldo Ocampo Hernandez,Jalisco,Puerto Vallarta,si,no,no
+1762-02-22,Jorge Francisco Vanegas Soriano,Baja California,Tijuana,si,no,no
+1763-15-22,Juan Fernando Garcia Macias,Mexico,Cuautitlan Izcalli,si,no,no
+1764-15-22,Eyner Rikvan Contreras Diaz,Mexico,Coacalco de Berriozabal,si,no,no
+1765-18-22,Monica de Jesus Ceja Hernandez,Nayarit,Tepic,si,no,no
+1766-05-22,Jose Epifanio Salgado Roman,Coahuila,Torreon,si,no,no
+1767-09-22,El Imaginario de Las Macotas SA de CV,Ciudad de Mexico,Benito Juarez,si,si,si
+1768-14-22,Maria de Lourdes Duenas Torres,Jalisco,Zapopan,si,no,no
+1769-05-222,Itzel Cedillo Jaramillo,Coahuila,Torreon,si,no,no
+1770-09-22,Maricela de la O Tapia,Ciudad de Mexico,Venustiano Carranza,si,no,no
+1771-19-22,Oscar Ricardo Gonzalez Ruiz,Nuevo Leon,Nuevo Leon,no,no,no
+1772-09-22,Lizbeth Edith Velasco Hernandez,Ciudad de Mexico,Benito Juarez,si,no,no
+1773-13-22,Ruth Baudelia Vironchi Lujan,Nayarit,Nayarit,no,no,si
+1774-09-22,Bernardo de Jesus Salgado Ruiz,Ciudad de Mexico,Tlalpan,si,no,no
+1775-13-22,Rodolfo Roldan Garcia,Hidalgo,Benito Juarez,si,no,si
+1776-01-22,Ilse Estefania Chavez Martin del Campo,Aguascalientes,Aguascalientes,si,no,no
+1777-01-22,Gustavo Becerra Gomez,Aguascalientes,Aguascalientes,si,no,no
+1778-09-22,Angelina Mata Castrejon,Ciudad de Mexico,Alvaro Obregon,no,no,si
+1779-09-22,David Rodriguez Leal Vazquez,Ciudad de Mexico,Magdalena Contreras,no,no,si
+1780-22-22,Paulina Noriega Medina,Queretaro,Queretaro,no,no,si
+1781-14-22,Mohammad Soleimani,Jalisco,Puerto Vallarta,si,no,no
+1782-09-22,Rodrigo Rodolfo Reyes Hernandez,Ciudad de Mexico,Cuauhtemoc,no,no,si
+1783-09-22,Lizet Rivas Perez,Ciudad de Mexico,Coyoacan,si,no,si
+1784-14-22,Francisco Javier Santana Cobian,Jalisco,Puerto Vallarta,si,no,no
+1785-19-22,Lena Veronica Garcia Pena,Nuevo Leon,Guadalupe,si,no,no
+1786-09-22,Cornelis Johannes de Ruiter Van Zwieten,Ciudad de Mexico,Benito Juarez,no,no,si
+1787-28-22,Fernando Corripio Stolberg,Tamaulipas,Tampico,no,no,si
+1788-01-22,Rene Juarez Martinez,Aguascalientes,Aguascalientes,no,no,si
+1789-14-23,Giuliana Berenice Aguayo Aguirre,Jalisco,Puerto Vallarta,si,no,no
+1790-23-23,Gloria Cortina Herrera,Quintana Roo,Cancun,si,no,no
+1791-02-23,Antonio Fernando Pena Jasso,Baja California,Ensenada,si,no,si
+1792-14-23,Alfredo Velazquez Islas,Jalisco,Puerto Vallarta,si,no,no
+1793-19-23,Doggies Salud Animal Sc,Nuevo Leon,Monterrey,no,no,si
+1794-15-23,Lupita Rubi Toledo Diaz,Mexico,Toluca,si,no,no
+1795-06-23,Rosa Maria Reyes Martinez,Colima,Colima,si,no,no
+1796-15-23,Tonantzin America Batalla Vera,Mexico,Nezahualcoyotl,si,si,si
+1797-15-23,Diana Leticia Rodriguez Martinez,Mexico,Naucalpan,si,si,si
+1798-18-23,Paola Betina Ocampo Silva,Nayarit,Bahia de Banderas,si,no,no
+1799-09-23,Salvador Demetrio Ochoa Montoya,Ciudad de Mexico,Benito Juarez,si,no,si
+1800-17-23,Maria Fernanda Velez Contreras,Morelos,Cuernavaca,si,no,no
+1802-19-23,Ruben Saucedo Sanmiguel,Nuevo Leon,Guadalupe,si,no,no
+1803-19-23,Julia Alicia Torres Noriega,Nuevo Leon,San Nicolas de Los Garza,si,no,no
+1804-15-23,Mariano Munoz Lopez,Mexico,Metepec,si,no,no
+1805-16-23,Alvaro Solis Trejo,Michoacan,Morelia,si,no,no
+1806-16-23,Humberto Contreras Cornejo,Michoacan,Morelia,si,no,no
+1807-14-23,Jose Isaias Sandoval Guzman,Jalisco,Guadalajara,si,no,no
+1808-30-23,Raul Rebolledo Martinez,Veracruz,Boca del Rio,no,no,si
+1809-15-23,Alfonso Ramos Torres,Mexico,Ecatepec,si,si,si
+1810-09-23,Jorge Josafath Sampson de la Torre,Ciudad de Mexico,Coyoacan,si,no,si
+1811-09-23,Gustavo Hollands Melendez,Ciudad de Mexico,Benito Juarez,si,no,si
+1812-15-23,Jose Angel Hernandez Flores,Mexico,Atlacomulco,si,no,no
+1813-05-23,Cuauhtemoc Ramirez de Avila,Coahuila,Torreon,si,no,no
+1814-18-23,Elisa Arcelia Dominguez Rodriguez,Nayarit,Tepic,si,no,no
+1815-9-23,Cecilia Ramos Aguilar,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+1816-9-23,Alfredo Ahedo Moreno,Ciudad de Mexico,Tlahuac,no,si,si
+1817-1-23,Sergio Daniel Main Elias,Aguascalientes,Aguascalientes,si,no,si
+1818-23-23,Jose Alberto Alvarado Osorio,Quintana Roo,Benito Juarez,si,no,si
+1819-15-23,Salutis Veterinarius SA de CV,Mexico,Toluca,si,no,si
+1821-15-23,Mayra de Guadalupe Vazquez Aguilera,Mexico,Metepec,no,no,si
+1823-18-23,Alejandro Machado Ruiz,Nayarit,Xalisco,si,no,no
+1824-9-23,Laura Alicia Mendoza Ramirez,Ciudad de Mexico,Venustiano Carranza,si,si,si
+1825-9-23,Jonathan Miguel Miranda Diaz,Ciudad de Mexico,Xochimilco,si,no,no
+1826-15-23,Nestor Israel Romero Gutierrez,Mexico,Toluca,si,no,no
+1827-19-23,Ferchos Salud Animal Sc,Nuevo Leon,Monterrey,no,no,si
+1828-19-23,Arturo Ernesto Gonzalez Benavides,Nuevo Leon,Monterrey,si,no,si
+1829-18-23,Francisco Medina Gallardo,Nayarit,Acaponeta,si,no,no
+1830-09-23,Ana Laura Hernandez Tapia,Ciudad de Mexico,Coyoacan,no,no,si
+1832-28-23,Laura Eva Martinez Lopez,Tamaulipas,Tampico,si,no,no
+1833-15-23,Gabriela Mercedes Cardenas Sanchez,Mexico,Toluca,si,no,no
+1834-09-23,Pawerful Pet Shop SA de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1835-15-23,Alessandra Gutierrez Saldana,Mexico,Toluca,si,no,si
+1836-21-23,Reyna Elena Bautista Perez,Puebla,Puebla,si,no,no
+1837-14-23,Pestra S de Rl de CV,Jalisco,Tlajomulco de Zuniga,si,no,si
+1839-11-23,Leonel Tinoco Pantoja,Guanajuato,Yuriria,si,no,no
+1840-09-23,Maria Fernanda Tellez Gomez,Ciudad de Mexico,Tlalpan,si,no,no
+1841-19-23,Jorge Alejandro Garcia Chavez,Nuevo Leon,Nuevo Leon,si,no,si
+1842-13-23,Jose Daniel Palacios Topete,Hidalgo,Tulancingo de Bravo,si,no,si
+1843-15-23,Leonardo Felipe Gamez Mendoza,Mexico,Toluca,si,no,no
+1844-09-23,Pet You Hospital Para Mascotas SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,si
+1845-09-23,Bilco & Frima Sc,Ciudad de Mexico,Cuauhtemoc,si,si,si
+1846-09-23,Cat Care SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,si,si
+1847-09-23,Fynsa SA de CV,Ciudad de Mexico,Gustavo a Madero,si,no,no
+1848-09-23,Nadia Olimpia Lopez Osorno,Ciudad de Mexico,Gustavo a Madero,si,no,no
+1849-09-23,Expertos En Medicina Veterinaria y Servicios Adicionales Marcelo Sas de CV,Ciudad de Mexico,Iztacalco,no,si,si
+1850-16-23,Abraham Olvera Garcia,Michoacan,Morelia,si,no,no
+1851-14-23,Zuriana Vianey Lopez Corona,Jalisco,Puerto Vallarta,si,no,no
+1852-19-23,Lomont Cumbres Sapi de CV,Nuevo Leon,Monterrey,si,no,si
+1853-19-23,Sierra Madre Hospital Veterinario Sc,Nuevo Leon,San Pedro Garza Garcia,no,no,si
+1854-19-23,Clinica Villarreal Garza Sus Veterinarios Sc,Nuevo Leon,Monterrey,si,si,si
+1855-15-23,Veronica Estrada Gil,Mexico,Naucalpan,si,no,no
+1856-19-23,Ruben Jacob Torres Diaz,Nuevo Leon,Gral Escobedo,si,no,no
+1857-09-23,Hospital Veterinario Hl SA de CV,Ciudad de Mexico,Azcapotzalco,si,si,si
+1858-02-23,Octavio Rico Diez de Bonilla,Baja California,Ensenada,si,si,no
+1859-09-23,Hospital Veterinario de Especialidades Michican Sc,Ciudad de Mexico,Alvaro Obregon,no,n0,si
+1860-11-23,Luis Arturo Garcia Dominguez,Guanajuato,Leon,si,no,no
+1861-09-23,Felix Rolando Ramos Plazaola,Ciudad de Mexico,Coyoacan,si,no,si
+1862-11-23,Eduardo Mandujano Garcia,Guanajuato,Leon,si,no,no
+1863-11-23,Clinica Veterinaria de Azcapotzalco,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1864-19-23,Silvia Elodia Pina Saucedo,Nuevo Leon,Monterrey,si,no,no
+1865-18-23,Raul Navarrete Mendez,Nayarit,Tepic,si,no,no
+1866-05-23,Jose Manuel Lomas Melendez,Coahuila,Torreon,si,no,si
+1867-09-23,Centro Integral de Atencion Para la Mascota Coyoacan SA de CV,Ciudad de Mexico,Miguel Hidalgo,si,no,si
+1868-09-23,Pethealth Sapi de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1869-15-23,Womparo Vets Sc,Mexico,Naucalpan,si,no,no
+1870-08-23,Aaron Marco Reyes Hermosillo,Chihuahua,Chihuahua,si,no,si
+1871-09-23,Cintli Yolontzin Lozano Rodriguez,Ciudad de Mexico,Iztacalco,si,no,no
+1872-17-23,Karin Cecilia Vomend Alvarez,Morelos,Cuernavaca,si,no,no
+1873-09-23,Jose Antonio Gomez Servin,Ciudad de Mexico,Gustavo a Madero,no,no,si
+1874-09-23,Mario Quiroz Jimenez,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1875-17-23,Universo Animal Clinica de Alta Especialidad Hotel Day Care & Spa S de Rl de CV,Morelos,Cuernavaca,no,no,si
+1876-09-23,Maria de Lourdes Sanchez Barajas,Ciudad de Mexico,Benito Juarez,si,no,no
+1877-14-23,Vicente Antonio Renteria Michel,Jalisco,Sayula,si,no,no
+1879-28-23,Hilda Ivonne Gutierrez Rivas,Tamaulipas,Ciudad Madero,si,no,no
+1880-16-23,Mascopet Servicios Especializados Para Perros y Gatos SA de CV,Michoacan,Morelia,no,no,si
+1881-09-23,Tania Alejandra Santana Lopez,Ciudad de Mexico,Gustavo a Madero,no,no,si
+1882-09-23,Luis Gonzalez Zapata,Ciudad de Mexico,Miguel Hidalgo,no,no,si
+1883-22-23,Maria Elena Macias Rojas,Queretaro,Queretaro,si,no,si
+1884-09-23,Hebert Gabriel Sanchez Martinez,Ciudad de Mexico,Coyoacan,si,si,si
+1885-22-23,Flor Monserrat Gonzalez Vazquez,Queretaro,Queretaro,si,no,no
+1886-14-23,Claudia Margarita Acosta Navarro,Jalisco,Puerto Vallarta,si,si,no
+1887-14-23,Ulises de Jesus Davalos Trevino,Jalisco,Puerto Vallarta,si,no,no
+1888-02-2023,Alfredo Felix Cervantes,Baja California,Tijuana,si,si,si
+1889-09-2023,Julian Baez Salazar,Ciudad de Mexico,Miguel Hidalgo,si,no,si
+1890-14-2023,Leonor Olvera Montes,Jalisco,Puerto Vallarta,si,no,no
+1891-30-23,Adrian Chavez Soriano,Veracruz,Veracruz,si,no,no
+1892-09-23,Enrique Arriaga Mendoza,Ciudad de Mexico,Gustavo a Madero,no,no,si
+1893-11-23,Vet For Family Sas de CV,Guanajuato,Leon,si,no,no
+1894-09-23,Victor Barbosa Alvarez,Ciudad de Mexico,Iztacalco,si,no,no
+1895-30-23,Julio Cesar Herrejon Otero,Veracruz,Cordoba,no,no,si
+1896-09-23,Miguel Reinaldo Mendez Froget,Ciudad de Mexico,Azcapotzalco,si,si,si
+1897-16-23,Alejandro Ernesto Herrera Ramirez,Michoacan,Morelia,si,no,si
+1898-09-23,Lorena Haydee Hernandez Mercado,Ciudad de Mexico,Venustiano Carranza,si,si,si
+1899-09-23,Liz Adriana Diaz Avelar,Ciudad de Mexico,Tlalpan,si,no,no
+1900-15-23,Monica Lopez Mora,Mexico,Toluca,si,no,no
+23/08/1901,Luis Carlos Espinoza Alvarado,Chihuahua,Chihuahua,si,no,no
+1902-15-23,Raul Andrade Calderon,Mexico,Ecatepec,no,no,no
+23/09/1903,Pro-Maha New Destinations S de Rl de CV,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+23/09/1904,Gabriela Aurora Montano Sandoval,Ciudad de Mexico,Azcapotzalco,si,no,no
+23/02/1905,Jose Javier Lopez Gonzalez,Baja California,Tijuana,si,no,no
+1906-24-23,Luis Gonzalo Castanedo Cazares,San Luis Potosi,San Luis Potosi,no,no,no
+1907-16-23,Martha Patricia Ruiz Olvera,Michoacan,Morelia,si,no,no
+1908-28-23,Pablo Ferrer Zarate,Tamaulipas,Reynosa,si,no,no
+1909-24-23,Horse Cheval SA de CV,San Luis Potosi,Soledad de Graciano Sanchez,si,no,no
+1910-15-23,Cindy Paola Romero Alvarez,Mexico,Nezahualcoyotl,si,no,no
+23/09/1911,Guillermo Daniel Garcia Lizardi,Ciudad de Mexico,Cuauhtemoc,si,no,no
+23/02/1912,Aidet Cueto Vazquez,Baja California,Tijuana,si,no,si
+23/09/1913,Jean Loui Said Zuniga Loera,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1914-14-23,Compania de Servicios Veterinarios Hero S de Rl de CV,Jalisco,Guadalajara,si,no,no
+1915-14-23,Carolina Rodriguez Mora,Jalisco,Zapopan,si,no,no
+23/09/1916,Maria del Rosario Gavino Copado,Ciudad de Mexico,Iztacalco,si,no,no
+23/09/1917,Veterinaria Vet Spik Sas,Ciudad de Mexico,Magdalena Contreras,si,si,si
+23/09/1918,Marco Alejandro Gomez de Anda,Ciudad de Mexico,Alvaro Obregon,si,si,no
+1919-18-23,Juan Carlos Algarin Espinoza,Nayarit,Acaponeta,si,no,no
+1920-24-23,Dina Esther Rodriguez Garcia,San Luis Potosi,Matehuala,si,no,no
+1921-14-23,Victoria Sanchez Huerta,Jalisco,Guadalajara,si,si,no
+1922-15-23,Raul Garcia Cuevas,Mexico,Toluca,no,no,si
+1923-15-23,Margarita Manon Barbabosa,Mexico,Metepec,si,no,no
+1924-28-23,Aurora Esther Monreal Garcia,Tamaulipas,Reynosa,si,no,no
+1926-18-23,Javier Alberto Lopez Torres,Nayarit,Tepic,si,no,no
+1927-16-23,Christian Emilio Ruiz Guzman,Michoacan,Morelia,si,no,no
+23/09/1928,Dafne Gonzalez Morales,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+23/09/1929,Marlovet Servicios Veterinarios SA de CV,Ciudad de Mexico,Alvaro Obregon,no,no,si
+1930-14-23,Javier Alejandro Gomez Correa,Jalisco,Guadalajara,si,no,no
+23/09/1931,Elizabeth Alexandra Hernandez Gonzalez,Ciudad de Mexico,Alvaro Obregon,si,no,no
+23/09/1932,Carbono Comsolta SA de CV,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1933-16-23,Miguel Pacheco Lara,Michoacan,Morelia,si,no,no
+1934-15-23,Erica Shaeffer,Mexico,Toluca,si,no,no
+1935-16-23,Nora Guadalupe Tapia Perez,Michoacan,Morelia,si,no,no
+1936-15-23,Karina Soledad Culhuac Schmidt,Mexico,Metepec,si,no,no
+23/09/1937,Clinica Veterinaria Dr Guerrero SA de CV,Ciudad de Mexico,Tlalpan,si,no,si
+1938-15-23,Sandra Berenice Jimenez Caballero,Mexico,Lerma,si,no,no
+1939-14-23,Gabriela Juarez Cano,Jalisco,Zapopan,si,no,no
+23/09/1940,Vet Point SA de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+1941-19-23,Laura Patricia Lozano Gonzalez,Nuevo Leon,Monterrey,si,no,no
+23/09/1942,Montserrat Franco Noriega,Ciudad de Mexico,Cuauhtemoc,si,no,no
+1943-15-23,Carolina Gonzalez Enriquez,Mexico,Nezahualcoyotl,si,si,si
+1944-20-23,Luis Alfonso Rivera Gamboa,Oaxaca,Bahias de Huatulco,si,no,no
+1945-16-23,Alejandro Ernesto Herrera Ramirez,Michoacan,Morelia,si,no,si
+1946-18-23,Antonio Rene Olmedo Padilla,Nayarit,Tepic,si,no,no
+1947-14-23,Vetderm S de Rl de CV,Jalisco,Guadalajara,si,si,si
+1948-15-23,Leticia Acevedo Rebollar,Mexico,Valle de Bravo,si,no,no
+1949-24-23,Emmanuel Salinas Cuevas,San Luis Potosi,San Luis Potosi,si,no,no
+1950-15-23,Laura Tinajero Gomez,Mexico,Cuautitlan Izcalli,si,si,no
+23/09/1951,Jaqueline Cinthia Alquicira Navarrete,Ciudad de Mexico,Alvaro Obregon,si,no,no
+1952-23-23,Island Animals SA de CV,Quintana Roo,Isla Mujeres,si,no,no
+1953-14-23,Marbell Camargo Rodriguez,Jalisco,Puerto Vallarta,no,no,si
+1954-15-23,Jose Francisco Cordova Castro,Michoacan,Morelia,si,no,no
+1955-14-23,Elsa Paulina Galvez Gallo,Jalisco,San Pedro Tlaquepaque,si,si,no
+1956-14-23,Ana Cecilia Islas Gutierrez,Jalisco,Zapotlan el Grande,si,si,no
+23/09/1957,Cielo Rincon Sanchez,Ciudad de Mexico,Tlahuac,si,si,si
+23/02/1958,Eduardo de Leon Morales,Baja California,Tijuana,si,no,si
+23/04/1959,Julieta Hernandez Ramirez,Campeche,Escarcega,si,no,no
+1960-18-23,Erasmo Castaneda Zambrano,Nayarit,Tepic,si,no,no
+23/09/1961,Canina Margaret Sas de CV,Ciudad de Mexico,Benito Juarez,si,no,no
+1962-14-23,Adrian Nungaray Nuno,Jalisco,Tlaquepaque,si,no,no
+1963-18-23,Gabriel Martinez Villasenor,Nayarit,Tepic,si,no,no
+1964-18-23,Miguel Antonio Carvajal Hermosillo,Nayarit,Tepic,si,si,si
+1965-14-23,Carolina Martinez Perez,Jalisco,Tlaquepaque,si,no,no
+1966-18-23,Xochitl America Favela Estrada,Nayarit,Tepic,si,no,no
+1967-18-23,Judith Enriqueta Mercado Soto,Nayarit,Tepic,si,no,no
+23/09/1968,Mario Soriano Lopez,Ciudad de Mexico,Iztacalco,si,no,no
+1969-14-23,Nancy Lizeth Covarrubias Lara,Jalisco,San Pedro Tlaquepaque,si,si,si
+1970-23-23,Servicios Integrales Amikoo SA de CV,Quintana Roo,Benito Juarez,si,no,no
+1971-15-23,Gabriela Zepeda Tielve,Mexico,Toluca,si,no,no
+23/09/1972,Vicente Julio Sanchez Robles,Ciudad de Mexico,Benito Juarez,si,si,si
+1973-18-23,Karla Yabet Aguilar Gonzalez,Nayarit,Tepic,si,no,no
+23/09/1974,Jesus Martinez Lobato,Ciudad de Mexico,Benito Juarez,si,no,no
+23/02/1975,Adriana del Rocio Barberena Rovira,Baja California,Tijuana,si,no,no
+1976-14-23,Lilia Lluviana Morelos Luna,Jalisco,Guadalajara,si,si,no
+1977-31-23,Guillermo Alberto Fausto Calderon,Yucatan,Merida,si,no,no
+1978-26-23,Hospital Veterinario Borges Sc,Sonora,Hermosillo,no,no,si
+1979-16-23,Itzia Citlally Mendoza Heredia,Michoacan,Morelia,si,no,si
+23/09/1980,Ricardo Salvador Sanchez Galindo,Ciudad de Mexico,Iztacalco,si,no,no
+23/06/1981,Proveco Pets SA de CV,Colima,Colima,no,no,no
+23/09/1982,Ricardo Cortes Ramos,Ciudad de Mexico,Cuauhtemoc,si,no,si
+1983-28-23,Jose Eduardo Sosa Vega,Tamaulipas,Ciudad Madero,si,no,si
+23/09/1984,Bryan Giovanni Martinez Chavez,Ciudad de Mexico,Iztacalco,si,no,no
+1985-14-23,Sergio Torrecilla Adame,Jalisco,Zapopan,si,si,no
+1986-19-23,Dogsplay Sapi de CV,Nuevo Leon,San Pedro Garza Garcia,si,no,no
+23/09/1987,Just Like Home SA de CV,Ciudad de Mexico,Benito Juarez,si,no,si
+1988-24-23,Jesus Ocampo Almazan,San Luis Potosi,San Luis Potosi,si,no,no
+1989-15-23,Juan Edgar Mendoza Ramirez,Mexico,Toluca,si,no,si
+23/09/1990,Victor Romano 837 SA de CV,Ciudad de Mexico,Cuajimalpa,si,no,si
+1991-18-23,Edmundo Orozco Ramirez,Nayarit,Tepic,si,no,no
+1992-15-23,Andrea Tinajero Garcia Flores,Mexico,Toluca,si,si,si
+1993-15-23,Maria del Pilar Tapia Gonzalez,Mexico,Toluca,si,no,no
+23/09/1994,Industrias Welmex SA de CV,Ciudad de Mexico,Iztacalco,si,no,no
+1995-14-23,Grupo Wawao SA de CV,Jalisco,Puerto Vallarta,si,no,no
+23/05/1996,Sanfer Centro Medico Veterinario SA de CV,Ciudad de Mexico,Tlalpan,si,no,no
+23/09/1997,Edson Naranjo Marquez,Ciudad de Mexico,Alvaro Obregon,si,no,no
+23/09/1998,Irely Ledesma Ramirez,Ciudad de Mexico,Gustavo a Madero,no,no,si
+23/09/1999,Centro Veterinario de Especialidades Neurovet Mexico SA de CV,Ciudad de Mexico,Benito Juarez,no,no,si
+24/09/2000,Juan Daniel Cerda Guerrero,Ciudad de Mexico,Coyoacan,si,no,si
+24/09/2001,Alexandra Alcantara Gonzalez,Ciudad de Mexico,Gustavo a Madero,si,no,no
+24/09/2002,Cemegatos S de Rl de CV,Ciudad de Mexico,Coyoacan,si,no,si
+2003-16-24,Victor Hugo Romero Blancas,Michoacan,Morelia,si,no,no
+24/09/2004,Luis Emmanuel Munoz,Ciudad de Mexico,Gustavo a Madero,si,si,si
+2005-18-24,Tomasito Tirado Rodriguez,Nayarit,Acaponeta,si,no,no
+2006-14-24,Alejandra Munguia Munguia,Jalisco,Tlaquepaque,si,si,no
+24/09/2007,Elizabeth Susana Paredes Alverde,Ciudad de Mexico,Benito Juarez,si,si,si
+24/09/2008,Animal Care Center Hospital SA de CV,Ciudad de Mexico,Benito Juarez,si,si,si
+24/09/2009,Karla Yatzil Leguizamo Valdez,Ciudad de Mexico,Iztacalco,si,si,si
+24/09/2010,Juan Enrique Martinez Martinez,Ciudad de Mexico,Coyoacan,si,si,si
+24/09/2011,Gabriela Laguna Torres,Ciudad de Mexico,Coyoacan,si,si,si
+2012-16-24,Demecio Daniel Diaz Baltazar,Michoacan,Huetamo,si,no,no
+2013-15-24,Jacqueline Garcia Rivera,Mexico,Tlalnepantla de Baz,si,no,si
+2014-15-24,Marlene Irais Romero Galicia,Mexico,Ecatepec,si,no,si
+24/09/2015,Diana Luz Torres Lagunes,Ciudad de Mexico,Gustavo a Madero,no,no,si
+2015-15-24,Isaura Santamaria de la Rosa,Mexico,Naucalpan,si,no,no
+2016-15-24,Silvia de Jesus Vazquez,Mexico,Toluca,si,si,no
+24/09/2017,Maria Patricia Garcia Vargas,Ciudad de Mexico,Azcapotzalco,no,no,si
+24/09/2018,Paulina Aspeitia Cuellar,Mexico,Nezahualcoyotl,no,no,si
+2019-28-24,Talina Alessandria Gossio Hernandez,Tamaulipas,Tampico,si,no,no
+2020-15-24,Jacqueline Marquez Gutierrez,Mexico,Huehuetoca,si,no,no
+24/09/2021,Jose Antonio Gonzalez Gutierrez,Aguascalientes,Aguascalientes,si,no,no
+2022-14-24,Diana Becerril Velazquez,Jalisco,Tonala,si,si,no
+24/09/2023,Jessica Mejia Guzman,Ciudad de Mexico,Benito Juarez,no,no,si
+2024-15-24,Elizabeth Vargas Caballero,Mexico,Tultitlan,si,no,no
+24/09/2025,Luisa Mar Ramirez Novoa,Ciudad de Mexico,Coyoacan,si,si,si
+24/02/2026,Nadia Sofia Velazquez Loaiza,Baja California,Tijuana,si,no,no
+2027-14-24,Ambar Irita Ramirez Sanchez,Jalisco,Tlaquepaque,si,no,no
+2028-15-24,Wendy Alejandra Ramirez Romero,Mexico,Valle de Chalco Solidaridad,si,no,no
+2029-18-24,Aldo Josue Barba Hernandez,Nayarit,Compostela,si,no,no
+24/08/2030,Gabriela Giovanna Gonzalez Mendoza,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+24/09/2031,Miriam Fajardo Jimenez,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+2032-15-24,Diana Temis Arrieta Martinon,Mexico,Chicoloapan,si,no,no
+24/09/2033,Melina Martinez Flores,Ciudad de Mexico,Azcapotzalco,si,si,no
+24/09/2034,Aura Selene Bejarano Padierna,Ciudad de Mexico,Benito Juarez,si,no,no
+24/09/2035,Jacqueline Melgarejo Vega,Ciudad de Mexico,Venustiano Carranza,si,no,no
+24/01/2036,Maria del Socorro Teran Martinez,Aguascalientes,Aguascalientes,si,no,no
+24/09/2037,Geoffrey Daniel Rodriguez Montiel,Ciudad de Mexico,Azcapotzalco,si,no,no
+24/09/2038,Itzel Santana Escalona,Ciudad de Mexico,Gustavo a Madero,si,si,no
+2039-31-24,Servicios Veterinarios Premium SA de CV,Yucatan,Merida,si,no,si
+2040-28-24,Cesar Eduardo Cruz Reyes,Tamaulipas,Ciudad Madero,si,no,no
+24/09/2041,Enrique Rafael Martinez Rojo,Ciudad de Mexico,Iztacalco,si,no,no
+2042-31-24,Luis Khrystian Martinez Moreno,Yucatan,Merida,si,no,no
+2043-15-24,Ramon Elso Acasuso Signoret,Mexico,Huixquilucan,si,no,no
+2044-15-24,Julio Vera de Leon,Mexico,Nezahualcoyotl,si,no,no
+24/08/2045,Omar Eli Hernandez Sigala,Chihuahua,Chihuahua,si,no,si
+2046-19-24,Sandra Cecilia Esparza Perales,Nuevo Leon,Guadalupe,si,no,no
+2047-14-24,Gustavo Flores Orozco,Jalisco,La Huerta,si,no,si
+24/09/2048,Sofia Aurora Mejia Carreon,Ciudad de Mexico,Coyoacan,si,si,no
+24/09/2049,Cesar Estrada Sieck,Ciudad de Mexico,Benito Juarez,no,no,si
+2050-14-24,Mauricio Quiroz Barba,Jalisco,Guadalajara,si,no,no
+2051-15-24,Jose Amauri Toledo Castillejos,Mexico,Naucalpan,si,no,no
+24/09/2052,Bertha Jazmin Najera Gomez,Ciudad de Mexico,Iztacalco,si,no,no
+24/09/2053,Hospital Mumbii Sc,Ciudad de Mexico,Cuajimalpa,si,no,no
+2054-21-24,Paola Montes Garcia,Puebla,Puebla,si,no,no
+2055-23-24,Fernando de Jesus Perez Castillo,Quintana Roo,Solidaridad,si,si,no
+2056-18-24,Fernando Joaquin Castillero Corona,Nayarit,Tepic,si,si,no
+24/09/2057,Fernando Hernandez Leon,Ciudad de Mexico,Coyoacan,si,si,si
+24/09/2059,Hospivet del Valle S de Rl de CV,Ciudad de Mexico,Benito Juarez,si,si,si
+2060-23-24,Edgar Ivan Avila Carrillo,Quintana Roo,Cancun,si,si,no
+2061-15-24,Arely Hernandez Velazquez,Mexico,Texcoco,si,si,no
+24/09/2062,Cesar Christian Tadeo Gonzalez Pacheco,Ciudad de Mexico,Tlalpan,si,si,no
+2063-15-24,Clinica Veterinaria del Bosque Sc,Mexico,Naucalpan,si,si,si
+2064-16-24,Martin Diego Basilio Rios,Michoacan,Patzcuaro,si,no,no
+24/05/2065,Brhadaranyakopanishadvivekachudamani Errehmunoz Castillo,Coahuila,Saltillo,si,si,no
+2066-31-24,Servicios Hospitalarios Veterinarios de Yucatan Sociedad de Responsabilidad Limitada de Capital Variable,Yucatan,Merida,si,si,si
+2067-16-24,Jorge Antonio Alonzo Correa,Michoacan,Morelia,si,no,no
+2068-15-24,Esto Junto a Ti Siempre SA de CV,Mexico,Nezahualcoyotl,si,si,no
+24/02/2069,Rec Pets Sas,Baja California,Tijuana,si,si,si
+24/02/2070,Luisa Esmeralda del Rio Rodriguez,Baja California,Tijuana,si,no,no
+24/09/2071,Guillermo Saucillo Maya,Ciudad de Mexico,Benito Juarez,si,no,no
+2072-23-24,Jorge Arturo Dzul Leon,Quintana Roo,Benito Juarez,si,no,no
+2073-15-24,Gildardo Torres Fuentes,Mexico,Nezahualcoyotl,si,no,no
+24/09/2074,Leonardo Perez Perez,Ciudad de Mexico,Iztacalco,si,no,no
+2075-15-24,Juan Carlos Bermudez Jimenez,Mexico,Toluca,si,no,si
+2076-15-24,Chiens SA de CV,Mexico,Zinacantepec,si,si,si
+24/09/2077,Alejandro Antares Garcia Ramirez,Ciudad de Mexico,Alvaro Obregon,si,no,si
+24/09/2078,Maria Alejandra Segura Patino,Ciudad de Mexico,Iztacalco,no,no,si
+2079-13-24,Jose Manuel Costeira Navarrete,Hidalgo,Benito Juarez,si,si,si
+24/09/2080,Carlos Renato Huidobro Gonzalez,Ciudad de Mexico,Benito Juarez,si,si,no
+24/02/2081,Susana Lizbeth Rios Jacinto,Baja California,Tijuana,si,no,no
+24/09/2082,Ricardo Edgar Argueta Mejia,Ciudad de Mexico,San Bartolo Ameyalco,si,no,no
+2083-19-24,Andrea Alejandra Espinosa Martinez,Nuevo Leon,San Pedro Garza Garcia,si,si,si
+24/09/2084,Humane Society International Mexico Ac,Ciudad de Mexico,Cuauhtemoc,si,no,no
+24/10/2085,Claudia Macias Ramirez,Durango,Lerdo,si,si,no
+24/09/2086,Karla Alejandra Ortega Montes de Oca,Ciudad de Mexico,Xochimilco,si,si,no
+24/09/2087,Javier Eduardo Arredondo Lozano,Ciudad de Mexico,Venustiano Carranza,si,no,si
+24/09/2088,Luis Miguel Argueta Morales,Ciudad de Mexico,Benito Juarez,si,no,no
+2089-14-24,Jesus Omar Lucio Ruelas,Jalisco,Tlaquepaque,si,no,no
+2090-15-24,Susana Navarrete Gonzalez,Mexico,Tlalnepantla de Baz,si,no,no
+24/09/2091,Carla Gabriela Panecatl Urquiza,Ciudad de Mexico,Coyoacan,si,no,no
+24/03/2092,Rosa Amelia Lopez Ramirez,Baja California,Tijuana,si,no,no
+24/09/2093,Miguel Angel Servin Trujillo,Ciudad de Mexico,Venustiano Carranza,si,si,si
+24/08/2094,Janet Alejandra Sigala Sanchez,Chihuahua,Chihuahua,si,si,si
+24/09/2095,Hugo Gonzalez Velez,Ciudad de Mexico,Venustiano Carranza,no,no,si
+2096-19-24,Thania Patricia Tamez Villarreal,Nuevo Leon,Monterrey,si,no,no
+2097-23-24,Jose Roberto Hernandez Campos,Quintana Roo,Benito Juarez,si,no,no
+2098-15-24,Isidoro Altaled Shueke,Mexico,Huixquilucan,si,si,no
+2099-14-24,Andrea Lizeth Garcia Barragan,Jalisco,Tlaquepaque,si,no,no
+24/09/2100,Eduardo Israel Ornelas Gonzalez,Ciudad de Mexico,Gustavo a Madero,si,no,no
+24/09/2101,Ayde Sanchez Gutierrez,Ciudad de Mexico,Iztapalapa,no,no,si
+24/09/2102,Jose Raul Salazar Bailon,Ciudad de Mexico,Benito Juarez,si,si,no
+24/08/2103,Sandra Judith Acosta Ramos,Chihuahua,Chihuahua,si,no,no
+24/09/2104,Smolly Veterinaria Sas de CV,Ciudad de Mexico,Azcapotzalco,si,si,no
+2105-19-24,Maria Cristina Trejo Garcia,Nuevo Leon,San Nicolas de Los Garza,no,no,si
+2106-31-24,Survet Scp,Yucatan,Merida,si,no,no
+24/09/2107,Huvivet Sas de CV,Ciudad de Mexico,Venustiano Carranza,si,no,no
+2108-21-24,Miguel Angel Lopez Gonzalez,Puebla,Puebla,si,no,no
+24/09/2109,Armando de la Torre Hernandez,Ciudad de Mexico,Tlalpan,si,no,no
+2110-15-24,Daniela Avendano Lasso,Mexico,Zinacantepec,si,no,no
+24/10/2111,Gustavo Alfonso Vazquez Garcia,Durango,Gomez Palacio,si,no,no
+2112-30-24,Rufino Morales Trujillo,Veracruz,Nimatitlan,si,no,no
+24/09/2113,Cyntia Lorena Adaya Tenorio,Ciudad de Mexico,Benito Juarez,si,no,no
+24/09/2114,Ana Cecilia Mendoza Reyes,Ciudad de Mexico,Iztacalco,si,no,no
+2115-30-24,Barbara Ybarra Martinez,Veracruz,Emiliano Zapata,si,no,no
+2116-19-24,Andrea Cavazos Fernandez,Nuevo Leon,Guadalupe,si,no,no
+24/09/2117,Luis Enrique de Los Reyes Perez Coronado,Ciudad de Mexico,Cuajimalpa,si,no,no
+2118-21-24,Claudia Teresa Rios Cervantes,Puebla,Puebla,si,no,si
+24/09/2119,Hospital Veterinario Pet'S Health Sc,Ciudad de Mexico,Alvaro Obregon,si,si,si
+2120-24-24,Paulina Rios Salinas,San Luis Potosi,San Luis Potosi,si,no,no
+24/09/2121,Irasema Aguayo Reyes,Ciudad de Mexico,Tlalpan,si,no,si
+2122-14-24,Eratzeni Pireni Hernandez Rivera,Jalisco,Tlajomulco de Zuniga,si,no,no
+24/09/2123,Alejandro Alvarado Cruz,Ciudad de Mexico,Iztacalco,si,no,no
+2124-15-24,Miguel Maqueda Hernandez,Mexico,Chalco,si,no,no
+24/09/2125,Mary Carmen Arroyo Wong,Ciudad de Mexico,Benito Juarez,si,si,no
+24/09/2126,Juan Carlos Archundia Dominguez,Ciudad de Mexico,Tlalpan,si,no,si
+2127-19-24,Luis Alberto Meza Garcia,Nuevo Leon,Monterrey,si,no,no
+24/09/2128,Lmvet´S Clinica Veterinaria SA de CV,Ciudad de Mexico,Alvaro Obregon,si,no,no
+2129-14-24,Cynthia del Carmen Zarazua Gonzalez,Jalisco,Zapopan,si,no,no
+2130-14-24,Laura Medina Gomez,Jalisco,Chapala,si,no,no
+24/09/2131,Yolanda Isela Silva de Leon,Ciudad de Mexico,Benito Juarez,si,no,no
+2132-18-24,Jose Juan Rodriguez Gomez,Nayarit,Tepic,si,si,si
+24/09/2133,Luvia Romero Perez,Ciudad de Mexico,Benito Juarez,si,no,no
+24/09/2134,Eric Gonzalez Flores,Ciudad de Mexico,Tlalpan,si,si,no
+2135-15-24,Paola Isabel Gonzalez Sanchez,Mexico,Naucalpan,si,no,no
+24/09/2136,Adrian Emmanuel Iglesias Reyes,Ciudad de Mexico,Gustavo a Madero,si,no,no
+24/09/2137,Beatriz Gabriela Gallardo Pacheco,Ciudad de Mexico,Coyoacan,si,no,no
+2138-15-24,Jose Alejandro Razo Mendoza,Mexico,Huixquilucan,si,no,no
+24/09/2139,Karina Beatriz Castro Barrios,Ciudad de Mexico,Tlalpan,si,si,no
+24/09/2140,Veterinarias Plus Clinica Alamos S de Rl de CV,Ciudad de Mexico,Cuauhtemoc,si,no,no
+24/02/2141,Xoxaf Sociedad de Responsabilidad Limitada de Capital Variable,Baja California,Tijuana,si,si,si
+24/09/2142,Juan Antonio Francisco Rojas Vazquez,Ciudad de Mexico,Benito Juarez,si,no,no
+2143-24-24,Pablo Daniel Lopez Derreza,San Luis Potosi,San Luis Potosi,si,no,no
+2144-24-24,Jose Domingo Viramontes Azua,San Luis Potosi,Soledad de Graciano Sanchez,si,no,no
+24/09/2145,Juan Manuel Torres Lopez,Ciudad de Mexico,Azcapotzalco,si,no,no
+2146-15-24,Guillermo Perez Huerta,Mexico,Ecatepec,si,no,no
+2147-15-24,Lizbeth Trinidad Guerrero,Mexico,Atizapan de Zaragoza,si,no,no
+2148-19-24,Juan Carlos Muniz Guerra,Nuevo Leon,Monterrey,si,si,si
+2149-16-24,Nora Guadalupe Tapia Perez,Michoacan,Morelia,si,no,no
+24/09/2150,Erika Paola Jimenez Molotla,Ciudad de Mexico,Xochimilco,si,si,si
+2151-14-24,Miguel Angel Dominguez Galvez,Jalisco,Tlaquepaque,si,no,no
+2152-15-24,Tgh Dogs y Spa S de Rl de CV,Mexico,Naucalpan,si,no,no
+2153-13-24,Cute Pet Veterinaria y Estetica Canina Sas de CV,Hidalgo,Benito Juarez,si,no,no
+2154-19-24,Just Ruffus Mty SA de CV,Nuevo Leon,Santa Catarina,si,no,si
+24/03/2155,Mauricio Antonio Ritchie Cesena,Baja California Sur,Los Cabos,si,si,si
+2156-19-24,Ruffus Cervantino SA de CV,Nuevo Leon,Santa Catarina,si,no,si
+24/09/2157,Raquel Ortiz Bautista,Ciudad de Mexico,Miguel Hidalgo,si,no,no
+2158-14-24,Iveth Priscilla Flores Sandoval,Jalisco,Tlaquepaque,si,si,no
+2159-28-24,Hilda Patricia Rodriguez Esquivel,Tamaulipas,Reynosa,si,no,no
+24/09/2160,Demetrio Grau Mendoza,Ciudad de Mexico,Alvaro Obregon,si,no,no
+2161-22-24,Pet Vet San Miguel Sc,Guanajuato,San Miguel de Allende,si,no,no
+2162-18-24,Mariana Mena Alcantar,Nayarit,Tepic,si,no,no
+24/09/2163,Ana Maria Otamendi Fernandez,Ciudad de Mexico,Benito Juarez,si,no,si
+2164-14-24,Cesar Alejandro Cruz Serrano,Jalisco,Zapopan,si,no,no
+2165-26-24,Lydia Janeth Rodriguez Miranda,Sonora,Agua Prieta,si,no,no
+2166-26-24,Javier Alejandro Campoy Bencomo,Sonora,Hermosillo,si,no,no
+24/08/2167,Mayela Guzman Peralta,Chihuahua,Juarez,si,no,no
+24/01/2168,Municipio Aguascalientes,Aguascalientes,Aguascalientes,no,no,si
+24/02/2169,Herlendi Lopez Morales,Baja California,Tijuana,si,no,no
+24/05/2170,Ricardo Alejandro Salas Rodriguez,Coahuila,Torreon,si,no,no
+2171-21-24,Blanca Iliana Olivera Rendon,Puebla,Puebla,si,si,no
+2172-16-24,Arlen Natalia Nava Resendiz,Michoacan,Morelia,si,no,no
+24/09/2173,Protectora Nacional de Animales Asociacion Civil,Ciudad de Mexico,Benito Juarez,no,no,si
+24/09/2174,Alejandro Paolo Macias Olguin,Ciudad de Mexico,Iztacalco,si,no,no
+24/09/2175,Jeorgina Sanchez Mendoza,Ciudad de Mexico,Magdalena Contreras,si,no,no
+24/09/2176,Angelina Gutierrez Barroso,Ciudad de Mexico,Tlalpan,si,no,no
+2177-15-24,Calidad Medica Veterinaria Japomenu Sas de CV,Mexico,Naucalpan,si,si,no
+2178-24-24,Fabiola Sierra Schekaiban,San Luis Potosi,San Luis Potosi,si,no,no
+24/09/2179,Daniel Eduardo Santana Malvaez,Ciudad de Mexico,Alvaro Obregon,si,no,no
+24/09/2180,Jose Luis Ixta Arcos,Ciudad de Mexico,Benito Juarez,si,si,si
+2181-23-24,Jose Alberto Olaf Gien Navarrete,Quintana Roo,Benito Juarez,si,no,no
+2182-31-24,Danila de Jesus Ruiz Castillo,Yucatan,Merida,si,no,si
+2183-24-24,Animalcity Vet SA de CV,San Luis Potosi,San Luis Potosi,si,no,si
+24/09/2184,Hospital Veterinario Vip de Pequenas Especies SA de CV,Ciudad de Mexico,Gustavo a Madero,no,no,si
+24/09/2185,Karina Adriana Montoya Ayala,Ciudad de Mexico,Benito Juarez,si,no,no
+2186-15-24,Victor Bejar Gonzalez,Mexico,Acolman,si,si,si
+2187-24-24,Abiud Arturo Esli Ibarra Ramos,San Luis Potosi,San Luis Potosi,si,no,no
+24/09/2188,Silverio Samuel Sandoval Vazquez,Ciudad de Mexico,Coyoacan,si,no,no
+2189-16-24,Jose Gerardo Ortiz Villanueva,Michoacan,Morelia,si,no,no
+2190-28-24,Belen Guevara Castro,Tamaulipas,Ciudad Madero,si,no,no
+2191-28-24,Fryam Fundacion de Rescate y Adopcion de Mascotas Ac,Tamaulipas,Reynosa,si,no,si
+2192-15-24,Argelia Avila Herrera,Mexico,Tecamac,si,no,no
+2193-26-24,Servicios Veterinarios de Sonora Animal Home Sas de CV,Sonora,Hermosillo,si,no,no
+24/09/2194,Diego Alonso Hernandez Cannavino,Ciudad de Mexico,Coyoacan,si,no,si
+2195-31-24,Dorita Diaz Canto,Yucatan,Merida,si,no,no
+24/09/2196,Cuauhtemoc Garcia Rodriguez,Ciudad de Mexico,Cuauhtemoc,si,no,no
+24/09/2197,Veronica de la Cruz Cabrera Cabello,Ciudad de Mexico,Benito Juarez,si,no,no
+2198-24-24,Laura Guadalupe Rodriguez Padron,San Luis Potosi,San Luis Potosi,si,no,no
+2199-23-24,Pablo Rojo Mendoza,Quintana Roo,Benito Juarez,si,no,no
+2200-14-24,Luz Elena Tadeo Aguirre,Jalisco,Zapopan,si,no,no
+2201-15-24,Sebastian Garcia Iglesias,Mexico,Chalco,si,no,si
+24/09/2202,Ariana Yatzitl Martinez Cupil,Ciudad de Mexico,Tlahuac,si,si,no
+2203-14-24,Ricardo Medina Bugarin,Jalisco,Zapopan,si,no,no
+2204-15-24,Aremi Claudia Lujano Guzman,Mexico,Nezahualcoyotl,si,no,no
+2205-18-24,The Third Wave Sociedad Anonima de Capital Variable,Nayarit,Bahia de Banderas,si,no,no
+24/09/2206,Natalia Palestino Pamplona,Ciudad de Mexico,Benito Juarez,si,no,no
+2207-15-24,Maria Eugenia Sanchez Zarate,Mexico,Chimalhuacan,no,no,si
+2208-19-25,Dinorah Mabel Salinas Aranda,Nuevo Leon,Monterrey,si,no,no
+2209-16-25,Oscar Ivan Sanchez Cruz,Michoacan,Morelia,si,no,no
+25/09/2210,Marco Antonio Montes Mota,Ciudad de Mexico,Coyoacan,si,no,si
+2211-14-25,Ninfa Victoria Pedroza Uribe,Jalisco,Guadalajara,si,no,no
+2212-22-25,Pamela Lopez Mandujano,Queretaro,Corregidora,si,no,no
+2213-26-25,Claudia Martinez Villasenor,Sonora,Hermosillo,si,no,no
+2214-24-25,Andrea Radoux Ojeda,San Luis Potosi,San Luis Potosi,si,no,no
+25/02/2215,Adolfo Molina Angulo,Baja California,Tijuana,si,no,no
+25/02/2216,Sandra Amador Ramirez,Baja California,Mineral de la Reforma,si,no,si
+2217-15-25,Elia Lucero Molina Zagal,Mexico,Ecatepec,si,no,si
+25/11/2218,Berenice Gomez Velazquez,Guanajuato,Leon,si,no,no
+25/09/2219,Paloma Blanca Zumaya Portilla,Ciudad de Mexico,Coyoacan,si,no,no
+25/09/2220,Minerva Reynoso Reyes,Ciudad de Mexico,Venustiano Carranza,si,no,no
+25/09/2221,Cesar Flores Gonzalez,Ciudad de Mexico,Gustavo a Madero,si,si,np
+2222-14-25,Luis Edmundo Maciel Saldierna,Jalisco,Chapala,si,no,no
+25/09/2223,Victor Manuel Loera Cabeza de Vaca,Ciudad de Mexico,Benito Juarez,si,no,si
+25/02/2224,Helene Aurelia Morales Diaz,Baja California,Tijuana,si,no,si
+2225-26-25,Sergio Miguel Garcia Moreno,Sonora,San Luis Rio Colorado,si,no,si
+25/09/2226,Hospital de Especialidades Veterinarias Acova Sc,Ciudad de Mexico,Gustavo a Madero,si,no,si
+25/09/2227,Hospital Veterinario Balbuena Sas de CV,Ciudad de Mexico,Venustiano Carranza,no,no,si
+2228-19-25,Juan Gerardo Cervantes Vargas,Nuevo Leon,Santa Catarina,no,no,si
+2229-15-25,Maria Alejandra Villegas Hernandez,Mexico,Metepec,si,no,no
+2230-15-25,Ap C&S SA de CV,Mexico,Metepec,no,no,si
+2231-15-25,Alejandro Gonzalez Hernandez,Mexico,Tlalnepantla de Baz,si,no,no
+2232-14-25,Veterinarias Md S de Rl de CV,Jalisco,Zapopan,si,no,no
+2233-24-25,Claudia Angelica Jimenez Ibanez,San Luis Potosi,San Luis Potosi,si,no,no
+25/09/2234,Brenda Esmeralda Sandoval Tellez,Ciudad de Mexico,Coyoacan,si,no,no
+2235-15-25,Diego Almazan Avina,Mexico,Metepec,si,no,no
+2236-18-25,Jorge Enrique Aldana Razo,Nayarit,Bahia de Banderas,si,no,no
+2237-15-25,Catalina Patino Holguin,Mexico,Toluca,si,si,si
+25/09/2238,Edna Esther Barcenas Granados,Ciudad de Mexico,Coyoacan,si,no,no
+2239-19-25,Aracely Alejandra Zamarripa Cobos,Nuevo Leon,San Nicolas de Los Garza,si,no,no
+2240-14-25,Norma Liliana Rangel Hernandez,Jalisco,Zapopan,si,si,no
+25/09/2241,Evelin Hernandez Mendez,Ciudad de Mexico,Gustavo a Madero,si,no,no
+2242-19-25,Ricardo Palomo Garza,Nuevo Leon,Guadalupe,si,no,no
+2243-28-25,Brigida Segura Romero,Tamaulipas,Reynosa,si,no,no
+2244-16-25,Alejandro Garcia Loera,Michoacan,Uruapan,si,no,no
+2245-19-25,Arturo Casas Martinez,Nuevo Leon,Apodaca,si,no,no
+2246-15-25,Ana Cecilia Mariscal Danglot,Mexico,Naucalpan,si,no,no
+2247-15-25,Alinee Balkis Pasquel Huerta,Mexico,Coacalco de Berriozabal,si,no,no
+25/09/2248,Rafael Villalobos Penalosa,Ciudad de Mexico,Benito Juarez,si,no,no
+25/05/2249,Alfredo Guillermo Wallace Encinas,Coahuila,Saltillo,si,no,no
+2250-19-25,Brenda Lizeth Tolentino Aros,Nuevo Leon,Monterrey,si,no,no
+25/09/2251,Hector Armando Luna Hernandez,Ciudad de Mexico,Azcapotzalco,si,si,si
+2252-19-25,Cecilia Alejandra Gonzalez Luna,Nuevo Leon,Monterrey,si,si,no
+2253-19-25,Martha Raquel Campos Rivera,Sinaloa,Culiacan,si,no,si
+2254-31-25,Luis Manuel Rios Farfan,Yucatan,Merida,si,no,si
+25/09/2255,Cuidados Veterinarios Integrales Para el Bienestar de Animales de Compania SA de CV,Ciudad de Mexico,Coyoacan,si,no,si
+25/09/2256,Adrian Alberto Zuniga Palacios,Ciudad de Mexico,Benito Juarez,si,no,no
+25/09/2257,Maria del Carmen Portillo Gonzalez,Ciudad de Mexico,Benito Juarez,si,no,no
+2258-19-25,Viviana Yuritzi Heredia Plaza,Nuevo Leon,Garcia,si,no,no
+2259-15-25,Veteri-Zone Grupo Veterinario S C,Mexico,Naucalpan,si,no,si
+25/10/2260,Daniela Fernanda Berumen Frias,Durango,Gomez Palacio,si,no,si
+25/09/2261,Zayra Pilar Medina Sanchez,Sin dato,Sin dato,si,no,no
+25/01/2262,Grupo Hospetalia de Ags SA de CV,Aguascalientes,Aguascalientes,no,no,si
+25/09/2263,Heidy Ortiz Pohlenz,Ciudad de Mexico,Cuauhtemoc,si,no,no
+2264-09-25*,El Pata de Perro Mm Sas de CV,Ciudad de Mexico,Venustiano Carranza,si,no,si
+2265-18-25,Gabriela Delgado Pena,Nayarit,Tepic,si,no,no
+25/02/2266,Alba Rocio Zavala Moya,Baja California,Mexicali,si,no,no
+25/09/2267,The Guardian Veterinarian Hospital SA de CV,Ciudad de Mexico,Alvaro Obregon,no,si,si
+25/09/2268,Jesus de la Mora Medina,Ciudad de Mexico,Iztapalapa,si,si,si
+2269-21-25,Edgar Eliosa Rodriguez,Puebla,Puebla,si,si,si
+2270-28-25,Rene Garcia Cruz,Tamaulipas,Ciudad Madero,si,no,si
+25/01/2271,Franquicias Barber Dog SA de CV,Aguascalientes,Aguascalientes,si,no,no
+2272-21-25,Hugo Daniel Hernandez Flores,Puebla,San Andres Cholula,si,no,no
+2273-15-25,Jaciel Isaac Hernandez Castillo,Mexico,Nezahualcoyotl,si,no,si
+2274-19-25,Jose Gerardo Hernandez Alanis,Nuevo Leon,Monterrey,si,no,no
+2275-19-25,Veterinaria Pets Mas Bet SA de CV,Nuevo Leon,Apodaca,si,no,no
+25/09/2276,Jorge Octavio Sanchez Villa,Ciudad de Mexico,Cuajimalpa,si,no,no
+2277-31-25,Julio Jose Basulto Poot,Yucatan,Merida,si,no,no
+25/09/2278,Ursula Aline Lucas Navia,Ciudad de Mexico,Cuauhtemoc,si,no,no
+2279-15-25,Luis Francisco Canas Granados,Mexico,Coacalco de Berriozabal,si,no,si
+2280-14-25,Ana Cristina Solis Aguirre,Jalisco,Zapopan,si,no,si
+25/09/2281,Sergio Simonin Borrajo,Ciudad de Mexico,Cuauhtemoc,si,no,si
+2282-14-25,Elva Angelica Almanza Guzman,Jalisco,Tlajomulco de Zuniga,si,no,no
+25/09/2283,Petit Petcare Center SA de CV,Ciudad de Mexico,Magdalena Contreras,no,no,si
+2284-24-25,Alejandro Villela Reyes,San Luis Potosi,San Luis Potosi,si,no,no
+25/02/2285,Reynaldo Mendez Rivas,Baja California,Tijuana,no,no,si
+2286-15-25,Abraham Espana Soto,Mexico,Tecamac,no,no,si
+25/09/2287,Rosa Maria Vazquez Alfaro,Ciudad de Mexico,Gustavo a Madero,no,no,si
+25/09/2288,Hospitales Veterinarios San Patricio SA de CV,Ciudad de Mexico,Benito Juarez,no,no,si
+25/09/2289,Maria Fernanda Briseno Cuevas,Ciudad de Mexico,Alvaro Obregon,si,no,no
+25/09/2290,Miguel Angel Lopez Garza,Ciudad de Mexico,Coyoacan,si,no,si
+25/09/2291,Dianina Lopez Leon,Ciudad de Mexico,Alvaro Obregon,si,no,no
+25/12/2292,Celestina Alejandra Gallangos Cruz,Guerrero,Acapulco de Juarez,si,no,no
+2293-24-25,Jose de Jesus Martin del Campo Soto,San Luis Potosi,San Luis Potosi,si,no,si
+25/09/2294,Erika del Carmen Valdivieso Meza,Ciudad de Mexico,Tlahuac,si,no,si
