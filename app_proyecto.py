@@ -4,7 +4,7 @@ import plotly.express as px
 import streamlit as st
 
 #carga de datos
-df= pd.read_csv('C:/Users/alexa/OneDrive/Desktop/clinicas_hospitales_vet.csv')
+df= pd.read_csv('https://github.com/Aceves2310/proyecto_7/blob/main/clinicas_hospitales_vet.csv')
 
 # Titulo
 st.header('Hospitales y clinicas veterinarias en México', divider = "gray")
@@ -140,3 +140,4 @@ if st.button(' Mostrar histograma'):
         bargap=0.2
     )
     st.plotly_chart(fig)
+
